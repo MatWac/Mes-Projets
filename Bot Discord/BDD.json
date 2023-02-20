@@ -1,0 +1,5045 @@
+{
+      "questions":  [
+      {
+        "id": 1,
+        "question": "Comment appelle-t-on l'ensemble des sensations olfactives procurées par le vin ?",
+        "propositions": [
+          "Le bouquet",
+          "Le nez",
+          "La robe",
+          "La texture"
+        ],
+        "réponse": "Le bouquet",
+        "anecdote": "Le terme « bouquet » est exclusivement réservé aux parfums issus du vieillissement en bouteille dits secondaires ou tertiaires."
+      },
+      {
+        "id": 2,
+        "question": "Par quel fleuve la région de Saint-Émilion et ses nombreux coteaux est-elle arrosée ?",
+        "propositions": [
+          "La Garonne",
+          "La Dordogne",
+          "Le Rhin",
+          "La Meuse"
+        ],
+        "réponse": "La Dordogne",
+        "anecdote": "Site touristique de premier plan, Saint-Émilion possède une importante parure monumentale qui se décline au gré des ruelles."
+      },
+      {
+        "id": 3,
+        "question": "Quel pays d'Amérique latine au drapeau bleu et blanc possède le plus grand vignoble ?",
+        "propositions": [
+          "Le Chili",
+          "L'Argentine",
+          "Le Pérou",
+          "La Colombie"
+        ],
+        "réponse": "L'Argentine",
+        "anecdote": "Les vignes en hautains, sur espaliers ou en gobelets furent les trois méthodes les plus utilisées en viticulture dès 1561."
+      },
+      {
+        "id": 4,
+        "question": "Qu'est en fait le phylloxéra, qui a ravagé presque tous les vignobles du monde ?",
+        "propositions": [
+          "Plante",
+          "Puceron",
+          "Bactérie",
+          "Champignon"
+        ],
+        "réponse": "Puceron",
+        "anecdote": "En France, la maladie fut observée pour la première fois vers 1863 sur le plateau de Pujaut près Roquemaure, dans le Gard."
+      },
+      {
+        "id": 5,
+        "question": "De quel cépage provient le chablis, vin blanc sec français d'appellation d'origine contrôlée ?",
+        "propositions": [
+          "Du sauvignon",
+          "Du cabernet",
+          "Du Chardonnay",
+          "Du pinot blanc"
+        ],
+        "réponse": "Du Chardonnay",
+        "anecdote": "Il s'agit de la principale appellation en volume du vignoble de Chablis, avec le petit-chablis et le chablis grand cru."
+      },
+      {
+        "id": 6,
+        "question": "Quel verbe utilise-t-on lorsque l'on souhaite mettre un vin dans la glace pour le refroidir ?",
+        "propositions": [
+          "Glacer",
+          "Couper",
+          "Frapper",
+          "Tirer"
+        ],
+        "réponse": "Frapper",
+        "anecdote": "Pour beaucoup, frappé a le sens de rafraîchir ce qui est une erreur car un vin est frappé lorsqu'il est frappé de glace."
+      },
+      {
+        "id": 7,
+        "question": "Pour les protéger de quels prédateurs plantait-on autrefois des roses à  l'entrée des vignobles ?",
+        "propositions": [
+          "Des pucerons",
+          "Des fourmis",
+          "Des araignées",
+          "Des abeilles"
+        ],
+        "réponse": "Des pucerons",
+        "anecdote": "Le Phylloxéra est un minuscule insecte piqueur inféodé à  la vigne, apparenté aux pucerons."
+      },
+      {
+        "id": 8,
+        "question": "Au Moyen à‚ge, qu'employait-on comme antiseptique pour panser les blessures ?",
+        "propositions": [
+          "Du vin",
+          "Du miel",
+          "Du beurre",
+          "Du sucre"
+        ],
+        "réponse": "Du vin",
+        "anecdote": "Un centimètre cube de vin tue 99 % des bacilles typhiques et des microbes du choléra dans une quantité égale à  la culture."
+      },
+      {
+        "id": 9,
+        "question": "Parmi ces Saints, lequel ne porte pas le nom d'un cru viticole ou d'un grand vignoble ?",
+        "propositions": [
+          "St Julien",
+          "St Raphael",
+          "St Amour",
+          "St Aubin"
+        ],
+        "réponse": "St Raphael",
+        "anecdote": "Le Saint-Raphaà«l est un apéritif à  base de mélange de mistelle rouge ou blanche et de plantes aromatiques."
+      },
+      {
+        "id": 10,
+        "question": "A quel dieu égyptien attribue-t-on le fait d'avoir planté la vigne sur les bords du Nil ?",
+        "propositions": [
+          "Osiris",
+          "Amon",
+          "Rà",
+          "Thot"
+        ],
+        "réponse": "Osiris",
+        "anecdote": "Osiris, fils du Ciel et de la Terre, était surnommé « Le Maître de la Vigne en Fleurs »."
+      },
+      {
+        "id": 11,
+        "question": "Le Chénas est une appellation d'origine contrôlée de quelle grande région viticole ?",
+        "propositions": [
+          "De Bourgogne",
+          "Du Jura",
+          "Du Châlonnais",
+          "Du Beaujolais"
+        ],
+        "réponse": "Du Beaujolais",
+        "anecdote": "L'appellation est située à  cheval sur les départements du Rhône et de Saône-et-Loire, au nord du vignoble du Beaujolais."
+      },
+      {
+        "id": 12,
+        "question": "Selon les écrits, quel peuple cultiva pour la première fois la vigne en France ?",
+        "propositions": [
+          "Les Romains",
+          "Les Grecs",
+          "Les Burgondes",
+          "Les Gaulois"
+        ],
+        "réponse": "Les Grecs",
+        "anecdote": "Les Grecs, aux alentours de Marseille. Les Romains l'ont ensuite propagé au cours de leurs conquàªtes."
+      },
+      {
+        "id": 13,
+        "question": "Comment désigne-t-on un vin qui peut se garder longtemps et qui demande à  vieillir ?",
+        "propositions": [
+          "élixir",
+          "Vin de garde",
+          "Échanson",
+          "Graves"
+        ],
+        "réponse": "Vin de garde",
+        "anecdote": "Les vins de garde ne doivent pas se boire trop jeunes et doivent subir une période de maturation de l'ordre de trois à  cinq ans."
+      },
+      {
+        "id": 14,
+        "question": "Le pineau des Charentes doit obligatoirement tirer entre 16° et combien de degrés ?",
+        "propositions": [
+          "20°",
+          "24°",
+          "22°",
+          "18°"
+        ],
+        "réponse": "22°",
+        "anecdote": "Il est à  noter que 75% de la production du pineau des Charentes est consommée en France."
+      },
+      {
+        "id": 15,
+        "question": "Le pouilly-fuissé est un vin blanc issu d'un seul cépage, mais lequel ?",
+        "propositions": [
+          "Le Chardonnay",
+          "Le Chemin Blanc",
+          "Le Sauvignon",
+          "Le Sémillon"
+        ],
+        "réponse": "Le Chardonnay",
+        "anecdote": "Les terroirs du pouilly-fuissé sont de constitution majoritairement argilo-calcaire (Jurassique de l'ère secondaire)."
+      },
+      {
+        "id": 16,
+        "question": "Quel appareil permet de mesurer le taux d'alcool d'un vin ?",
+        "propositions": [
+          "Un alcootest",
+          "Un ébullioscope",
+          "Un oenolitre",
+          "Un barrica"
+        ],
+        "réponse": "Un ébullioscope",
+        "anecdote": "Puisque l'alcool bout à  78° et l'eau à  100°, l'ébullioscope permet de mesurer la quantité d'alcool contenue dans une boisson alcoolisée."
+      },
+      {
+        "id": 17,
+        "question": "Dans quel local la vinification est-elle généralement pratiquée ?",
+        "propositions": [
+          "Le cuvier",
+          "Le cellier",
+          "Le pommard",
+          "Le chai"
+        ],
+        "réponse": "Le cuvier",
+        "anecdote": "C'est dans le cuvier que s'effectue la vinification et par extension le stockage en cuve des vins en cours d'élevage."
+      },
+      {
+        "id": 18,
+        "question": "Idéalement, quel vin convient le mieux aux artichauts à  la poivrade, spécialité provençale ?",
+        "propositions": [
+          "Le blanc",
+          "Le blanc pétillant",
+          "Le rosé",
+          "Le rouge"
+        ],
+        "réponse": "Le rosé",
+        "anecdote": "Le violet de Provence peut se manger cru quand il est jeune (poivrade); cru ou cuit, il se déguste notamment en salade."
+      },
+      {
+        "id": 19,
+        "question": "Quel aéronef annonce chaque année la récolte du Château Guiraud en Sauternes ?",
+        "propositions": [
+          "Un avion",
+          "Un ULM",
+          "Une montgolfière",
+          "Un delta-plane"
+        ],
+        "réponse": "Une montgolfière",
+        "anecdote": "En AOC Sauternes, il est classé premier grand cru dans la classification officielle des vins de Bordeaux de 1855."
+      },
+      {
+        "id": 20,
+        "question": "Comment désigne-t-on un vin rosé dont la cuvaison a duré moins de 24 heures ?",
+        "propositions": [
+          "Vin de jour",
+          "Vin de messe",
+          "Vin de foire",
+          "Vin de café"
+        ],
+        "réponse": "Vin de café",
+        "anecdote": "L'expression « vin d'une nuit » est moins péjorative que « vin de café »."
+      },
+      {
+        "id": 21,
+        "question": "Quel vin, célébré par Goethe et Voltaire, fut décrété Vin des rois et Rois des vins ?",
+        "propositions": [
+          "Richebourg",
+          "Tokay Aszu",
+          "Chénas",
+          "Meursault"
+        ],
+        "réponse": "Tokay Aszu",
+        "anecdote": "Les Tokaj sont principalement connus pour la gamme de vins liquoreux haut de gamme issus de grains de raisin sur-mûris."
+      },
+      {
+        "id": 22,
+        "question": "En 1850, combien de domaines viticoles du Bordelais utilisaient déjà  un nom de château ?",
+        "propositions": [
+          "510",
+          "318",
+          "50",
+          "180"
+        ],
+        "réponse": "50",
+        "anecdote": "Le vignoble de Bordeaux est le vignoble regroupant toutes les vignes du département de la Gironde."
+      },
+      {
+        "id": 23,
+        "question": "Le festival de Vevey, en Suisse, est un des plus importants festivals du vin depuis quel siècle ?",
+        "propositions": [
+          "Le XXe",
+          "Le XVIIIe",
+          "Le XVIIe",
+          "Le XIXe"
+        ],
+        "réponse": "Le XVIIe",
+        "anecdote": "La Fàªte des Vignerons est une fàªte traditionnelle qui a lieu cinq fois par siècle à  Vevey, en Suisse."
+      },
+      {
+        "id": 24,
+        "question": "Quel raisin, destiné à  la production du vin, est le plus cultivé dans la région de Dao, au Portugal ?",
+        "propositions": [
+          "Le touriga",
+          "Le touzao",
+          "L'ugni",
+          "Le riaja"
+        ],
+        "réponse": "Le touriga",
+        "anecdote": "Cette variété à  petits grains et peaux épaisses joue un rôle essentiel dans les assemblages du vin de Porto."
+      },
+      {
+        "id": 25,
+        "question": "Quelle expression est utilisée pour désigner le fait d'ajouter de l'alcool dans un vin ?",
+        "propositions": [
+          "Frapper un vin",
+          "Mander un vin",
+          "Viner un vin",
+          "Claper un vin"
+        ],
+        "réponse": "Viner un vin",
+        "anecdote": "Il ne faut pas confondre « vinage » avec le mot anglais « vintage » qui signifie dans ce contexte millésime ou millésimé."
+      },
+      {
+        "id": 26,
+        "question": "Lequel de ces Saints est sans conteste « plus alcoolique » que les trois autres ?",
+        "propositions": [
+          "Saint Emilion",
+          "Saint Julien",
+          "Saint James",
+          "Saint-Véran"
+        ],
+        "réponse": "Saint James",
+        "anecdote": "Saint James est un rhum titrant plus de 80 degrés d'alcool, tandis que les autres sont des vins."
+      },
+      {
+        "id": 27,
+        "question": "Quel vin rouge fait à  partir des cépages gamay et pinot noir est produit dans le Valais ?",
+        "propositions": [
+          "La Dôle",
+          "Le Sancerre",
+          "Le Médoc",
+          "Le Tavel"
+        ],
+        "réponse": "La Dôle",
+        "anecdote": "La Dôle est souvent qualifiée de « capiteuse, racée et moelleuse » avec une robe aux reflets de pourpre."
+      },
+      {
+        "id": 28,
+        "question": "Par des cures de quel vin Erasme soignait-il ses troubles d'estomac ?",
+        "propositions": [
+          "Côte de Beaune",
+          "Pomerol",
+          "Château Guiraud",
+          "Morgan"
+        ],
+        "réponse": "Côte de Beaune",
+        "anecdote": "Le Côte de Beaune est en effet réputé pour sa richesse en éléments minéraux et ses propriétés bactéricides."
+      },
+      {
+        "id": 29,
+        "question": "Parmi ces vins blancs liquoreux de Bordeaux s'est glissé un intrus, lequel ?",
+        "propositions": [
+          "Cadillac",
+          "Loupiac",
+          "Listrac",
+          "Barrac"
+        ],
+        "réponse": "Listrac",
+        "anecdote": "Listrac est en effet un vin rouge ou un vin blanc sec d'appellation d'origine contrôlée produit autour de Listrac-Médoc dans le Médoc."
+      },
+      {
+        "id": 30,
+        "question": "Quelle méthode augmente le taux d'alcool d'un vin en ajoutant du sucre dans le moût ?",
+        "propositions": [
+          "Ma muscadelle",
+          "La chaptalisation",
+          "L'enfarinage",
+          "L'ambrie"
+        ],
+        "réponse": "La chaptalisation",
+        "anecdote": "Dans la théorie, l'ajout de 16,83 grammes de sucre par litre conduit à  la production d'un degré d'alcool supplémentaire."
+       },
+       {
+        "id": 1,
+        "question": "Contre quel président a-t-on lancé une procédure de destitution en 2019 ?",
+        "propositions": [
+          "Emmanuel Macron",
+          "Donald Trump",
+          "Rodrigo Duterte",
+          "Vladimir Poutine"
+        ],
+        "réponse": "Donald Trump",
+        "anecdote": "Donald Trump sera mis en accusation par la Chambre, devenant le troisième président américain à  àªtre inculpé."
+      },
+      {
+        "id": 2,
+        "question": "Quel clip vidéo de Luis Fonsi a dépassé les six milliards de vues sur YouTube ?",
+        "propositions": [
+          "Respira",
+          "Calypso",
+          "Despacito",
+          "Tentacià³n"
+        ],
+        "réponse": "Despacito",
+        "anecdote": "Le clip de « Despacito » de Luis Fonsi était déjà  la première vidéo à  avoir dépassé les 3 milliards, les 4 milliards et les 5 milliards de vues."
+      },
+      {
+        "id": 3,
+        "question": "Qui a remporté en 2019 son sixième titre de champion du monde de Formule 1 ?",
+        "propositions": [
+          "Lewis Hamilton",
+          "Pierre Gasly",
+          "Lando Norris",
+          "Sebastian Vettel"
+        ],
+        "réponse": "Lewis Hamilton",
+        "anecdote": "Champion du monde de F1 en 2008, 2014, 2015, 2017, 2018 et 2019, il est aussi recordman du nombre de pole positions."
+      },
+      {
+        "id": 4,
+        "question": "Quel pape a annoncé en 2019 une ouverture des archives secrètes du Vatican pour 2020 ?",
+        "propositions": [
+          "François",
+          "Benoît XVI",
+          "Pie XI",
+          "Jean-Paul II"
+        ],
+        "réponse": "François",
+        "anecdote": "Jorge Mario Bergoglio, né le 17 décembre 1936 à  Buenos Aires, était avant le 13 mars 2013 archevàªque de Buenos Aires et cardinal."
+      },
+      {
+        "id": 5,
+        "question": "Quelle célèbre cathédrale Notre-Dame fut ravagée par un incendie le 15 avril 2019 ?",
+        "propositions": [
+          "Bayeux",
+          "Verdun",
+          "Paris",
+          "Die"
+        ],
+        "réponse": "Paris",
+        "anecdote": "Cet important sinistre subi par la cathédrale a détruit la flèche et la totalité de la toiture couvrant la nef, le choeur et le transept."
+      },
+      {
+        "id": 6,
+        "question": "Qui fut nommé Premier ministre du Royaume-Uni, succédant ainsi à  Theresa May ?",
+        "propositions": [
+          "Boris Johnson",
+          "David Cameron",
+          "Tony Blair",
+          "Gordon Brown"
+        ],
+        "réponse": "Boris Johnson",
+        "anecdote": "Les conservateurs obtinrent leur plus grande majorité depuis 1987, ce qui permettra à  Boris Johnson d'annoncer la réalisation du Brexit."
+      },
+      {
+        "id": 7,
+        "question": "En août 2019, dans quel pays s'est tenu le sommet du G7 ?",
+        "propositions": [
+          "France",
+          "Japon",
+          "Canada",
+          "Italie"
+        ],
+        "réponse": "France",
+        "anecdote": "Le dernier sommet du G7 organisé sur le territoire français, avant celui de 2019, remontait à  2011 sous Nicolas Sarkozy."
+      },
+      {
+        "id": 8,
+        "question": "Quelle suédoise a tenu en 2019 un discours à  l'ONU en faveur de l'écologie ?",
+        "propositions": [
+          "Greta Thunberg",
+          "Hilda Nilsson",
+          "Lisbet Rausing",
+          "Simone Giertz"
+        ],
+        "réponse": "Greta Thunberg",
+        "anecdote": "Ayant reçu prix et distinctions, elle a fait en mai 2019 la couverture du magazine Time la décernant personnalité de l'année."
+      },
+      {
+        "id": 9,
+        "question": "Dans quel pays s'est déroulée la Coupe du monde de rugby à  XV de 2019 ?",
+        "propositions": [
+          "Japon",
+          "France",
+          "Nouvelle-Zélande",
+          "Australie"
+        ],
+        "réponse": "Japon",
+        "anecdote": "L'Afrique du Sud remportera cette Coupe du monde en battant l'Angleterre, devenant championne du monde pour la troisième fois."
+      },
+      {
+        "id": 10,
+        "question": "Quel ex-président nous a quitté le 26 septembre 2019, journée de deuil national ?",
+        "propositions": [
+          "François Mitterrand",
+          "Jacques Chirac",
+          "François Hollande",
+          "Nicolas Sarkozy"
+        ],
+        "réponse": "Jacques Chirac",
+        "anecdote": "Engagé à  gauche dans sa jeunesse, Jacques Chirac sera généralement considéré comme gaulliste et classé à  droite de l'échiquier politique."
+      },
+      {
+        "id": 11,
+        "question": "Quel président algérien a démissionné de son poste en avril 2019 ?",
+        "propositions": [
+          "Abdelaziz Bouteflika",
+          "Chadli Bendjedid",
+          "Ali Kafi",
+          "Liamine Zéroual"
+        ],
+        "réponse": "Abdelaziz Bouteflika",
+        "anecdote": "Après avoir été victime en 2013 d'un grave accident vasculaire cérébral, Abdelaziz Bouteflika a vu son état de santé se dégrader rapidement."
+      },
+      {
+        "id": 12,
+        "question": "Quels nouveaux billets furent mis en circulation en Europe en 2019 ?",
+        "propositions": [
+          "20 et 50 euros",
+          "200 et 500 euros",
+          "50 et 100 euros",
+          "100 et 200 euros"
+        ],
+        "réponse": "100 et 200 euros",
+        "anecdote": "Au 1er janvier 2019, il y avait 2 804 486 391 billets de 100 euros en circulation dans le monde, pour une valeur totale de 280 448 639 100 €."
+      },
+      {
+        "id": 13,
+        "question": "Quel empereur du Japon, intronisé en 1990, a abdiqué le 30 avril 2019 ?",
+        "propositions": [
+          "Showa",
+          "Naruhito",
+          "Akihito",
+          "Taisho"
+        ],
+        "réponse": "Akihito",
+        "anecdote": "La Constitution japonaise de 1947 avait limité le rôle de l'empereur Akihito à  celui de symbole de l'État et de l'unité du peuple japonais."
+      },
+      {
+        "id": 14,
+        "question": "Dans quelle ville eut lieu la finale du concours Eurovision de la chanson 2019 ?",
+        "propositions": [
+          "Tel-Aviv",
+          "Stockholm",
+          "Kiev",
+          "Lisbonne"
+        ],
+        "réponse": "Tel-Aviv",
+        "anecdote": "Cette compétition s'est tenue à  Tel Aviv, en Israel, à  la suite de la victoire de Netta lors de l'édition 2018, avec la chanson « Toy »."
+      },
+      {
+        "id": 15,
+        "question": "Quel pays a remporté la Coupe du monde masculine de basket-ball 2019 ?",
+        "propositions": [
+          "Espagne",
+          "France",
+          "Argentine",
+          "Australie"
+        ],
+        "réponse": "Espagne",
+        "anecdote": "La compétition sera marquée par l'élimination des États-Unis, tenants du titre, et de la France (première défaite depuis treize ans)."
+      },
+      {
+        "id": 16,
+        "question": "En Belgique, qui fut nommée Première ministre le 28 octobre 2019 ?",
+        "propositions": [
+          "Julie Payette",
+          "Brigitte Bierlein",
+          "Sophie Wilmès",
+          "Erna Solberg"
+        ],
+        "réponse": "Sophie Wilmès",
+        "anecdote": "Échevine à  Rhode-Saint-Genèse entre 2000 et 2015, Sophie Wilmès deviendra en 2014 députée fédérale en suppléance de Didier Reynders."
+      },
+      {
+        "id": 17,
+        "question": "En 2019, quel anniversaire a-t-on fàªté concernant la chute du mur de Berlin ?",
+        "propositions": [
+          "Les vingt ans",
+          "Les quarante ans",
+          "Les dix ans",
+          "Les trente ans"
+        ],
+        "réponse": "Les trente ans",
+        "anecdote": "Ce fut rendu possible par la nouvelle politique de l'URSS vis-à -vis des pays de l'Est instaurée par Mikhaà¯l Gorbatchev depuis 1985."
+      },
+      {
+        "id": 18,
+        "question": "Combien de soldats français sont morts au Mali après une collision d'hélicoptères ?",
+        "propositions": [
+          "Dix",
+          "Seize",
+          "Treize",
+          "Vingt"
+        ],
+        "réponse": "Treize",
+        "anecdote": "Le 2 décembre, la France leur rendra un hommage national, le président de la République leur remettant la Légion d'honneur à  titre posthume."
+      },
+      {
+        "id": 19,
+        "question": "Quel compositeur et musicien français nous a quitté le 26 janvier 2019 ?",
+        "propositions": [
+          "Michel Legrand",
+          "Maurice Jarre",
+          "Vladimir Cosma",
+          "Francis Lai"
+        ],
+        "réponse": "Michel Legrand",
+        "anecdote": "Comme suite à  son décès, de nombreux artistes francophones ont repris un de ses plus grands succès, « Les Moulins de mon coeur »."
+      },
+      {
+        "id": 20,
+        "question": "Dans quelle ville eurent lieu les Championnats du monde d'athlétisme 2019 ?",
+        "propositions": [
+          "Pékin",
+          "Doha",
+          "Moscou",
+          "Londres"
+        ],
+        "réponse": "Doha",
+        "anecdote": "Le Qatar accueille pour la première fois cet événement sportif, organisé par l'Association internationale des fédérations d'athlétisme (IAAF)."
+      },
+      {
+        "id": 21,
+        "question": "De quel artiste les Pays-Bas ont-ils célébré en 2019 les 350 ans de la mort ?",
+        "propositions": [
+          "Bosschaert",
+          "De Jongh",
+          "Rembrandt",
+          "Van Dijck"
+        ],
+        "réponse": "Rembrandt",
+        "anecdote": "Rembrandt est généralement considéré comme l'un des plus grands peintres de l'histoire de la peinture, notamment de la peinture baroque."
+      },
+      {
+        "id": 22,
+        "question": "En 2019, contre quelle maladie le vaccin est-il devenu obligatoire en Somalie ?",
+        "propositions": [
+          "Varicelle",
+          "Rubéole",
+          "Coqueluche",
+          "Rougeole"
+        ],
+        "réponse": "Rougeole",
+        "anecdote": "Cette vaccination fait suite à  une épidémie qui a fait 63 morts, elle-màªme causée par une faible couverture vaccinale des àŽles Samoa."
+      },
+      {
+        "id": 23,
+        "question": "Quel pays a pris en janvier 2019 la présidence tournante de l'Union européenne ?",
+        "propositions": [
+          "Allemagne",
+          "Finlande",
+          "Croatie",
+          "Roumanie"
+        ],
+        "réponse": "Roumanie",
+        "anecdote": "La présidence du Conseil n'est pas détenue par un président unique mais est exercée par le gouvernement de l'État membre."
+      },
+      {
+        "id": 24,
+        "question": "La rupture de quel barrage brésilien eut un impact sur la biodiversité amazonienne ?",
+        "propositions": [
+          "Brumadinho",
+          "Camacari",
+          "Arapiraca",
+          "Sumaré"
+        ],
+        "réponse": "Brumadinho",
+        "anecdote": "La rupture du barrage de Brumadinho au Minas Gerais fit au moins 115 morts et de nombreux disparus, provoquant un désastre écologique."
+      },
+      {
+        "id": 25,
+        "question": "Quel nouveau site maya d'offrandes quasi-intact fut révélé au grand public en 2019 ?",
+        "propositions": [
+          "Uxmal",
+          "Culuba",
+          "Chichén Itzà¡",
+          "Bonampak"
+        ],
+        "réponse": "Chichén Itzà¡",
+        "anecdote": "Connu par les archéologues mexicains et les populations mayas locales depuis 50 ans, le site était jusque-là  caché dans une grotte murée."
+      },
+      {
+        "id": 26,
+        "question": "Quel cyclone a provoqué plus de trois cents morts au Mozambique et au Zimbabwe ?",
+        "propositions": [
+          "Bingiza",
+          "Idai",
+          "Tracy",
+          "Gamède"
+        ],
+        "réponse": "Idai",
+        "anecdote": "Alors que les morts se comptent très probablement en milliers au Mozambique, Idai y a détruit à  90 % Beira, la deuxième ville du pays."
+      },
+      {
+        "id": 27,
+        "question": "Quel eurodéputé italien a été élu président du Parlement européen en 2019 ?",
+        "propositions": [
+          "Mario Mauro",
+          "Paolo De Castro",
+          "Franco Bonanini",
+          "David Sassoli"
+        ],
+        "réponse": "David Sassoli",
+        "anecdote": "Ce journaliste et homme politique italien a également été présentateur de l'édition de 20 heures et vice-directeur du TG1 sur Rai 1."
+      },
+      {
+        "id": 28,
+        "question": "Au Mexique, quelle famille fut massacrée dans la Sierra Madre en 2019 ?",
+        "propositions": [
+          "Michoacana",
+          "LeBaron",
+          "Sinaloa",
+          "Fernando"
+        ],
+        "réponse": "LeBaron",
+        "anecdote": "Si les assaillants de ce groupe de femmes et d'enfants sont bien des narcotrafiquants, cela en ferait un massacre de la Guerre de la drogue."
+      },
+      {
+        "id": 29,
+        "question": "Quel volcan est entré en éruption le 9 décembre 2019 en Nouvelle-Zélande ?",
+        "propositions": [
+          "Kambalny",
+          "White Island",
+          "Mont Carlisle",
+          "Home Reef"
+        ],
+        "réponse": "White Island",
+        "anecdote": "L'île est constituée de deux volcans andésitiques imbriqués dont l'un est un cratère en forme de fer à  cheval ouvert vers le sud-est."
+      },
+      {
+        "id": 30,
+        "question": "Quelle ville a fàªté en 2019 les cent ans de sa station de radio ?",
+        "propositions": [
+          "Miami",
+          "Berlin",
+          "Londres",
+          "Montréal"
+        ],
+        "réponse": "Montréal",
+        "anecdote": "Montréal, ville du Canada, a en effet été la première ville au monde à  posséder une vraie station de radio en 1919."
+      },
+      {
+        "id": 1,
+        "question": "Qui a dit : « Un seul àªtre vous manque, et tout est dépeuplé » ?",
+        "propositions": [
+          "Voltaire",
+          "Montesquieu",
+          "Lamartine",
+          "Stendhal"
+        ],
+        "réponse": "Lamartine",
+        "anecdote": "Alphonse de Lamartine est un poète et romancier qui participa à  la Révolution de février 1848 et proclama la Deuxième République."
+      },
+      {
+        "id": 2,
+        "question": "Qui a dit : « Quand les gens parlent de toi, c'est que tu existes » ?",
+        "propositions": [
+          "Coluche",
+          "Grand corps malade",
+          "Éric Cantona",
+          "Serge Gainsbourg"
+        ],
+        "réponse": "Éric Cantona",
+        "anecdote": "Ses frasques, ses colères et son caractère imprévisible font d'Éric Cantona un acteur incontournable des médias."
+      },
+      {
+        "id": 3,
+        "question": "Qui a dit : « Ne buvez pas au volant, vous pourriez en renverser » ?",
+        "propositions": [
+          "Frédéric Dard",
+          "Michel Audiard",
+          "Woody Allen",
+          "Coluche"
+        ],
+        "réponse": "Coluche",
+        "anecdote": "Fils d'un immigré italien et d'une Française, Michel Colucci grandit à  Montrouge et adoptera le pseudonyme de Coluche à  26 ans."
+      },
+      {
+        "id": 4,
+        "question": "Qui a dit : « La vie ne vaut rien, mais rien ne vaut la vie » ?",
+        "propositions": [
+          "Oscar Wilde",
+          "André Malraux",
+          "Albert Camus",
+          "Jules Renard"
+        ],
+        "réponse": "André Malraux",
+        "anecdote": "Malraux a obtenu le prix Goncourt avec « La Condition humaine », roman qui s'inspire des soubresauts révolutionnaires de la Chine."
+      },
+      {
+        "id": 5,
+        "question": "Qui a dit : « Je n'ai jamais eu qu'une seule ride et je suis assise dessus » ?",
+        "propositions": [
+          "Mère Teresa",
+          "Jeanne Calment",
+          "Woody Allen",
+          "Albert Einstein"
+        ],
+        "réponse": "Jeanne Calment",
+        "anecdote": "Jeanne Calment est devenue l'àªtre humain ayant vécu le plus longtemps parmi les personnes à  la date de naissance certifiée."
+      },
+      {
+        "id": 6,
+        "question": "Qui a dit : « Quand j'étais jeune j'étais très con : je suis resté très jeune » ?",
+        "propositions": [
+          "J-C Van Damme",
+          "Woody Allen",
+          "Coluche",
+          "Sacha Guitry"
+        ],
+        "réponse": "J-C Van Damme",
+        "anecdote": "En 2007, il révèle au magazine Empire sa liaison avec la chanteuse Kylie Minogue durant le tournage de « Street Fighter »."
+      },
+      {
+        "id": 7,
+        "question": "Quelle célébrité a dit : « L'avenir appartient à  ceux qui ràªvent trop » ?",
+        "propositions": [
+          "Bob Marley",
+          "William Shakespeare",
+          "Grand corps malade",
+          "Eric Cantona"
+        ],
+        "réponse": "Grand corps malade",
+        "anecdote": "Lors d'une colonie de vacances qu'il animait en 1997, il a fait un plongeon dans une piscine dont le niveau d'eau était trop bas."
+      },
+      {
+        "id": 8,
+        "question": "Qui a dit : « Un intellectuel assis va moins loin qu'un con qui marche » ?",
+        "propositions": [
+          "Serge Gainsbourg",
+          "Michel Audiard",
+          "Tristan Bernard",
+          "Frédéric Dard"
+        ],
+        "réponse": "Michel Audiard",
+        "anecdote": "Les dialogues de Michel Audiard constituent l'un des meilleurs témoignages de l'irrévérence détachée propre aux années 1960."
+      },
+      {
+        "id": 9,
+        "question": "Qui a dit : « Je suis fier que l'on me compare à  Michel Platini » ?",
+        "propositions": [
+          "Lionel Messi",
+          "Zinédine Zidane",
+          "Laurent Blanc",
+          "David Beckham"
+        ],
+        "réponse": "Zinédine Zidane",
+        "anecdote": "Célèbre numéro 10 des Bleus, Zinédine Zidane mettra un terme à  sa carrière à  la suite de la Coupe du monde de football 2006."
+      },
+      {
+        "id": 10,
+        "question": "Qui a dit : « Les enfants c'est comme les pets, on supporte surtout les siens » ?",
+        "propositions": [
+          "Jean-Paul Guerlain",
+          "Sacha Guitry",
+          "Frédéric Dard",
+          "Coluche"
+        ],
+        "réponse": "Frédéric Dard",
+        "anecdote": "Frédéric Dard est surtout connu pour les aventures du commissaire San Antonio, souvent aidé de son adjoint Bérurier."
+      },
+      {
+        "id": 11,
+        "question": "Qui a dit : « Le parfum d'une femme est la forme la plus intense du souvenir » ?",
+        "propositions": [
+          "Jean-Paul Guerlain",
+          "Pierre Bourdon",
+          "François Demachy",
+          "Jean Patou"
+        ],
+        "réponse": "Jean-Paul Guerlain",
+        "anecdote": "Marié, il était le dernier héritier de la célèbre maison de parfumeurs homonyme, avant de la céder en 1994 au groupe LVMH."
+      },
+      {
+        "id": 12,
+        "question": "Qui a dit : « L'homme n'est pas fait pour travailler : la preuve, ça le fatigue » ?",
+        "propositions": [
+          "Albert Camus ",
+          "Jules Renard",
+          "Oscar Wilde",
+          "Tristan Bernard"
+        ],
+        "réponse": "Tristan Bernard",
+        "anecdote": "Outre ses romans, Tristan Bernard est également connu pour ses grilles de mots croisés, pleines d'esprit et de malice."
+      },
+      {
+        "id": 13,
+        "question": "Qui a dit : « àŠtre fidèle, c'est, bien souvent, enchaîner l'autre » ?",
+        "propositions": [
+          "Jules Renard",
+          "Voltaire",
+          "Sacha Guitry",
+          "Mère Teresa"
+        ],
+        "réponse": "Sacha Guitry",
+        "anecdote": "Auteur dramatique prolifique, Sacha Guitry a écrit 124 pièces de théâtre, dont beaucoup furent et restent de grands succès."
+      },
+      {
+        "id": 14,
+        "question": "Quel homme célèbre a dit : « La vie est courte, mais l'ennui l'allonge » ?",
+        "propositions": [
+          "Jules Renard",
+          "Serge Gainsbourg",
+          "Woody Allen",
+          "Bob Marley"
+        ],
+        "réponse": "Jules Renard",
+        "anecdote": "Soutient d'Émile Zola dans l'affaire Dreyfus, il se révèle aussi àªtre un admirateur enthousiaste et presque délirant de Victor Hugo."
+      },
+      {
+        "id": 15,
+        "question": "Qui a dit : « La bouche obéit mal lorsque le coeur murmure » ?",
+        "propositions": [
+          "Malraux",
+          "Shakespeare",
+          "Confucius",
+          "Voltaire"
+        ],
+        "réponse": "Voltaire",
+        "anecdote": "Représentant le plus connu de la philosophie des Lumières, Voltaire domina son époque par la durée de sa vie (83 ans)."
+      },
+      {
+        "id": 16,
+        "question": "Qui a dit : « Si vous jugez les gens, vous n'avez pas le temps de les aimer » ?",
+        "propositions": [
+          "Mère Teresa",
+          "Alfred de Musset",
+          "Grand corps malade",
+          "Oscar Wilde"
+        ],
+        "réponse": "Mère Teresa",
+        "anecdote": "Mère Teresa est connue pour son action caritative avec les « Missionnaires de la Charité » qui suivent son exemple."
+      },
+      {
+        "id": 17,
+        "question": "Qui a dit : « L'imagination est plus importante que le savoir » ?",
+        "propositions": [
+          "Oscar Wilde",
+          "Confucius",
+          "Albert Einstein",
+          "Guy de Maupassant"
+        ],
+        "réponse": "Albert Einstein",
+        "anecdote": "Albert Einstein a publié sa théorie de la relativité restreinte en 1905 et sa théorie de la gravitation dite relativité générale en 1915."
+      },
+      {
+        "id": 18,
+        "question": "Qui a dit : « Parler de ses peines, c'est déjà  se consoler » ?",
+        "propositions": [
+          "Albert Camus",
+          "Alfred de Musset",
+          "Jeanne Calment",
+          "Mère Teresa"
+        ],
+        "réponse": "Albert Camus",
+        "anecdote": "En marge des courants philosophiques, Camus sera d'abord témoin de son temps, intransigeant, refusant toute compromission."
+      },
+      {
+        "id": 19,
+        "question": "Quel génie a dit : « L'éternité c'est long, surtout vers la fin » ?",
+        "propositions": [
+          "Albert Einstein",
+          "Tristan Bernard",
+          "Woody Allen",
+          "Guy de Maupassant"
+        ],
+        "réponse": "Woody Allen",
+        "anecdote": "Réalisant pratiquement un film par an, Woody Allen est l'un des cinéastes américains les plus prolifiques de ces dernières années."
+      },
+      {
+        "id": 20,
+        "question": "Quel homme de lettres a dit : « La tristesse vient de la solitude du coeur » ?",
+        "propositions": [
+          "Lamartine",
+          "Montesquieu",
+          "Stendhal",
+          "Voltaire"
+        ],
+        "réponse": "Montesquieu",
+        "anecdote": "Montesquieu est l'un des penseurs de l'organisation politique et sociale sur lesquels les sociétés modernes s'appuient."
+      },
+      {
+        "id": 21,
+        "question": "Quelle personnalité a dit : « C'est ce qui sort de ta bouche qui te maintient en vie » ?",
+        "propositions": [
+          "Emile Deschanel",
+          "Woody Allen",
+          "Bob Marley",
+          "Confucius"
+        ],
+        "réponse": "Bob Marley",
+        "anecdote": "Bob Marley est celui qui a permis à  la musique jamaà¯caine et au mouvement rastafari de connaître une audience planétaire."
+      },
+      {
+        "id": 22,
+        "question": "Qui a dit : « Le masque est si charmant que j'ai peur du visage » ?",
+        "propositions": [
+          "Montesquieu",
+          "Alfred de Musset",
+          "Stendhal",
+          "André Malraux"
+        ],
+        "réponse": "Alfred de Musset",
+        "anecdote": "Le théâtre et la poésie lyrique d'Alfred de Musset montrent une sensibilité extràªme et une interrogation sur la pureté et la débauche."
+      },
+      {
+        "id": 23,
+        "question": "Qui a dit : « La beauté est dans les yeux de celui qui regarde » ?",
+        "propositions": [
+          "Stendhal",
+          "Oscar Wilde",
+          "Confucius",
+          "Guy de Maupassant"
+        ],
+        "réponse": "Oscar Wilde",
+        "anecdote": "Oscar Wilde incarne une nouvelle sensibilité qui apparaît en réaction contre le positivisme et le naturalisme."
+      },
+      {
+        "id": 24,
+        "question": "Qui a dit : « Un baiser légal ne vaut jamais un baiser volé » ?",
+        "propositions": [
+          "Alfred de Musset",
+          "Sacha Guitry",
+          "Guy de Maupassant",
+          "André Malraux"
+        ],
+        "réponse": "Guy de Maupassant",
+        "anecdote": "Reconnu de son vivant, il conserve un renom de premier plan, renouvelé par les nombreuses adaptations filmées de ses oeuvres."
+      },
+      {
+        "id": 25,
+        "question": "Qui a dit : « On n'emporte en mourant que ce qu'on a donné » ?",
+        "propositions": [
+          "Théodore Garnier",
+          "Gaston Méry",
+          "Émile Deschanel",
+          "Hector Durville"
+        ],
+        "réponse": "Émile Deschanel",
+        "anecdote": "Les papiers personnels de la famille Deschanel sont conservés aux Archives nationales sous la cote 151AP."
+      },
+      {
+        "id": 26,
+        "question": "Qui a dit : « Plus on plaît généralement, moins on plaît profondément » ?",
+        "propositions": [
+          "Montesquieu",
+          "Lamartine",
+          "Voltaire",
+          "Stendhal"
+        ],
+        "réponse": "Stendhal",
+        "anecdote": "Stendhal aurait voulu consacrer sa vie à  la ràªverie, à  la chasse au bonheur et à  l'amour ; malgré lui, il eut une vie mouvementée."
+      },
+      {
+        "id": 27,
+        "question": "Qui a dit : « Mieux vaut mourir incompris que passer sa vie à  s'expliquer » ?",
+        "propositions": [
+          "Serge Gainsbourg",
+          "William Shakespeare",
+          "Eric Cantona",
+          "Oscar Wilde"
+        ],
+        "réponse": "William Shakespeare",
+        "anecdote": "Il est réputé pour sa maîtrise des formes poétiques et littéraires, ainsi que sa capacité à  représenter les aspects de la nature humaine."
+      },
+      {
+        "id": 28,
+        "question": "Qui a dit : « La perte d'un ennemi ne compense pas celle d'un ami » ?",
+        "propositions": [
+          "Abraham Lincoln",
+          "Lamartine",
+          "Stendhal",
+          "Oscar Wilde"
+        ],
+        "réponse": "Abraham Lincoln",
+        "anecdote": "Seizième président des États-Unis, il fut élu à  deux reprises président du pays, en novembre 1860 et en novembre 1864."
+      },
+      {
+        "id": 29,
+        "question": "Qui a dit : « La chance est bien souvent un hasard qui se provoque » ?",
+        "propositions": [
+          "Guy de Maupassant",
+          "Bob Marley",
+          "Oscar Wilde",
+          "Confucius"
+        ],
+        "réponse": "Confucius",
+        "anecdote": "Personnage historique ayant le plus marqué la civilisation chinoise, Confucius est considéré comme le premier éducateur de la Chine."
+      },
+      {
+        "id": 30,
+        "question": "Qui a dit : « La beauté est la seule vengeance des femmes » ?",
+        "propositions": [
+          "Sacha Guitry",
+          "Coluche",
+          "Serge Gainsbourg",
+          "Woody Allen"
+        ],
+        "réponse": "Serge Gainsbourg",
+        "anecdote": "Serge Gainsbourg influencera considérablement des artistes français comme le groupe Taxi Girl, Renaud ou encore Étienne Daho."
+      },
+      {
+        "id": 1,
+        "question": "Qui fut la présentatrice du journal de 20 heures sur TF1 de 2008 à  2012 ?",
+        "propositions": [
+          "Anne-Sophie Lapix",
+          "Laurence Ferrari",
+          "Florence Schaal",
+          "Béatrice Schà¶nberg"
+        ],
+        "réponse": "Laurence Ferrari",
+        "anecdote": "Laurence Ferrari entend désormais « dépoussiérer l'actualité » en traitant toutes sortes de sujets."
+      },
+      {
+        "id": 2,
+        "question": "Qui a remplacé Claude Sérillon à  la présentation du journal de 20 heures de France 2 ?",
+        "propositions": [
+          "David Pujadas",
+          "Daniel Bilalian",
+          "Paul Amar",
+          "Bruno Masure"
+        ],
+        "réponse": "David Pujadas",
+        "anecdote": "David Pujadas a remporté en 2007 le prix Roland-Dorgelès pour son « attachement à  la qualité de la langue française »."
+      },
+      {
+        "id": 3,
+        "question": "Qui a animé chaque jour « C à  vous » sur France 5 de 2009 à  2013 ?",
+        "propositions": [
+          "Valérie Bénaà¯m",
+          "Sonia Dubois",
+          "Alessandra Sublet",
+          "Karine Ferri"
+        ],
+        "réponse": "Alessandra Sublet",
+        "anecdote": "Alessandra Sublet est la fille de Joà«l Sublet, ancien footballeur de l'Olympique lyonnais ayant joué dans les années 1970."
+      },
+      {
+        "id": 4,
+        "question": "Quel animateur de télévision a présenté huit saisons de « Secret Story » ?",
+        "propositions": [
+          "Denis Brogniart",
+          "Marc-Olivier Fogiel",
+          "Cyril Hanouna",
+          "Benjamin Castaldi"
+        ],
+        "réponse": "Benjamin Castaldi",
+        "anecdote": "Benjamin Castaldi est le fils de Jean-Pierre Castaldi et Catherine Allégret mais aussi le petit-fils de l'actrice Simone Signoret."
+      },
+      {
+        "id": 5,
+        "question": "Qui a co-animé de 2011 à  2018 une émission télé aux côtés de Nicolas Canteloup ?",
+        "propositions": [
+          "Jean-Pierre Foucault",
+          "Julien Courbet",
+          "Sébastien Cauet",
+          "Nikos Aliagas"
+        ],
+        "réponse": "Nikos Aliagas",
+        "anecdote": "En avril 2011, Nikos a doublé un personnage (Flamenco) dans le film « Rio » aux côtés de Karine Ferri et Nicolas Richaud."
+      },
+      {
+        "id": 6,
+        "question": "Qui a succédé à  Michel Denisot à  la présentation du « Grand Journal » sur Canal+ ?",
+        "propositions": [
+          "Philippe Risoli",
+          "Philippe Gildas",
+          "Jérôme Bonaldi",
+          "Antoine de Caunes"
+        ],
+        "réponse": "Antoine de Caunes",
+        "anecdote": "Antoine de Caunes est l'auteur-compositeur, sous le pseudonyme de Paul Persavon, de génériques d'émissions pour enfants."
+      },
+      {
+        "id": 7,
+        "question": "Quel présentateur de télévision est un fin spécialiste des familles royales ?",
+        "propositions": [
+          "Denis Brogniart",
+          "Gérard Holtz",
+          "Michel Drucker",
+          "Stéphane Bern"
+        ],
+        "réponse": "Stéphane Bern",
+        "anecdote": "Stéphane Bern a fait son coming out dans le magazine « Tàªtu » en octobre 2009, puis chez Mireille Dumas la màªme année."
+      },
+      {
+        "id": 8,
+        "question": "Quel animateur télé est incontestablement associé à  « Koh-Lanta » ?",
+        "propositions": [
+          "Jean-Pierre Foucault",
+          "Sébastien Cauet",
+          "Nikos Aliagas",
+          "Denis Brogniart"
+        ],
+        "réponse": "Denis Brogniart",
+        "anecdote": "Marié en 2007, Denis Brogniart a quatre enfants (nés entre 2000 et 2007) dont trois avec son épouse Hortense."
+      },
+      {
+        "id": 9,
+        "question": "Qui a présenté jusque 2018 le « Grand Concours des Animateurs » chaque année sur TF1 ?",
+        "propositions": [
+          "Nathalie Simon",
+          "Carole Rousseau",
+          "Sophie Favier",
+          "Alexandra Kazan"
+        ],
+        "réponse": "Carole Rousseau",
+        "anecdote": "Carole Rousseau a également présenté « Scrupules » ainsi que les trois premières saisons de l'émission « MasterChef »."
+      },
+      {
+        "id": 10,
+        "question": "Quel animateur télé vous proposait autrefois de le retrouver sur les « Champs-Élysées » ?",
+        "propositions": [
+          "Michel Drucker",
+          "Alexandre Devoise",
+          "Michel Denisot",
+          "Guillaume Durand"
+        ],
+        "réponse": "Michel Drucker",
+        "anecdote": "Michel Drucker produit aux côtés de Françoise Coquet ses émissions depuis 1984 avec DMD Productions."
+      },
+      {
+        "id": 11,
+        "question": "Quel animateur télé aujourd'hui disparu a très vite été surnommé l'homme à  l'oreillette ?",
+        "propositions": [
+          "Jean-Luc Delarue",
+          "Benjamin Castaldi",
+          "Antoine de Caunes",
+          "Philippe Gildas"
+        ],
+        "réponse": "Jean-Luc Delarue",
+        "anecdote": "Jean-Luc Delarue a été confronté à  différentes difficultés d'ordre judiciaire avec Réservoir Prod ainsi qu'à  titre personnel."
+      },
+      {
+        "id": 12,
+        "question": "Qui a le premier animé « La revue de presse » dans « Salut les Terriens! » ?",
+        "propositions": [
+          "Laurent Baffie",
+          "Antoine de Caunes",
+          "Gaspard Proust",
+          "Stéphane Guillon"
+        ],
+        "réponse": "Stéphane Guillon",
+        "anecdote": "Dans l'émission « 20h10 pétantes », Stéphane Guillon a parfois été confronté à  la colère, à  l'hostilité, voire le mépris de certains invités."
+      },
+      {
+        "id": 13,
+        "question": "Laquelle de ces journalistes a été chroniqueuse télé auprès de Laurent Ruquier ?",
+        "propositions": [
+          "Élisabeth Quin",
+          "Virginie Mouzat",
+          "Anne Fulda",
+          "Natacha Polony"
+        ],
+        "réponse": "Natacha Polony",
+        "anecdote": "Le 19 mars 2015, Natacha Polony a reçu le prix du Livre incorrect 2015 pour son livre « Ce pays qu'on abat »."
+      },
+      {
+        "id": 14,
+        "question": "En télévision, quel polémiste et essayiste est souvent associé à  Éric Naulleau ?",
+        "propositions": [
+          "Éric Zemmour",
+          "Jean Dutourd",
+          "Christophe Barbier",
+          "Maurice Joly"
+        ],
+        "réponse": "Éric Zemmour",
+        "anecdote": "Après avoir écrit plusieurs biographies d'hommes politiques, Éric Zemmour s'est tourné en 2006-2007 vers les sujets sociétaux."
+      },
+      {
+        "id": 15,
+        "question": "Lequel de ces animateurs a co-produit de nombreuses émissions avec Catherine Barma ?",
+        "propositions": [
+          "Thierry Ardisson",
+          "Pierre Bellemare",
+          "Olivier Chiabodo",
+          "Bruno Gaccio"
+        ],
+        "réponse": "Thierry Ardisson",
+        "anecdote": "En 2005, Thierry Ardisson crée la société Ardimages dans le but de produire des longs-métrages et des séries pour la télévision."
+      },
+      {
+        "id": 16,
+        "question": "Quel animateur télé reste connu pour ses démonstrations presque toujours défaillantes ?",
+        "propositions": [
+          "Patrice Carmouze",
+          "Antoine de Caunes",
+          "Laurent Baffie",
+          "Stéphane Guillon"
+        ],
+        "réponse": "Patrice Carmouze",
+        "anecdote": "Après une jeunesse passée à  Limoges, Patrice Carmouze y obtiendra une licence de lettres et une maîtrise de droit."
+      },
+      {
+        "id": 17,
+        "question": "Qui faisait chanter les jeunes enfants à  la télévision le dimanche après-midi ?",
+        "propositions": [
+          "Jacques Martin",
+          "Thierry Beccaro",
+          "Alain Chabat",
+          "Bruno Masure"
+        ],
+        "réponse": "Jacques Martin",
+        "anecdote": "Fin cuisinier, Jacques Martin était le petit-fils de Joannès Ducerf, chef de cuisine du tsar Nicolas II de Russie."
+      },
+      {
+        "id": 18,
+        "question": "Quel homme de télé est réputé pour son sens de la répartie et son humour grinçant ?",
+        "propositions": [
+          "Stéphane Bern",
+          "Gérard Holtz",
+          "Laurent Baffie",
+          "Michel Drucker"
+        ],
+        "réponse": "Laurent Baffie",
+        "anecdote": "En 2003, Laurent Baffie réalise son premier long métrage, « Les Clefs de bagnole », dans lequel il partage la vedette avec Daniel Russo."
+      },
+      {
+        "id": 19,
+        "question": "Qui dirige depuis 2003 les candidats de « Fort Boyard » sur France 2 ?",
+        "propositions": [
+          "Olivier Minne",
+          "Michel Field",
+          "Frédéric Lopez",
+          "Florian Gazan"
+        ],
+        "réponse": "Olivier Minne",
+        "anecdote": "Olivier Minne a fait des apparitions dans la série « Un gars, une fille », incarnant alors un des copains de Jean."
+      },
+      {
+        "id": 20,
+        "question": "Quel animateur de télévision vous interdit de « toucher à  son poste » ?",
+        "propositions": [
+          "Pascal Sevran",
+          "Cyril Hanouna",
+          "Vincent Perrot",
+          "Léon Zitrone"
+        ],
+        "réponse": "Cyril Hanouna",
+        "anecdote": "Le 7 juin 2013, Cyril Hanouna a remporté pour la première fois le tournoi des personnalités de Roland-Garros."
+      },
+      {
+        "id": 21,
+        "question": "Quel était le salaire mensuel de Julien Lepers pour « Questions pour un champion » ?",
+        "propositions": [
+          "13 000 euros",
+          "26 000 euros",
+          "47 000 euros",
+          "39 000 euros"
+        ],
+        "réponse": "39 000 euros",
+        "anecdote": "Julien Lepers est également chef d'entreprise via sa société Guilor, spécialisée en conseil pour les affaires et la gestion."
+      },
+      {
+        "id": 22,
+        "question": "Quel animateur de télévision a toujours affirmé avoir Patrick Sabatier comme idole absolue ?",
+        "propositions": [
+          "Thomas Hugues",
+          "Bernard Montiel",
+          "Guy Lux",
+          "Marc-Olivier Fogiel"
+        ],
+        "réponse": "Marc-Olivier Fogiel",
+        "anecdote": "Parfois surnommé le « pitbull du PAF », Marc-Olivier Fogiel se distingue en interviews par un style agressif et cassant."
+      },
+      {
+        "id": 23,
+        "question": "Quelle animatrice télé a affirmé que la quàªte de vérité était sa première motivation ?",
+        "propositions": [
+          "Élise Lucet",
+          "Marie Drucker",
+          "Audrey Pulvar",
+          "Christine Ockrent"
+        ],
+        "réponse": "Élise Lucet",
+        "anecdote": "Elle qualifie son émission comme « un grain de sable qui empàªche la machine de tourner » et donc « réveille les consciences »."
+      },
+      {
+        "id": 24,
+        "question": "à€ quel animateur doit-on la célèbre phrase : « Vive le sport sur France 2 » ?",
+        "propositions": [
+          "Gérard Holtz",
+          "Jean-Luc Lemoine",
+          "Laurent Mariotte",
+          "Georges Lang"
+        ],
+        "réponse": "Gérard Holtz",
+        "anecdote": "Gérard Holtz a présenté le journal de 13 heures de France 2 entre septembre 2000 et juillet 2001."
+      },
+      {
+        "id": 25,
+        "question": "Quel chroniqueur du Canal Football Club est parfois accompagné d'Hervé Mathoux ?",
+        "propositions": [
+          "Laurent Bazin",
+          "Pierre Ménès",
+          "Christian Ollivier",
+          "Vincent Perrot"
+        ],
+        "réponse": "Pierre Ménès",
+        "anecdote": "Du fait de son rôle de polémiste, Pierre Ménès est entré à  plusieurs reprises en conflit avec différents acteurs du football."
+      },
+      {
+        "id": 26,
+        "question": "Quel animateur de télévision est surnommé le Prince polonais par William Leymergie ?",
+        "propositions": [
+          "Stéphane Plaza",
+          "Laurent Romejko",
+          "Ariel Wizman",
+          "Bruce Toussaint"
+        ],
+        "réponse": "Laurent Romejko",
+        "anecdote": "En 2000, il participe au lancement de la chaîne Santé Vie et présente un journal destiné aux professionnels de la santé."
+      },
+      {
+        "id": 27,
+        "question": "Quel est le nom de la société de production de Julien Courbet ?",
+        "propositions": [
+          "Coyote",
+          "Atlantic",
+          "Réservoir Prod",
+          "La Concepteria"
+        ],
+        "réponse": "La Concepteria",
+        "anecdote": "Julien Courbet est un cavalier émérite qui concourt sous son véritable nom (Frédéric Courbet)."
+      },
+      {
+        "id": 28,
+        "question": "Qui fut le premier à  animer « La Chasse aux trésors » sur Antenne 2 en 1981 ?",
+        "propositions": [
+          "Didier Lecat ",
+          "Philippe Gildas",
+          "Jean Lanzi ",
+          "Bruce Toussaint"
+        ],
+        "réponse": "Philippe Gildas",
+        "anecdote": "Philippe Gildas a publié son autobiographie « Comment réussir à  la télévision quand on est petit, breton, avec de grandes oreilles »."
+      },
+      {
+        "id": 29,
+        "question": "Quel animateur de télévision a chanté « Cuitas les bananas » ?",
+        "propositions": [
+          "Sébastien Cauet",
+          "Pascal Brunner",
+          "Thierry Beccaro",
+          "Philippe Risoli"
+        ],
+        "réponse": "Philippe Risoli",
+        "anecdote": "Philippe Risoli a fait son grand retour à  la télévision sur la chaîne Gulli en 2009 en y présentant « L'École des fans »."
+      },
+      {
+        "id": 30,
+        "question": "Quel animateur produit des émissions de télé grâce à  sa société Coyote ?",
+        "propositions": [
+          "Ch. Dechavanne",
+          "O. Minne",
+          "Th. Ardisson",
+          "V. Perrot"
+        ],
+        "réponse": "Ch. Dechavanne",
+        "anecdote": "Christophe Dechavanne figure parmi les premières personnalités à  avoir proposé le préservatif à  un franc."
+      },
+      {
+        "id": 1,
+        "question": "Combien de départements compte la Bretagne, à  l'extrémité ouest de la France ?",
+        "propositions": [
+          "Deux",
+          "Cinq",
+          "Quatre",
+          "Trois"
+        ],
+        "réponse": "Quatre",
+        "anecdote": "La Bretagne est située entre la Manche au nord, la mer Celtique à  l'ouest et le golfe de Gascogne au sud."
+      },
+      {
+        "id": 2,
+        "question": "Comment dit-on « Bretagne » en breton, langue parlée par 200 000 personnes en Bretagne ?",
+        "propositions": [
+          "Gomz",
+          "Breizh",
+          "Fenoz",
+          "Kerne"
+        ],
+        "réponse": "Breizh",
+        "anecdote": "La pratique traditionnelle du breton est majoritairement concentrée dans l'ouest de la péninsule."
+      },
+      {
+        "id": 3,
+        "question": "Quelle ville bretonne est connue pour ses alignements de plusieurs milliers de menhirs ?",
+        "propositions": [
+          "Lorient",
+          "Brest",
+          "Rumengol",
+          "Carnac"
+        ],
+        "réponse": "Carnac",
+        "anecdote": "Ce site mégalithique exceptionnel est constitué d'alignements de menhirs, de dolmens et d'allées couvertes."
+      },
+      {
+        "id": 4,
+        "question": "Quelle ville bretonne a pour habitants les briochins et les briochines ?",
+        "propositions": [
+          "Brest",
+          "Betton",
+          "Saint-Brieuc",
+          "Bruz"
+        ],
+        "réponse": "Saint-Brieuc",
+        "anecdote": "Préfecture des Côtes-d'Armor, Saint-Brieuc en est également la ville la plus peuplée."
+      },
+      {
+        "id": 5,
+        "question": "Quel symbole celtique à  trois branches est devenu très populaire en Bretagne ?",
+        "propositions": [
+          "Chardon",
+          "Sablier",
+          "Flèche",
+          "Triskèle"
+        ],
+        "réponse": "Triskèle",
+        "anecdote": "Le triskèle est considéré comme une caractéristique importante de l'art celtique à  l'époque de la Tène."
+      },
+      {
+        "id": 6,
+        "question": "Quels genres de musique sont célébrés tous les ans à  Lorient ?",
+        "propositions": [
+          "Cubaines",
+          "Celtiques",
+          "Classiques",
+          "Religieuses"
+        ],
+        "réponse": "Celtiques",
+        "anecdote": "Le Festival interceltique de Lorient trouve son origine dans l'accueil en 1971 d'une compétition de bagadou."
+      },
+      {
+        "id": 7,
+        "question": "Quelle course à  la voile est très souvent associée au port de Saint-Malo ?",
+        "propositions": [
+          "Transat anglaise",
+          "Spi Dauphine",
+          "Vendée Globe",
+          "Route du Rhum"
+        ],
+        "réponse": "Route du Rhum",
+        "anecdote": "Le record de la traversée est détenu depuis 2014 par Loà¯ck Peyron sur le Maxi Solo BP VII."
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la préfecture du Finistère, département situé en région Bretagne ?",
+        "propositions": [
+          "Brest",
+          "Nantes",
+          "Quimper",
+          "Vannes"
+        ],
+        "réponse": "Quimper",
+        "anecdote": "Le Finistère fut créé en 1790 à  l'instar de la majorité des départements français."
+      },
+      {
+        "id": 9,
+        "question": "Combien peut-on compter de bandes noires et blanches sur le drapeau breton ?",
+        "propositions": [
+          "Cinq",
+          "Trois",
+          "Sept",
+          "Neuf"
+        ],
+        "réponse": "Neuf",
+        "anecdote": "Un canton supérieur (côté mât) de couleur blanche est quant à  lui parsemé d'une multitude de mouchetures d'hermine."
+      },
+      {
+        "id": 10,
+        "question": "à€ partir de quelle substance est réalisé le chouchen, proche de l'hydromel ?",
+        "propositions": [
+          "Miel",
+          "Lait",
+          "Sirop de menthe",
+          "Foie gras"
+        ],
+        "réponse": "Miel",
+        "anecdote": "Le chouchen se fabriquait autrefois plus particulièrement à  partir de miel de sarrasin, jadis très présent en Bretagne."
+      },
+      {
+        "id": 11,
+        "question": "En Haute-Bretagne, que désigne le gallo, faisant l'objet d'études universitaires ?",
+        "propositions": [
+          "Un oiseau",
+          "Un dessert",
+          "Une langue",
+          "Un symbole"
+        ],
+        "réponse": "Une langue",
+        "anecdote": "Contrairement au breton, le gallo ne bénéficie pas d'une longue tradition de défense et de protection."
+      },
+      {
+        "id": 12,
+        "question": "Quel festival a lieu tous les ans sur la commune de Carhaix-Plouguer, dans le Finistère ?",
+        "propositions": [
+          "Rocklang",
+          "Vieilles charrues",
+          "Europavox",
+          "Musicalarue"
+        ],
+        "réponse": "Vieilles charrues",
+        "anecdote": "Ce festival annuel dure quatre jours et débute à  la mi-juillet dans la commune de Carhaix-Plouguer."
+      },
+      {
+        "id": 13,
+        "question": "Dans quel département français se dresse le phare de l'àŽle Vierge ?",
+        "propositions": [
+          "Côtes-d'Armor",
+          "Finistère",
+          "Morbihan",
+          "àŽle et Vilaine"
+        ],
+        "réponse": "Finistère",
+        "anecdote": "Ce phare fait l'objet d'un classement au titre des monuments historiques depuis le 23 mai 2011."
+      },
+      {
+        "id": 14,
+        "question": "Quelle ville est la capitale traditionnelle de la Cornouaille ?",
+        "propositions": [
+          "Lorient",
+          "Saint-Malo",
+          "Quimper",
+          "Morlaix"
+        ],
+        "réponse": "Quimper",
+        "anecdote": "Selon une étude réalisée en 2005, Quimper se classait en 22ème position des villes françaises où il faisait bon vivre."
+      },
+      {
+        "id": 15,
+        "question": "Dans quelle ville de Bretagne est situé le deuxième port militaire français ?",
+        "propositions": [
+          "Nantes",
+          "Vannes",
+          "Quimper",
+          "Brest"
+        ],
+        "réponse": "Brest",
+        "anecdote": "L'arsenal de Brest est un ensemble d'installations militaires et navales situé dans la rivière Penfeld, à  Brest, dans le Finistère."
+      },
+      {
+        "id": 16,
+        "question": "Dans quelle ville de Bretagne peut-on admirer la cathédrale Saint-Pierre-et-Saint-Paul ?",
+        "propositions": [
+          "Lorient",
+          "Saint-Brieuc",
+          "Brest",
+          "Nantes"
+        ],
+        "réponse": "Nantes",
+        "anecdote": "On peut y admirer le tombeau et les gisants du duc François II de Bretagne et de son épouse Marguerite de Foix."
+      },
+      {
+        "id": 17,
+        "question": "Quel était l'ancien nom du département des Côtes-d'Armor ?",
+        "propositions": [
+          "Côtes du Roi",
+          "Côtes-du-Nord",
+          "Côtes ciselées",
+          "Côtes franches"
+        ],
+        "réponse": "Côtes-du-Nord",
+        "anecdote": "Les Côtes-d'Armor sont limitrophes du Finistère à  l'ouest, du Morbihan au sud et de l'Ille-et-Vilaine à  l'est."
+      },
+      {
+        "id": 18,
+        "question": "Quel célèbre navigateur et explorateur français est né à  Saint-Malo en 1491 ?",
+        "propositions": [
+          "Jacques Cartier",
+          "Jean Dugain",
+          "Charles Levasseur",
+          "Albert Falco"
+        ],
+        "réponse": "Jacques Cartier",
+        "anecdote": "Un boulevard et une station du métro de Rennes portent le nom de Jacques Cartier, ainsi qu'un lycée public de Saint-Malo."
+      },
+      {
+        "id": 19,
+        "question": "Que mangerez-vous en achetant un petit-gris de Rennes sur un marché breton ?",
+        "propositions": [
+          "Sandwich",
+          "Melon",
+          "Bonbon",
+          "Saucisson"
+        ],
+        "réponse": "Melon",
+        "anecdote": "Il est caractérisé par une petite taille de fruit, une robe gris-verte et un goût très sucré."
+      },
+      {
+        "id": 20,
+        "question": "Quelle ville bretonne est surnommée « La cité des peintres » ?",
+        "propositions": [
+          "Carnac",
+          "Concarneau",
+          "Pont-Aven",
+          "Vannes"
+        ],
+        "réponse": "Pont-Aven",
+        "anecdote": "Pont-Aven était autrefois un bourg très animé : en 1900, on y comptait 40 hôtels, auberges et cafés."
+      },
+      {
+        "id": 21,
+        "question": "Pour un breton, que représente le Gwenn ha Du, symbole de sa région ?",
+        "propositions": [
+          "Drapeau",
+          "Bateau",
+          "Château",
+          "Gâteau"
+        ],
+        "réponse": "Drapeau",
+        "anecdote": "D'autres drapeaux sont encore utilisés aujourd'hui afin de représenter cette région."
+      },
+      {
+        "id": 22,
+        "question": "En Bretagne, que pouvez-vous contempler en regardant la Table des Marchand ?",
+        "propositions": [
+          "Château-fort",
+          "Statue",
+          "Tableau",
+          "Dolmen"
+        ],
+        "réponse": "Dolmen",
+        "anecdote": "Propriété de l'État, le dolmen fait l'objet d'un classement au titre des monuments historiques depuis 1889."
+      },
+      {
+        "id": 23,
+        "question": "Dans quelle ville peut-on admirer le château des ducs de Bretagne ?",
+        "propositions": [
+          "Nantes",
+          "Lorient",
+          "Morlaix",
+          "Quimper"
+        ],
+        "réponse": "Nantes",
+        "anecdote": "Devenu propriété de la ville de Nantes en 1915, le château est affecté à  un usage touristique et muséal depuis 1924."
+      },
+      {
+        "id": 24,
+        "question": "Quel écrivain a été enterré face à  la mer sur le rocher du grand Bé, à  Saint-Malo ?",
+        "propositions": [
+          "Rousseau",
+          "Balzac",
+          "Chateaubriand",
+          "Montesquieu"
+        ],
+        "réponse": "Chateaubriand",
+        "anecdote": "Chateaubriand est considéré comme l'un des précurseurs du romantisme français."
+      },
+      {
+        "id": 25,
+        "question": "Pour quelle culture la ville de Paimpol est-elle célèbre ?",
+        "propositions": [
+          "Pomme",
+          "Cerise jaune",
+          "Haricot sec",
+          "Raisin blanc"
+        ],
+        "réponse": "Haricot sec",
+        "anecdote": "Construite autour de ses bassins, Paimpol est l'un des principaux ports de pàªche et de plaisance donnant sur la Manche."
+      },
+      {
+        "id": 26,
+        "question": "Dans quelle commune de France se trouve le monument mégalithique La Roche-aux-Fées ?",
+        "propositions": [
+          "Sainte-Colombe",
+          "Pont-Aven",
+          "Retiers",
+          "Essé"
+        ],
+        "réponse": "Essé",
+        "anecdote": "Son nom vient d'une légende prétendant que les pierres auraient été apportées par des fées."
+      },
+      {
+        "id": 27,
+        "question": "Quelle est la ville la plus importante et la plus touristique de Belle-àŽle-en-Mer ?",
+        "propositions": [
+          "Le Palais",
+          "Sauzon",
+          "Essé",
+          "Bangor"
+        ],
+        "réponse": "Le Palais",
+        "anecdote": "Belle-àŽle est un plateau d'origine volcanique essentiellement constitué de schiste décomposé."
+      },
+      {
+        "id": 28,
+        "question": "Pour quelle spécialité culinaire la ville de Guémené-sur-Scorff est-elle connue ?",
+        "propositions": [
+          "Saucisse",
+          "Boudin",
+          "Andouille",
+          "Haricot sec"
+        ],
+        "réponse": "Andouille",
+        "anecdote": "L'andouille de Guémené est une charcuterie à  base de chaudins de porc enfilés les uns sur les autres pour former une andouille."
+      },
+      {
+        "id": 29,
+        "question": "Dans quelle ville de Bretagne se trouve la base de sous-marins de Keroman ?",
+        "propositions": [
+          "Lorient",
+          "Landerneau",
+          "Saint-Malo",
+          "Nantes"
+        ],
+        "réponse": "Lorient",
+        "anecdote": "Depuis la fin des années 1990, le site est reconverti en un pôle nautique spécialisé dans la plaisance et la course au large."
+      },
+      {
+        "id": 30,
+        "question": "Quel chef d'oeuvre architectural de la renaissance la ville de Pontivy abrite-t-elle ?",
+        "propositions": [
+          "Château",
+          "Ferme",
+          "Moulin",
+          "Eglise"
+        ],
+        "réponse": "Château",
+        "anecdote": "Le château de Pontivy est le lieu de la « déclaration d'indépendance bretonne » de 1940."
+      },
+      {
+        "id": 1,
+        "question": "Quel constructeur automobile a pour slogan le plaisir de conduire ?",
+        "propositions": [
+          "BMW",
+          "Lexus",
+          "Lotus",
+          "Mercedes"
+        ],
+        "réponse": "BMW",
+        "anecdote": "En 2016, le groupe BMW a vendu 2 117 965 véhicules automobiles (BMW, Mini, et Rolls-Royce) ainsi que 123 495 deux-roues."
+      },
+      {
+        "id": 2,
+        "question": "Quelles couleurs sont présentes sur le logo circulaire de la marque BMW ?",
+        "propositions": [
+          "Bleu et blanc",
+          "Noir et rouge",
+          "Rouge et bleu",
+          "Vert et jaune"
+        ],
+        "réponse": "Bleu et blanc",
+        "anecdote": "L'emblème de la marque BMW reprend le cercle noir du logo de Rapp, avec au centre les couleurs symbolisant la Bavière."
+      },
+      {
+        "id": 3,
+        "question": "Quel constructeur automobile a produit les modèles Diablo et Countach ?",
+        "propositions": [
+          "Maserati",
+          "Porsche",
+          "Ferrari",
+          "Lamborghini"
+        ],
+        "réponse": "Lamborghini",
+        "anecdote": "La Lamborghini Diablo succède à  la légendaire Lamborghini Countach après seize ans de carrière et 2 200 exemplaires produits."
+      },
+      {
+        "id": 4,
+        "question": "Laquelle de ces voitures est un modèle du constructeur Nissan ?",
+        "propositions": [
+          "Fiesta",
+          "Diablo",
+          "Qashqai",
+          "Elantra"
+        ],
+        "réponse": "Qashqai",
+        "anecdote": "En mai 2007, la Qashqai de chez Nissan a décroché la plus haute note possible aux crash tests Euro NCAP, à  savoir cinq étoiles."
+      },
+      {
+        "id": 5,
+        "question": "Quel constructeur haut de gamme a pour ornement l'Esprit d'extase ?",
+        "propositions": [
+          "Jaguar",
+          "Mercedes",
+          "Porsche",
+          "Rolls-Royce"
+        ],
+        "réponse": "Rolls-Royce",
+        "anecdote": "Spirit of Ecstasy, le fameux bouchon de radiateur de la marque Rolls-Royce, a été créé en 1911 par l'artiste anglais Charles Sykes."
+      },
+      {
+        "id": 6,
+        "question": "Lequel de ces modèles Volkswagen reste aujourd'hui le plus vendu au monde ?",
+        "propositions": [
+          "Jetta",
+          "Scarabée",
+          "Golf",
+          "Passat"
+        ],
+        "réponse": "Golf",
+        "anecdote": "Ce concept de petite voiture sportive à  hayon et traction avec un moteur à  injection contrastait avec les moteurs à  carburateur."
+      },
+      {
+        "id": 7,
+        "question": "Quel constructeur a produit la très populaire Coccinelle ?",
+        "propositions": [
+          "Volvo",
+          "Volkswagen",
+          "Nissan",
+          "Suzuki"
+        ],
+        "réponse": "Volkswagen",
+        "anecdote": "Produite en 1938, la Coccinelle fut conçue par l'ingénieur autrichien Ferdinand Porsche à  la demande du chancelier Adolf Hitler."
+      },
+      {
+        "id": 8,
+        "question": "Combien de passagers peut accueillir une Tesla Modèle S de 2014 ?",
+        "propositions": [
+          "Trois",
+          "Un seul",
+          "Sept",
+          "Cinq"
+        ],
+        "réponse": "Sept",
+        "anecdote": "Outre la recharge sur bornes ordinaires, la Model S bénéficie de bornes gratuites ultra-rapides appelées Superchargeurs."
+      },
+      {
+        "id": 9,
+        "question": "Quel constructeur automobile a créé le modèle Cayenne ?",
+        "propositions": [
+          "Porsche",
+          "Ferrari",
+          "Maserati",
+          "Lamborghini"
+        ],
+        "réponse": "Porsche",
+        "anecdote": "Le Cayenne a été fabriqué en collaboration avec Volkswagen avec qui il partage la màªme plate-forme de son 4x4 Touareg."
+      },
+      {
+        "id": 10,
+        "question": "Quel constructeur a produit une voiture hybride du nom de Civic ?",
+        "propositions": [
+          "Honda",
+          "Jaguar",
+          "Tesla",
+          "Ford"
+        ],
+        "réponse": "Honda",
+        "anecdote": "Le terme Civic exprime l'ambition de la marque Honda de réduire ses émissions polluantes et de proposer une voiture propre."
+      },
+      {
+        "id": 11,
+        "question": "En quelle année la Citroà«n DS a-t-elle été vendue pour la première fois ?",
+        "propositions": [
+          "1964",
+          "1947",
+          "1955",
+          "1971"
+        ],
+        "réponse": "1955",
+        "anecdote": "Le D viendrait de l'usage du moteur le plus récent alors de Citroà«n, le moteur série D, qui équipait la Traction 11 D."
+      },
+      {
+        "id": 12,
+        "question": "Quel constructeur américain a produit le modèle Chieftain ?",
+        "propositions": [
+          "Pontiac",
+          "Chrysler",
+          "Lotus",
+          "Ford"
+        ],
+        "réponse": "Pontiac",
+        "anecdote": "La Chieftain de 1949 marque le tout premier nouveau design des modèles Pontiac sortis après la Seconde Guerre mondiale."
+      },
+      {
+        "id": 13,
+        "question": "Dacia est un constructeur automobile originaire de quel pays ?",
+        "propositions": [
+          "Roumanie",
+          "Bulgarie",
+          "Pologne",
+          "Grèce"
+        ],
+        "réponse": "Roumanie",
+        "anecdote": "Les véhicules produits sont commercialisés sous la marque Dacia en Europe et sous la marque Renault dans le reste du monde."
+      },
+      {
+        "id": 14,
+        "question": "Quel constructeur a pour slogan la puissance des ràªves ?",
+        "propositions": [
+          "Jaguar",
+          "Land Rover",
+          "Skoda",
+          "Honda"
+        ],
+        "réponse": "Honda",
+        "anecdote": "En 2008, Honda a vendu plus de 17 millions de moteurs à  quatre temps, ce qui en a fait le plus important producteur au monde."
+      },
+      {
+        "id": 15,
+        "question": "Quel État des États-Unis a été choisi pour héberger la « Gigafactory 1 » de Tesla ?",
+        "propositions": [
+          "Nevada",
+          "Washington",
+          "New York",
+          "Illinois"
+        ],
+        "réponse": "Nevada",
+        "anecdote": "Cette usine a été conçue dans le but de produire, à  terme, assez d'énergie renouvelable pour faire face à  sa consommation."
+      },
+      {
+        "id": 16,
+        "question": "Quel constructeur a possédé la marque Jaguar de 1990 à  2008 ?",
+        "propositions": [
+          "Ford",
+          "BMW",
+          "Honda",
+          "Nissan"
+        ],
+        "réponse": "Ford",
+        "anecdote": "La société SSC, fondée en 1922, prit le nom de Jaguar en 1945 pour ne pas évoquer les SS allemands de sinistre mémoire."
+      },
+      {
+        "id": 17,
+        "question": "La Bel Air était autrefois un modèle très populaire proposé par quel constructeur ?",
+        "propositions": [
+          "Chrysler",
+          "Volkswagen",
+          "American Motors",
+          "Chevrolet"
+        ],
+        "réponse": "Chevrolet",
+        "anecdote": "Le nom de Bel Air vient d'un quartier huppé de la ville de Los Angeles, situé 27 kilomètres à  l'ouest de Downtown Los Angeles."
+      },
+      {
+        "id": 18,
+        "question": "Quel constructeur a pour slogan l'art de la performance ?",
+        "propositions": [
+          "Chevrolet",
+          "Peugeot",
+          "Mini Cooper",
+          "Jaguar"
+        ],
+        "réponse": "Jaguar",
+        "anecdote": "Le 26 mars 2008, dans le cadre d'un démantèlement, Ford a vendu Jaguar à  l'entreprise indienne Tata Motors."
+      },
+      {
+        "id": 19,
+        "question": "Quel modèle de voiture Ford est sorti le premier dans les années 60 ?",
+        "propositions": [
+          "Ford Gelding",
+          "Ford Mustang",
+          "Ford Stallion",
+          "Ford Mare"
+        ],
+        "réponse": "Ford Mustang",
+        "anecdote": "Fait unique pour la marque Ford, tous les modèles Mustang arborent leur propre logotype de calandre (un mustang au galop)."
+      },
+      {
+        "id": 20,
+        "question": "Dans quelle ville italienne est situé le siège social du constructeur Fiat ?",
+        "propositions": [
+          "Gàªnes",
+          "Naples",
+          "Turin",
+          "Milan"
+        ],
+        "réponse": "Turin",
+        "anecdote": "La compagnie FIAT a été créée le 11 juillet 1899 au Palazzo Bricherasio par trente actionnaires, dont Giovanni Agnelli."
+      },
+      {
+        "id": 21,
+        "question": "Par quelle entreprise fut conçu le moteur de la Chevrolet Corvette C4 ZR1 ?",
+        "propositions": [
+          "Lotus",
+          "Saab",
+          "Nissan",
+          "BMW"
+        ],
+        "réponse": "Lotus",
+        "anecdote": "Si la Corvette C4 est apparue en 1983, sa version sportive ZR1 n'apparaîtra quant à  elle qu'au salon de Genève 1989."
+      },
+      {
+        "id": 22,
+        "question": "Quel était le prénom du mécanicien et fondateur de la Chrysler Company ?",
+        "propositions": [
+          "Wade",
+          "Walter",
+          "Wilfried",
+          "William"
+        ],
+        "réponse": "Walter",
+        "anecdote": "De 1928 à  1930, Walter P. Chrysler fit construire un immeuble à  la gloire de la marque automobile de son nom : le Chrysler Building."
+      },
+      {
+        "id": 23,
+        "question": "Quel véhicule reste à  ce jour la plus petite voiture jamais produite ?",
+        "propositions": [
+          "Chevrolet Camaro",
+          "Isetta",
+          "Peel P50",
+          "Mini Cooper"
+        ],
+        "réponse": "Peel P50",
+        "anecdote": "La Peel P50 est une mini voiture à  trois roues fabriquée de 1962 à  1965 par la société Peel Engineering Company sur l'àŽle de Man."
+      },
+      {
+        "id": 24,
+        "question": "Les Herald, Vitesse et Spitfire sont des modèles fabriqués par quelle entreprise ?",
+        "propositions": [
+          "Vauxhall",
+          "Austin",
+          "Peugeot",
+          "Triumph"
+        ],
+        "réponse": "Triumph",
+        "anecdote": "Le but de la Spitfire était de créer une petite voiture de sport bon marché, située un niveau en-dessous de celui des roadsters TR."
+      },
+      {
+        "id": 25,
+        "question": "Jusqu'en quelle année la marque Duesenberg a-t-elle conçu des voitures ?",
+        "propositions": [
+          "1927",
+          "1917",
+          "1947",
+          "1937"
+        ],
+        "réponse": "1937",
+        "anecdote": "Après la Seconde Guerre mondiale, l'américain August Duesenberg essayera tant bien que mal de relancer la marque, sans succès."
+      },
+      {
+        "id": 26,
+        "question": "Quel constructeur a choisi pour slogan innover autrement ?",
+        "propositions": [
+          "Volkswagen",
+          "Lexus",
+          "Nissan",
+          "Jaguar"
+        ],
+        "réponse": "Nissan",
+        "anecdote": "Nissan Motor Company, Limited ou Nissan est un constructeur automobile japonais né en 1932 sous le nom de Datsun."
+      },
+      {
+        "id": 27,
+        "question": "Dans quelle ville d'Allemagne se trouve le siège social d'Audi ?",
+        "propositions": [
+          "Dortmund",
+          "Frankfort",
+          "Ingolstadt",
+          "Kiel"
+        ],
+        "réponse": "Ingolstadt",
+        "anecdote": "Implantée dans 55 pays du monde, la marque Audi est présente sur la plupart des segments du marché des véhicules particuliers."
+      },
+      {
+        "id": 28,
+        "question": "De quelle compagnie fait partie la division Smart Automobile ?",
+        "propositions": [
+          "Chrysler",
+          "Daimler AG",
+          "General Motors",
+          "BMW"
+        ],
+        "réponse": "Daimler AG",
+        "anecdote": "Smart (dérivé du nom de projet Swatch Mercedes Art car) est une marque créée en 1994 sous l'impulsion du groupe horloger Swatch."
+      },
+      {
+        "id": 29,
+        "question": "Quelle compagnie d'automobiles possède un modèle appelé Forester ?",
+        "propositions": [
+          "Hyundai",
+          "Ford",
+          "Subaru",
+          "Toyota"
+        ],
+        "réponse": "Subaru",
+        "anecdote": "Il a été élu en 2009 et 2014 Meilleur SUV de l'année par Motor Trend et Meilleure voiture à  acheter en 2014 par Car Connection."
+      },
+      {
+        "id": 30,
+        "question": "Quel modèle de voiture succéda directement à  la Porsche 944 ?",
+        "propositions": [
+          "956",
+          "968",
+          "977",
+          "945"
+        ],
+        "réponse": "968",
+        "anecdote": "Au niveau esthétique, la Porsche 944 reprend les caractéristiques de la 924, ses ailes renflées rappelant celles de la 924 Carrera GT."
+      },
+      {
+        "id": 1,
+        "question": "Quelle est la couleur du passeport de l'union européenne délivré en Belgique ou en France ?",
+        "propositions": [
+          "Bleue",
+          "Verte",
+          "Grise",
+          "Bordeaux"
+        ],
+        "réponse": "Bordeaux",
+        "anecdote": "Toute personne sollicitant l'entrée dans un pays autre que le sien doit remplir certaines formalités et solliciter une autorisation."
+      },
+      {
+        "id": 2,
+        "question": "Comment appelle-t-on le cachet apposé sur un passeport permettant l'entrée dans un pays ?",
+        "propositions": [
+          "Un permis",
+          "Un visa",
+          "Un titre",
+          "Un code"
+        ],
+        "réponse": "Un visa",
+        "anecdote": "Le visa est une condition nécessaire pour entrer et séjourner pendant une certaine durée sur certains territoires."
+      },
+      {
+        "id": 3,
+        "question": "De quel pays le drapeau est-il appelé « Union Jack » ou encore « Union Flag » par certains ?",
+        "propositions": [
+          "La Suisse",
+          "La Grande Bretagne",
+          "La Finlande",
+          "La Grèce"
+        ],
+        "réponse": "La Grande Bretagne",
+        "anecdote": "Le drapeau combine la croix de saint Georges du drapeau anglais et la croix de saint André du drapeau écossais."
+      },
+      {
+        "id": 4,
+        "question": "Que vous fournira-t-on presque exclusivement pour mettre sur vos frites aux États-Unis ?",
+        "propositions": [
+          "De la mayonnaise",
+          "De la tartare",
+          "Du pickles",
+          "Du ketchup"
+        ],
+        "réponse": "Du ketchup",
+        "anecdote": "Le ketchup est un condiment populaire, habituellement élaboré à  partir de sauce tomate, de vinaigre et de sucre."
+      },
+      {
+        "id": 5,
+        "question": "Quel est le seul pays d'Europe où certaines voitures ont encore des phares jaunes ?",
+        "propositions": [
+          "Le Portugal",
+          "La Grèce",
+          "La Belgique",
+          "La France"
+        ],
+        "réponse": "La France",
+        "anecdote": "L'arràªté imposant les phares jaunes en France date du 3 novembre 1936 et se fonde sur l'avis de la Commission centrale."
+      },
+      {
+        "id": 6,
+        "question": "Quelle ville est considérée par beaucoup comme étant le centre diamantaire mondial ?",
+        "propositions": [
+          "Liège",
+          "Bruxelles",
+          "Anvers",
+          "Mons"
+        ],
+        "réponse": "Anvers",
+        "anecdote": "La réputation des diamantaires anversois fait de cette ville la première place mondiale de taille et de négociation du diamant."
+      },
+      {
+        "id": 7,
+        "question": "Quel  fruit du badianier de Chine parfume des boissons comme l'ouzo ou comme l'arak ?",
+        "propositions": [
+          "Le carvi",
+          "L'anis étoilé",
+          "Le sel noir",
+          "Le gingembre"
+        ],
+        "réponse": "L'anis étoilé",
+        "anecdote": "Les fruits sont cueillis verts, avant d'àªtre séchés au soleil, où ils prennent une couleur marron rouge."
+      },
+      {
+        "id": 8,
+        "question": "Combien coûte l'autoroute qui relie directement les villes d'Amsterdam et de Bruxelles ?",
+        "propositions": [
+          "Rien",
+          "27 euros",
+          "12 euros",
+          "19 euros"
+        ],
+        "réponse": "Rien",
+        "anecdote": "Le réseau autoroutier belge est très développé et bénéficie de la deuxième plus forte densité en Europe."
+      },
+      {
+        "id": 9,
+        "question": "Vers où regarde-t-on en tout premier lieu avant de traverser une route en Irlande ?",
+        "propositions": [
+          "La gauche",
+          "La droite",
+          "L'avant",
+          "L'arrière"
+        ],
+        "réponse": "La droite",
+        "anecdote": "En Irlande comme en Angleterre, on roule à  gauche, ce qui oblige les piétons à  d'abord regarder à  droite avant de traverser."
+      },
+      {
+        "id": 10,
+        "question": "Qu'est-ce qui est turc, né en Autriche et mangé en France au petit déjeuner ?",
+        "propositions": [
+          "Croissant",
+          "Gaufre",
+          "Cràªpe",
+          "Pistolet"
+        ],
+        "réponse": "Croissant",
+        "anecdote": "à€ Paris, les premiers croissants à  déguster furent vendus à  la rue de Richelieu entre 1837 et 1839."
+      },
+      {
+        "id": 11,
+        "question": "De quel pays très fortement peuplé le paon est-il depuis des lustres l'oiseau national ?",
+        "propositions": [
+          "L'Inde",
+          "La Thaà¯lande",
+          "La Chine",
+          "Le Japon"
+        ],
+        "réponse": "L'Inde",
+        "anecdote": "Étroitement associé à  la fertilité, la danse du paon symbolise en Inde le réveil de la nature et l'approche de la mousson."
+      },
+      {
+        "id": 12,
+        "question": "Qu'est-ce qu'un lama, si ce n'est pas un animal de grande taille de la cordillère des Andes ?",
+        "propositions": [
+          "Un moine tibétain",
+          "Un policier slave",
+          "Un arbre turc",
+          "Un pain grec"
+        ],
+        "réponse": "Un moine tibétain",
+        "anecdote": "Ce titre peut àªtre utilisé de manière honorifique pour un moine, une nonne ou un pratiquant avancé du tantrisme."
+      },
+      {
+        "id": 13,
+        "question": "Combien de zéros dans un trillion américain, égal à  un million à  la puissance trois ?",
+        "propositions": [
+          "9",
+          "15",
+          "6",
+          "12"
+        ],
+        "réponse": "12",
+        "anecdote": "En mathématique, un trillion représente 1 milliard de milliards (109x109), soit 10 puissance 18."
+      },
+      {
+        "id": 14,
+        "question": "Contre quelle maladie appelée vomi noir vous fait-on une vaccination antiamarile ?",
+        "propositions": [
+          "Choléra",
+          "Dysenterie",
+          "Typhus",
+          "Fièvre jaune"
+        ],
+        "réponse": "Fièvre jaune",
+        "anecdote": "La fièvre jaune reste toujours une cause importante de maladies hémorragiques dans plusieurs pays africains et sud-américains."
+      },
+      {
+        "id": 15,
+        "question": "Quel port dans lequel entrent 31 000 bateaux par an est le premier de Hollande ?",
+        "propositions": [
+          "La Haye",
+          "Utrecht",
+          "Rotterdam",
+          "Amsterdam"
+        ],
+        "réponse": "Rotterdam",
+        "anecdote": "Son activité lui a permis de s'affirmer comme le huitième port mondial en 2014, après Shanghaà¯ et Singapour."
+      },
+      {
+        "id": 16,
+        "question": "Quelle « protection » est-il plutôt judicieux de prévoir en Inde entre juin et octobre ?",
+        "propositions": [
+          "Des gants",
+          "Un préservatif",
+          "Un parapluie",
+          "Un casque"
+        ],
+        "réponse": "Un parapluie",
+        "anecdote": "Malgré un climat très varié de par la superficie du pays, la mousson ou la saison des pluies en Inde a lieu de juin à  septembre."
+      },
+      {
+        "id": 17,
+        "question": "Quel pays composé de provinces et de territoires a choisi le castor comme emblème ?",
+        "propositions": [
+          "Canada",
+          "Costa Rica",
+          "Mexique",
+          "Honduras"
+        ],
+        "réponse": "Canada",
+        "anecdote": "Des castors sauvages ont pu àªtre étudiés au Canada et en Europe du Nord dans des zones peu anthropisées."
+      },
+      {
+        "id": 18,
+        "question": "Quel liquide est mis sur les plages australiennes pour neutraliser les piqûres des méduses ?",
+        "propositions": [
+          "De l'essence",
+          "Du dissolvant",
+          "Du vinaigre",
+          "De la bière"
+        ],
+        "réponse": "Du vinaigre",
+        "anecdote": "Les méduses sont généralement des prédatrices qui paralysent leurs proies grâce à  leurs cnidocytes."
+      },
+      {
+        "id": 19,
+        "question": "Combien coûte une boisson alcoolisée sur un vol international « Air France » en première classe ?",
+        "propositions": [
+          "Rien",
+          "10 euros",
+          "30 euros",
+          "20 euros"
+        ],
+        "réponse": "Rien",
+        "anecdote": "La plate-forme de correspondance principale d'Air France est située sur l'aéroport de Paris-Charles-de-Gaulle."
+      },
+      {
+        "id": 20,
+        "question": "De quel pays pouviez-vous jadis recevoir une carte postale affranchie avec 60 escudos ?",
+        "propositions": [
+          "De la Grèce",
+          "Du Portugal",
+          "Des Pays-Bas",
+          "Du Brésil"
+        ],
+        "réponse": "Du Portugal",
+        "anecdote": "Son nom signifie écu et rappelle que les premières pièces portaient la représentation de l'écu des souverains."
+      },
+      {
+        "id": 21,
+        "question": "Quelle langue a 63 formes de présent et de nombreux mots pour désigner la neige ?",
+        "propositions": [
+          "Eskimo",
+          "Han",
+          "Tanacross",
+          "Eyak"
+        ],
+        "réponse": "Eskimo",
+        "anecdote": "Les langues eskimo contiennent les langues inuit (un continuum linguistique) et les langues yupik."
+      },
+      {
+        "id": 22,
+        "question": "Combien y a-t-il de bandes bleues et blanches sur le drapeau de la Grèce ?",
+        "propositions": [
+          "Trois",
+          "Sept",
+          "Cinq",
+          "Neuf"
+        ],
+        "réponse": "Neuf",
+        "anecdote": "Les raisons et la symbolique de ce choix ne sont pas connues précisément, et font l'objet de nombreuses théories populaires."
+      },
+      {
+        "id": 23,
+        "question": "Quelle drogue extraite de l'écorce du Cinchona retrouve-t-on dans le Schweppes ?",
+        "propositions": [
+          "Quinine",
+          "Nicotine",
+          "Camphre",
+          "Brucine"
+        ],
+        "réponse": "Quinine",
+        "anecdote": "Les espèces du genre Cinchona sont des arbustes, ou plus souvent des arbres, pouvant atteindre 18 mètres de hauteur."
+      },
+      {
+        "id": 24,
+        "question": "Qu'est-ce qui change autour du 180e méridien, dans l'océan Pacifique ?",
+        "propositions": [
+          "La lumière",
+          "La température",
+          "La date",
+          "L'humidité"
+        ],
+        "réponse": "La date",
+        "anecdote": "Cette ligne peut àªtre considérée comme étant située 12 heures en avance ou 12 heures en retard par à  Greenwich."
+      },
+      {
+        "id": 25,
+        "question": "Jusqu'à  quelle valeur en-dessous de zéro peut descendre le thermomètre en hiver en Sibérie ?",
+        "propositions": [
+          "- 80°C",
+          "- 40°C",
+          "- 60°C",
+          "- 20°C"
+        ],
+        "réponse": "- 80°C",
+        "anecdote": "Constituant la partie nord de l'Asie, la Sibérie représente 77 % de la surface de la Russie, mais seulement 27 % de sa population."
+      },
+      {
+        "id": 26,
+        "question": "à€ quoi vous servira un charpoi en Inde, que vous le fassiez sur le dos ou sur le ventre ?",
+        "propositions": [
+          "Travailler",
+          "Manger",
+          "Dormir",
+          "Chasser"
+        ],
+        "réponse": "Dormir",
+        "anecdote": "La forme, la composition et les tissus des oreillers varient selon les usages, les cultures, la qualité et le degré de confort de chacun."
+      },
+      {
+        "id": 27,
+        "question": "Quelle heure est-il à  Los Angeles quand vous prenez votre petit déjeuner à  New York à  8h ?",
+        "propositions": [
+          "2h",
+          "3h",
+          "10h",
+          "5h"
+        ],
+        "réponse": "5h",
+        "anecdote": "Un fuseau horaire est une zone de la surface terrestre qui observe une heure uniforme en tout lieu."
+      },
+      {
+        "id": 28,
+        "question": "Quel État très fortement peuplé est aussi le plus grand des États-Unis, après l'Alaska ?",
+        "propositions": [
+          "Le Texas",
+          "Le Michigan",
+          "La Virginie",
+          "Le Wyoming"
+        ],
+        "réponse": "Le Texas",
+        "anecdote": "Les Texans sont à  près de 80 % des citadins et presque la moitié d'entre eux vivent à  Dallas-Fort Worth ou Houston."
+      },
+      {
+        "id": 29,
+        "question": "à€ côté de quel animal mythique se dresse fièrement le lion du passeport britannique ?",
+        "propositions": [
+          "Un panda",
+          "Un ours",
+          "Une licorne",
+          "Un mouton"
+        ],
+        "réponse": "Une licorne",
+        "anecdote": "La licorne se voit dotée d'un corps équin, d'une barbiche de bouc, de sabots fendus et d'une longue corne sur le front."
+      },
+      {
+        "id": 30,
+        "question": "Qui repose dans les trois petites pyramides de Gizeh, placées à  côté des trois grandes ?",
+        "propositions": [
+          "Les pràªtres",
+          "Les mages",
+          "Les reines",
+          "Les esclaves"
+        ],
+        "réponse": "Les reines",
+        "anecdote": "les pyramides des reines, au nombre de trois, font partie des pyramides subsidiaires du complexe funéraire de Khéops."
+      },
+      {
+        "id": 1,
+        "question": "Où sont placés les deux propulseurs d'Astro le petit robot ?",
+        "propositions": [
+          "à€ la ceinture",
+          "Sous ses bras",
+          "Dans le dos",
+          "Dans ses pieds"
+        ],
+        "réponse": "Dans ses pieds",
+        "anecdote": "Diffusé depuis 1963 sur les écrans Japonais, le manga d'Osamu Tezuka avait déjà  été publié pour la première fois en 1952."
+      },
+      {
+        "id": 2,
+        "question": "Qui n'en finit plus de mourir dans les premières saisons de South Park ?",
+        "propositions": [
+          "Stan",
+          "Kyle",
+          "Kenny",
+          "Eric"
+        ],
+        "réponse": "Kenny",
+        "anecdote": "Le petit garçon à  la capuche orange est la risée de Cartman, l'un des quatre héros du dessin animé de Trey Parker et Matt Stone."
+      },
+      {
+        "id": 3,
+        "question": "Avec lequel des garçons de sa bande fait habituellement équipe Scoubidou ?",
+        "propositions": [
+          "Roger",
+          "Sammy",
+          "Fred",
+          "Logan"
+        ],
+        "réponse": "Sammy",
+        "anecdote": "Le chien détective a rapidement été de retour, accompagné de guest-stars comme Batman et Robin ou Laurel et Hardy."
+      },
+      {
+        "id": 4,
+        "question": "Qui est le plus âgé des enfants de la famille Simpson ?",
+        "propositions": [
+          "Lisa",
+          "Maggie",
+          "Bart",
+          "Marge"
+        ],
+        "réponse": "Bart",
+        "anecdote": "Depuis sa création en 1989, le dessin animé de Matt Groenig rencontre un succès mondial, traduit sur grand écran en 2007."
+      },
+      {
+        "id": 5,
+        "question": "Quel animal est Capucin, le petit compagnon de Candy ?",
+        "propositions": [
+          "Hamster",
+          "Raton laveur",
+          "Lapin",
+          "Chat"
+        ],
+        "réponse": "Raton laveur",
+        "anecdote": "La jeune fille se retrouve à  l'orphelinat tenu par Mademoiselle Pony, et Candy tombe amoureuse du prince des collines."
+      },
+      {
+        "id": 6,
+        "question": "Comment qualifier le manège de Margotte, Zébulon et Pollux ?",
+        "propositions": [
+          "Encerclé",
+          "Enchanté",
+          "Hanté",
+          "Embrumé"
+        ],
+        "réponse": "Enchanté",
+        "anecdote": "La série d'animation de Serge Danot est apparue en 1963 sur la première chaîne de l'ORTF. En 2005, une version 3D a été diffusée."
+      },
+      {
+        "id": 7,
+        "question": "Qui est rond comme un ballon et plus jaune qu'un citron ?",
+        "propositions": [
+          "Fruity",
+          "Pengo",
+          "Digger",
+          "Pac-Man"
+        ],
+        "réponse": "Pac-Man",
+        "anecdote": "Ce héros a été l'une des premières vedettes de jeu vidéo à  avoir son propre dessin animé, avant Super Mario Bros et Zelda."
+      },
+      {
+        "id": 8,
+        "question": "Quel pivert possède le rire le plus reconnaissable de la télévision ?",
+        "propositions": [
+          "Falco Lombardi",
+          "Oscar Rapace",
+          "Génius",
+          "Woody Woodpecker"
+        ],
+        "réponse": "Woody Woodpecker",
+        "anecdote": "Le petit oiseau à  la houpette rouge, né en 1940 mais diffusé en 1967, a un rire original signé Mel Blanc."
+      },
+      {
+        "id": 9,
+        "question": "De quelle saga cinématographique « Clone Wars » est-il dérivé ?",
+        "propositions": [
+          "Voraces",
+          "Star Wars",
+          "Harry Potter",
+          "Star Trek"
+        ],
+        "réponse": "Star Wars",
+        "anecdote": "D'après l'histoire signée George Lucas, le dessin animé a été produit à  partir de 2003, entre les sorties des épisodes 2 et 3."
+      },
+      {
+        "id": 10,
+        "question": "Qui est le meilleur ami de Tom Sayer à  Saint-Petersburg ?",
+        "propositions": [
+          "Muff Potter",
+          "Jim Hollis",
+          "Benjamin Rogers",
+          "Huckleberry Finn"
+        ],
+        "réponse": "Huckleberry Finn",
+        "anecdote": "Véritable vagabond livré à  lui-màªme, il entraîne Tom Sayer avec lui dans de nombreuses aventures sur les bords du Mississippi."
+      },
+      {
+        "id": 11,
+        "question": "Grâce à  quel objet Gigi arrive-t-elle à  se transformer en jeune femme ?",
+        "propositions": [
+          "Chapeau",
+          "Pendentif",
+          "Ceinture",
+          "Parapluie"
+        ],
+        "réponse": "Pendentif",
+        "anecdote": "à‚gée de 12 ans, Gigi est une princesse envoyée sur Terre par ses parents pour redonner de l'espoir à  certains humains."
+      },
+      {
+        "id": 12,
+        "question": "Qu'utilise le lutin Tofffsy pour savoir si on lui dit la vérité ?",
+        "propositions": [
+          "Herbe musicale",
+          "Diamant bleu",
+          "Grimoire",
+          "Clé magique"
+        ],
+        "réponse": "Herbe musicale",
+        "anecdote": "Le petit lutin à  la chevelure jaune a toujours d'ingénieuses idées pour aider ses amis qui vivent avec lui au château de la comtesse."
+      },
+      {
+        "id": 13,
+        "question": "Quel jeune héros de série télé âgé de 10 ans utilise l'Omnitrix ?",
+        "propositions": [
+          "Astro",
+          "Ben 10",
+          "Kenny",
+          "Yogi"
+        ],
+        "réponse": "Ben 10",
+        "anecdote": "L'omnitrix est le bracelet qu'il fixe à  son poignet et qui lui permet de se métamorphoser en dix héros aux super-pouvoirs."
+      },
+      {
+        "id": 14,
+        "question": "Grâce à  quel objet Sophie communique-t-elle avec Finot dans « Inspecteur Gadget » ?",
+        "propositions": [
+          "Bague",
+          "Poupée",
+          "Téléphone",
+          "Montre"
+        ],
+        "réponse": "Montre",
+        "anecdote": "Ultra-sophistiquée, la montre offre à  Sophie la possibilité de parler et de voir son chien pour venir ensemble en aide à  Gadget."
+      },
+      {
+        "id": 15,
+        "question": "Que pilotent Satanas et Diabolo pour attraper le messager Zéphyrin ?",
+        "propositions": [
+          "Moto",
+          "Autobus",
+          "Biplan",
+          "Fusée"
+        ],
+        "réponse": "Biplan",
+        "anecdote": "A la suite du succès des « Fous du volant », Satanas et Diabolo ont en effet poursuivi leurs péripéties dans les airs."
+      },
+      {
+        "id": 16,
+        "question": "Pour quelle raison Calimero est-il le seul poussin de couleur noire autour de lui ?",
+        "propositions": [
+          "Il est brûlé",
+          "Il est malade",
+          "Il est sale",
+          "Il est furieux"
+        ],
+        "réponse": "Il est sale",
+        "anecdote": "En 1961, Calimero était la star d'une publicité pour la lessive italienne où il retrouvait sa couleur d'origine une fois nettoyé."
+      },
+      {
+        "id": 17,
+        "question": "Quelle est la particularité vestimentaire de Yogi l'ours ?",
+        "propositions": [
+          "Cape et collants",
+          "Tee-shirt et tongs",
+          "Cravate et chapeau",
+          "Casquette et short"
+        ],
+        "réponse": "Cravate et chapeau",
+        "anecdote": "Évoluant dans le parc de Jellystone en compagnie de son ami Boubou, il est toujours en quàªte de nourriture."
+      },
+      {
+        "id": 18,
+        "question": "Quel animal est Saturnin, héros de la série créée par Jean Tourane ?",
+        "propositions": [
+          "Un zèbre",
+          "Un raton laveur",
+          "Un éléphant",
+          "Un caneton"
+        ],
+        "réponse": "Un caneton",
+        "anecdote": "Le petit volatile caractériel, dont le monde miniature est à  l'identique celui des humains, a démarré sa carrière en 1965."
+      },
+      {
+        "id": 19,
+        "question": "Par quel procédé d'animation le clown Kiri a-t-il été créé ?",
+        "propositions": [
+          "Papier carton",
+          "Mosaà¯ques",
+          "Plasticine",
+          "Marionnettes"
+        ],
+        "réponse": "Marionnettes",
+        "anecdote": "De ville en ville, sa roulotte entraîne ses compagnons Pip'lett, Laura, Ratibus et Bianca dans de nombreuses aventures."
+      },
+      {
+        "id": 20,
+        "question": "Quelle héroà¯ne de dessin animé a été la star des studios Fleischer avec Popeye ?",
+        "propositions": [
+          "Charlotte",
+          "Betty Boop",
+          "Dora Marquez",
+          "Manny"
+        ],
+        "réponse": "Betty Boop",
+        "anecdote": "Apparue en 1930, la sensuelle brunette est un des personnages animés emblématiques de l'entre-deux-guerres."
+      },
+      {
+        "id": 21,
+        "question": "Quelle est la chaîne jeunesse dont le slogan a été « La télé qui remue toute la famille » ?",
+        "propositions": [
+          "W9",
+          "Cstar",
+          "HD1",
+          "Gulli"
+        ],
+        "réponse": "Gulli",
+        "anecdote": "Lors du lancement de la TNT en France, en 2005, le groupe Lagardère et France Televisions se sont associés."
+      },
+      {
+        "id": 22,
+        "question": "Quels personnages sautillent en s'engouffrant dans leur poche ?",
+        "propositions": [
+          "Entrechats",
+          "Tifins",
+          "Popples",
+          "Bisounours"
+        ],
+        "réponse": "Popples",
+        "anecdote": "Ces boules de poils adorent s'amuser et possèdent une poche dans le dos qui leur permet de faire sortir des objets insolites."
+      },
+      {
+        "id": 23,
+        "question": "De quelle série télévisée d'animation le jeune Yugo est-il le héros ?",
+        "propositions": [
+          "Code Lyoko",
+          "Star Butterfly",
+          "Molusco",
+          "Wakfu"
+        ],
+        "réponse": "Wakfu",
+        "anecdote": "Accompagné de ses cinq amis, l'enfant va tenter d'arràªter les ambitions du Nox volant l'énergie créatrice du monde."
+      },
+      {
+        "id": 24,
+        "question": "Qui est probablement le plus célèbre shérif de l'espace ?",
+        "propositions": [
+          "Ulysse",
+          "Jiban",
+          "X-Or",
+          "Bioman"
+        ],
+        "réponse": "X-Or",
+        "anecdote": "Cette série japonaise diffusée en 1983 a pour héros Gordan qui se transforme en X-Or en demandant sa transmutation."
+      },
+      {
+        "id": 25,
+        "question": "Comment se nomme le renard et ennemi d'Aglaé et Sidonie ?",
+        "propositions": [
+          "Saturnin",
+          "Croquetou",
+          "Hugo",
+          "Agénor"
+        ],
+        "réponse": "Croquetou",
+        "anecdote": "Dans la ferme, la truie Aglaé et l'oie Sidonie sont aidées par le coq Agénor pour démasquer Craquetou en moins de cinq minutes."
+      },
+      {
+        "id": 26,
+        "question": "Quel animal était Monsieur Ed dans la série éponyme américaine destinée aux enfants ?",
+        "propositions": [
+          "Lion",
+          "Cheval",
+          "Hibou",
+          "Ane"
+        ],
+        "réponse": "Cheval",
+        "anecdote": "Monsieur Ed, le cheval parlant qui appartient à  l'architecte Wilbur Post, utilise ce don à  foison en disant tout ce qu'il pense."
+      },
+      {
+        "id": 27,
+        "question": "Quel est le métier de Picolo, personnage créé pour Radio-Canada ?",
+        "propositions": [
+          "Boulanger",
+          "Peintre",
+          "Plombier",
+          "Banquier"
+        ],
+        "réponse": "Peintre",
+        "anecdote": "Créé par jean Image en 1963, Picolo parcourt les rues de Paris en compagnie de Picolette, son amoureuse."
+      },
+      {
+        "id": 28,
+        "question": "Combien sont les héros des Petites Canailles apparues en 1962 ?",
+        "propositions": [
+          "Huit",
+          "Six",
+          "Sept",
+          "Cinq"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "Ces sacrés garnements à  la personnalité bien différente ont pour nom Alfafa, Buck, Darla, Porky et Spanky."
+      },
+      {
+        "id": 29,
+        "question": "Lequel de ces dessins animés n'a pas été produit par Hanna-Barbera ?",
+        "propositions": [
+          "Scoubidou",
+          "Calimero",
+          "Capitaine Caverne",
+          "Les Pierrafeu"
+        ],
+        "réponse": "Calimero",
+        "anecdote": "La carrière de William Hanna et Joseph Barbera a démarré avec Tom et Jerry pour le cinéma et la MGM en 1940."
+      },
+      {
+        "id": 30,
+        "question": "Quel petit animal est Hamtaro dans le manga créé par Ritsuko Kawai ?",
+        "propositions": [
+          "Caneton",
+          "Cheval",
+          "Raton laveur",
+          "Hamster"
+        ],
+        "réponse": "Hamster",
+        "anecdote": "Le dessin animé est signé Ritsuko Kawai et est apparu sur les écrans de « Midi les zouzous » de France 5 en 2003."
+      },
+      {
+        "id": 1,
+        "question": "Dans quel océan se déverse l'Amazone, de loin le plus élevé de tous les fleuves de la planète ?",
+        "propositions": [
+          "Océan Arctique",
+          "Océan Atlantique",
+          "Océan Indien",
+          "Océan Pacifique"
+        ],
+        "réponse": "Océan Atlantique",
+        "anecdote": "La démesure de l'Amazone s'apprécie aussi en constatant qu'aucun pont ni barrage ne le franchit sur des milliers de kilomètres."
+      },
+      {
+        "id": 2,
+        "question": "Où peut-on se rendre dans la plus grande île et le plus petit continent du monde ?",
+        "propositions": [
+          "Asie",
+          "Australie",
+          "Afrique",
+          "Europe"
+        ],
+        "réponse": "Australie",
+        "anecdote": "Sa population est principalement concentrée dans les grandes villes côtières de Sydney, Melbourne, Brisbane, Perth et Adélaà¯de."
+      },
+      {
+        "id": 3,
+        "question": "Où peut-on marcher sur la place Tian'anmen, au sud de la porte de la Paix céleste ?",
+        "propositions": [
+          "Shanghai",
+          "Pékin",
+          "Shenzhen",
+          "Canton"
+        ],
+        "réponse": "Pékin",
+        "anecdote": "La place Tian'anmen doit notamment sa célébrité aux nombreux événements qui s'y sont déroulés dans l'histoire chinoise."
+      },
+      {
+        "id": 4,
+        "question": "Quelle est la plus grande ville du Grand-Duché de Luxembourg ainsi que sa capitale ?",
+        "propositions": [
+          "Wiltz",
+          "Diekirch",
+          "Vianden",
+          "Luxembourg"
+        ],
+        "réponse": "Luxembourg",
+        "anecdote": "Après avoir été surnommée « la Gibraltar du Nord » en raison de sa forteresse, elle est dite aujourd'hui le « Coeur vert de l'Europe »."
+      },
+      {
+        "id": 5,
+        "question": "Quel pays sans côte océanique partage en toute tranquillité le lac Majeur avec l'Italie ?",
+        "propositions": [
+          "Le Danemark",
+          "La Pologne",
+          "La Suisse",
+          "L'Autriche"
+        ],
+        "réponse": "La Suisse",
+        "anecdote": "Le lac Majeur est célèbre par ses sites touristiques comme les îles Borromées et les îles de Brissago."
+      },
+      {
+        "id": 6,
+        "question": "Où se trouve Ankara, ville nouvelle aux origines pourtant très anciennes ?",
+        "propositions": [
+          "En Inde",
+          "En Turquie",
+          "En Birmanie",
+          "Au Pakistan"
+        ],
+        "réponse": "En Turquie",
+        "anecdote": "Certains vestiges hittites découverts dans la citadelle attestent la présence d'une cité (Ankuva) du temps de l'Empire hittite."
+      },
+      {
+        "id": 7,
+        "question": "Sur quel tropique se trouve Taiwan, connue comme la République de Chine ?",
+        "propositions": [
+          "Sagittaire",
+          "Capricorne",
+          "Cancer",
+          "Taureau"
+        ],
+        "réponse": "Cancer",
+        "anecdote": "Taà¯wan fut officiellement gouverné par la Chine de 1683 à  1895, puis cédé au Japon par le traité de Shimonoseki en 1895."
+      },
+      {
+        "id": 8,
+        "question": "Quel est le pays entouré par le Lichtenstein, l'Italie, l'Autriche, l'Allemagne et la France ?",
+        "propositions": [
+          "Les Pays-Bas",
+          "La Grèce",
+          "La Suisse",
+          "La Hongrie"
+        ],
+        "réponse": "La Suisse",
+        "anecdote": "La Suisse est un pays sans côte océanique mais dispose d'un accès direct à  la mer par le Rhin (Convention de Mannheim)."
+      },
+      {
+        "id": 9,
+        "question": "Dans quel pays allez-vous si vous partez à  la recherche du comte Dragul, en Transylvanie ?",
+        "propositions": [
+          "En Bulgarie",
+          "En Roumanie",
+          "En Hongrie",
+          "En Australie"
+        ],
+        "réponse": "En Roumanie",
+        "anecdote": "Écrit à  la fin du XIXe siècle, « Dracula » est un roman épistolaire dont le personnage principal est un vampire."
+      },
+      {
+        "id": 10,
+        "question": "Quel tropique indiqué sur les cartes terrestres passe entre la Floride et Cuba ?",
+        "propositions": [
+          "Tropique du Lion",
+          "Tropique du Loup",
+          "Tropique du Cancer",
+          "Tropique du Chat"
+        ],
+        "réponse": "Tropique du Cancer",
+        "anecdote": "Le tropique du Cancer porte ce nom car, il y a environ 2000 ans, le Soleil entrait dans la constellation du Cancer lors du solstice de juin."
+      },
+      {
+        "id": 11,
+        "question": "Quel archipel du Pacifique est constitué de plus de 7100 îles et îlots formant un état ?",
+        "propositions": [
+          "Les Philippines",
+          "L'Indonésie",
+          "La Malaisie",
+          "La Birmanie"
+        ],
+        "réponse": "Les Philippines",
+        "anecdote": "Un peu plus de 2000 seulement sont habitées, alors qu'environ 2400 îles n'ont màªme pas encore reçu de nom."
+      },
+      {
+        "id": 12,
+        "question": "Quel fleuve et importante voie fluviale bleuit selon la météo la capitale de la Hongrie ?",
+        "propositions": [
+          "Le Danube",
+          "Le Rhin",
+          "L'Elbe",
+          "Le Rhône"
+        ],
+        "réponse": "Le Danube",
+        "anecdote": "En suivant le Danube qui forme alors la frontière entre la Hongrie et la Slovaquie, la première ville importante rencontrée est Gyor."
+      },
+      {
+        "id": 13,
+        "question": "Quelle mer du bassin Indo-Pacifique est reliée à  la Méditerranée par le canal de Suez ?",
+        "propositions": [
+          "Mer Noire",
+          "Mer Rouge",
+          "Mer Ionienne",
+          "Mer de Java"
+        ],
+        "réponse": "Mer Rouge",
+        "anecdote": "Il arrive que ses eaux soient peuplées d'algues qui, lorsqu'elles meurent, donnent à  l'eau une couleur rougeâtre."
+      },
+      {
+        "id": 14,
+        "question": "Sachant que les Apennins se trouvent en Italie, où sont principalement situées les Appalaches ?",
+        "propositions": [
+          "En Russie",
+          "Aux États-Unis",
+          "Au Brésil",
+          "En Inde"
+        ],
+        "réponse": "Aux États-Unis",
+        "anecdote": "Les Appalaches séparent la plaine côtière atlantique (à  l'est) du bassin du fleuve Mississippi et des Grands Lacs (à  l'ouest)."
+      },
+      {
+        "id": 15,
+        "question": "Quel fleuve d'Afrique occidentale, portant le nom d'un pays, borde le Sahel ?",
+        "propositions": [
+          "Le Congo",
+          "Le Zambèze",
+          "Le Niger",
+          "Le Sénégal"
+        ],
+        "réponse": "Le Niger",
+        "anecdote": "Le fleuve Niger fait partie de ces fleuves (tout comme le Sénégal) qui ont été fortement aménagés depuis les années 1980."
+      },
+      {
+        "id": 16,
+        "question": "Vers quel pays allez-vous si vous quittez la ville italienne de Trieste vers l'Est ?",
+        "propositions": [
+          "La Suisse",
+          "L'Espagne",
+          "La Grèce",
+          "La Yougoslavie"
+        ],
+        "réponse": "La Yougoslavie",
+        "anecdote": "Géographiquement, Trieste est considérée comme la « dernière ville du Nord-Est de l'Italie » ou comme la « ville de l'extràªme Sud »."
+      },
+      {
+        "id": 17,
+        "question": "Quel port canadien situé sur le lac Ontario était jadis connu sous le nom de « Fort York » ?",
+        "propositions": [
+          "Oshawa",
+          "Toronto",
+          "Windsor",
+          "Hamilton"
+        ],
+        "réponse": "Toronto",
+        "anecdote": "Fort York fut construit à  l'entrée du port naturel de la ville, abrité par un long banc de sable en forme de péninsule."
+      },
+      {
+        "id": 18,
+        "question": "Dans quel État des États-Unis pourrez-vous partir à  la rencontre des Séminoles ?",
+        "propositions": [
+          "Nevada",
+          "Michigan",
+          "Arkansas",
+          "Floride"
+        ],
+        "réponse": "Floride",
+        "anecdote": "Les Amérindiens Calusa furent les premiers habitants de ces marais subtropicaux qu'ils baptisèrent « Pa-hay-okee » ou « eaux herbeuses »."
+      },
+      {
+        "id": 19,
+        "question": "Quelle mer dépourvue de poissons et d'algues est partagée entre la Jordanie et Israà«l ?",
+        "propositions": [
+          "Mer Jaune",
+          "Mer Morte",
+          "Mer Rouge",
+          "Mer Blanche"
+        ],
+        "réponse": "Mer Morte",
+        "anecdote": "Alors que la salinité moyenne de l'eau de mer oscille entre 2 et 4 %, celle de la mer Morte est d'approximativement 27.5 %."
+      },
+      {
+        "id": 20,
+        "question": "Où est Dubrovnik, dont les habitants ainsi que ce qui s'y rapporte s'appellent des ragusains ?",
+        "propositions": [
+          "En Sibérie",
+          "En Roumanie",
+          "En Estonie",
+          "En Yougoslavie"
+        ],
+        "réponse": "En Yougoslavie",
+        "anecdote": "De son ancien nom français Raguse, Dubrovnik a pour devise : « La liberté ne se vend pas màªme pour tout l'or du monde »."
+      },
+      {
+        "id": 21,
+        "question": "Sur quelle île à  120 km du sud de l'Angleterre se trouvent Grand Havre et Port Soif ?",
+        "propositions": [
+          "Ortac",
+          "Guernesey",
+          "Herm",
+          "Aurigny"
+        ],
+        "réponse": "Guernesey",
+        "anecdote": "Victor Hugo a séjourné à  Guernesey et y a écrit « Les Misérables » en 1862 et « Les Travailleurs de la mer » en 1866."
+      },
+      {
+        "id": 22,
+        "question": "Dans quel pays peut-on par exemple passer une nuit à  Mandalay et la suivante à  Rangoon ?",
+        "propositions": [
+          "En Birmanie",
+          "Aux Philippines",
+          "En Malaisie",
+          "En Indonésie"
+        ],
+        "réponse": "En Birmanie",
+        "anecdote": "Capitale royale entre 1860 et 1885, réputée pour son jade, Mandalay était alors surnommée la « cité des joyaux »."
+      },
+      {
+        "id": 23,
+        "question": "Dans quel État du Midwest des États-Unis se trouvent Mineapolis et sa jumelle St Paul ?",
+        "propositions": [
+          "Le Missouri",
+          "Le Minnesota",
+          "Le Michigan",
+          "Le Montana"
+        ],
+        "réponse": "Le Minnesota",
+        "anecdote": "Le mot « Minnesota » vient de « mnisota », nom donné au fleuve Minnesota par les Dakotas, tribu Sioux."
+      },
+      {
+        "id": 24,
+        "question": "Vers quel lac la ville d'Irkoutsk plonge-t-elle son regard à  66 kilomètres à  l'ouest ?",
+        "propositions": [
+          "Érié",
+          "Baà¯kal",
+          "Malawi",
+          "Tanganyika"
+        ],
+        "réponse": "Baà¯kal",
+        "anecdote": "Irkoutsk se trouve dans une région de collines couvertes de taà¯ga, paysage typique de la Sibérie orientale."
+      },
+      {
+        "id": 25,
+        "question": "Quelle grande ville trouve-t-on sur la mer d'Oman, près de l'embouchure de l'Indus ?",
+        "propositions": [
+          "Mingora",
+          "Karachi",
+          "Burewala",
+          "Islamabad"
+        ],
+        "réponse": "Karachi",
+        "anecdote": "Karachi est l'une des villes les plus peuplées au monde et la plus peuplée du monde musulman."
+      },
+      {
+        "id": 26,
+        "question": "Quelle capitale pakistanaise, située au nord du pays, jouxte la ville de Rawalpindi ?",
+        "propositions": [
+          "Quetta",
+          "Islamabad",
+          "Wah",
+          "Karachi"
+        ],
+        "réponse": "Islamabad",
+        "anecdote": "Devenue en 1967 la capitale du pays, au détriment de Karachi, Islamabad en constitue le coeur administratif et politique."
+      },
+      {
+        "id": 27,
+        "question": "Dans quel État américain du Nord-Est du pays se trouvent Rome, Syracuse et Albany ?",
+        "propositions": [
+          "Idaho",
+          "Alabama",
+          "New York",
+          "Maryland"
+        ],
+        "réponse": "New York",
+        "anecdote": "Si la ville de New York se trouve dans l'État de New York, sa principale agglomération se trouve dans les États voisins."
+      },
+      {
+        "id": 28,
+        "question": "De quel pays situé à  environ 200 km au nord de l'équateur Kuala Lumpur est-elle la capitale ?",
+        "propositions": [
+          "Le Cambodge",
+          "Le Laos",
+          "La Malaisie",
+          "La Birmanie"
+        ],
+        "réponse": "La Malaisie",
+        "anecdote": "Arrachée à  la jungle dans les années 1850, la ville doit sa naissance et sa fortune aux abondants gisements d'étain."
+      },
+      {
+        "id": 29,
+        "question": "Combien de mers baignent la Russie, le plus vaste pays de notre planète ?",
+        "propositions": [
+          "Six",
+          "Douze",
+          "Huit",
+          "Dix"
+        ],
+        "réponse": "Douze",
+        "anecdote": "Bien qu'entourée de mers et de deux océans, la Russie est caractérisée par un climat continental aux milieux froids et hostiles."
+      },
+      {
+        "id": 30,
+        "question": "Sur quelle île se trouve Manille, deuxième ville la plus peuplée des Philippines après Quezon ?",
+        "propositions": [
+          "Guam",
+          "Luçon",
+          "Shikoku",
+          "Visayas"
+        ],
+        "réponse": "Luçon",
+        "anecdote": "La quasi totalité de la ville se trouve sur un sol alluvionnaire déplacé par la rivière Pasig et gagné sur la baie de Manille."
+      },
+      {
+        "id": 1,
+        "question": "à€ quel historien et pédagogue français doit-on les Jeux olympiques modernes ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoléon Bonaparte",
+          "Pie XI",
+          "Duc de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La médaille Pierre-de-Coubertin, attribuée par le CIO, démontre aux Jeux olympiques un véritable esprit sportif."
+      },
+      {
+        "id": 2,
+        "question": "Combien y a-t-il de couloirs dans une piscine olympique ?",
+        "propositions": [
+          "10",
+          "12",
+          "14",
+          "6"
+        ],
+        "réponse": "10",
+        "anecdote": "Seules les piscines d'eau douce homologuées conviennent aux compétitions organisées dans ces grands bassins."
+      },
+      {
+        "id": 3,
+        "question": "Qui a été élu journaliste français le plus chauvin des Jeux olympiques de 2012 ?",
+        "propositions": [
+          "Nelson Monfort",
+          "Christian Jeanpierre",
+          "Georges Cazeneuve",
+          "Michel Denisot"
+        ],
+        "réponse": "Nelson Monfort",
+        "anecdote": "Nelson Monfort commente le patinage artistique mais surtout interviewe les sportifs dans de nombreuses disciplines."
+      },
+      {
+        "id": 4,
+        "question": "Dans quelle ville se dérouleront les Jeux olympiques de 2016, malgré son insécurité ?",
+        "propositions": [
+          "Pékin",
+          "Londres",
+          "Rio de Janeiro",
+          "Tokyo"
+        ],
+        "réponse": "Rio de Janeiro",
+        "anecdote": "Ces JO seront les premiers à  se dérouler en Amérique du Sud et les premiers à  se dérouler dans un pays lusophone."
+      },
+      {
+        "id": 5,
+        "question": "Quelle épreuve olympique commence hors du stade pour se terminer dans ses murs ?",
+        "propositions": [
+          "Le marathon",
+          "Le cross-country",
+          "Le 10 000 m",
+          "Le trail"
+        ],
+        "réponse": "Le marathon",
+        "anecdote": "Le marathon est une épreuve sportive de course à  pied qui se dispute généralement sur une distance de 42 kilomètres."
+      },
+      {
+        "id": 6,
+        "question": "Lequel des anneaux du drapeau olympique se retrouve le plus près du mât ?",
+        "propositions": [
+          "Bleu",
+          "Rouge",
+          "Jaune",
+          "Vert"
+        ],
+        "réponse": "Bleu",
+        "anecdote": "Les cinq anneaux entrelacés représentent les cinq continents unis par l'olympisme, et les six couleurs représentent toutes les nations."
+      },
+      {
+        "id": 7,
+        "question": "Quel pongiste belge a participé à  ses septièmes Jeux olympiques à  l'âge de 42 ans ?",
+        "propositions": [
+          "Grégory Obert",
+          "Martin Bratanov",
+          "Jean-Michel Saive",
+          "Yannick Vostes"
+        ],
+        "réponse": "Jean-Michel Saive",
+        "anecdote": "Jean-Michel Saive a également porté le drapeau de la délégation belge lors des Jeux olympiques de 1996 et 2004."
+      },
+      {
+        "id": 8,
+        "question": "Qui est la première gymnaste à  avoir obtenu un 10 aux Jeux olympiques ?",
+        "propositions": [
+          "Diana Mocanu",
+          "Nadia Comaneci",
+          "Doina Ignat",
+          "Tatiana Gutsu"
+        ],
+        "réponse": "Nadia Comaneci",
+        "anecdote": "Nadia Comaneci, qui possède une double nationalité, a donné une dimension populaire et médiatique inégalée à  ce sport."
+      },
+      {
+        "id": 9,
+        "question": "Quelle est la couleur de fond du drapeau olympique, célèbre pour ses cinq anneaux ?",
+        "propositions": [
+          "Bleue",
+          "Verte",
+          "Jaune",
+          "Blanche"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "Aux Jeux de 2008, l'association Reporters sans frontières a détourné le drapeau olympique en remplaçant le fond blanc par un fond noir."
+      },
+      {
+        "id": 10,
+        "question": "Qui était Premier ministre britannique lors des Jeux olympiques de Londres en 2012 ?",
+        "propositions": [
+          "Tony Blair",
+          "David Cameron",
+          "Gordon Brown",
+          "James Callaghan"
+        ],
+        "réponse": "David Cameron",
+        "anecdote": "Diplômé du Brasenose College de l'université d'Oxford, il fut conseiller politique de Margaret Thatcher puis de John Major."
+      },
+      {
+        "id": 11,
+        "question": "Quel athlète Jamaà¯cain a marqué les Jeux olympiques de 2008 ?",
+        "propositions": [
+          "Lerone Clarke",
+          "Ray Stewart",
+          "Usain Bolt",
+          "Dexter Lee"
+        ],
+        "réponse": "Usain Bolt",
+        "anecdote": "Spécialiste des épreuves de sprint, Usain Bolt est également l'athlète le plus décoré des championnats du monde d'athlétisme."
+      },
+      {
+        "id": 12,
+        "question": "Quelle discipline olympique associe le saut à  ski au ski de fond ?",
+        "propositions": [
+          "Le snowboard",
+          "Le biathlon",
+          "Le curling",
+          "Le combiné nordique"
+        ],
+        "réponse": "Le combiné nordique",
+        "anecdote": "Créé en Norvège à  la fin du XIXe siècle, le combiné nordique est au programme olympique depuis la première édition."
+      },
+      {
+        "id": 13,
+        "question": "En 2012, quel type de passeport est apparu aux Jeux olympiques de Londres ?",
+        "propositions": [
+          "Thermique",
+          "Automatique",
+          "Biologique",
+          "Télépathique"
+        ],
+        "réponse": "Biologique",
+        "anecdote": "Il permet de déceler des violations de la réglementation antidopage en détectant des variations anormales de marqueurs biologiques."
+      },
+      {
+        "id": 14,
+        "question": "Quelle sportive française a participé à  sept éditions des Jeux olympiques ?",
+        "propositions": [
+          "Sophie Creux",
+          "Jeannie Longo",
+          "Marion Rousse",
+          "Sabrina Jonnier"
+        ],
+        "réponse": "Jeannie Longo",
+        "anecdote": "Au total, Jeannie Longo a remporté 9 titres de championne du monde sur route et un titre olympique."
+      },
+      {
+        "id": 15,
+        "question": "Quel objet les femmes ne peuvent-elles jeter aux Jeux olympiques que depuis 1995 ?",
+        "propositions": [
+          "Le poids",
+          "Le javelot",
+          "Le disque",
+          "Le marteau"
+        ],
+        "réponse": "Le marteau",
+        "anecdote": "Le lancer du marteau pour femmes a eu lieu pour la première fois aux Jeux olympiques d'été de 2000 à  Sydney."
+      },
+      {
+        "id": 16,
+        "question": "Quel équipement très utilisé en athlétisme doit peser au moins 50 grammes ?",
+        "propositions": [
+          "Le disque",
+          "Le sifflet",
+          "Le javelot",
+          "Le témoin"
+        ],
+        "réponse": "Le témoin",
+        "anecdote": "Le but du relais est de parcourir la distance le plus rapidement possible tout en assurant la transmission d'un témoin."
+      },
+      {
+        "id": 17,
+        "question": "Dans quelle épreuve olympique peut-on trouver des hommes couchés par terre ?",
+        "propositions": [
+          "Le croquet",
+          "Le curling",
+          "Le softball",
+          "Le tir"
+        ],
+        "réponse": "Le tir",
+        "anecdote": "Le tir inclus deux types principaux de compétition, le tir sur cible avec des pistolets ou des carabines et le tir sur plateau."
+      },
+      {
+        "id": 18,
+        "question": "Quel sportif, né le 30 juin 1985 à  Towson, est le plus titré des Jeux olympiques ?",
+        "propositions": [
+          "Andriy Serdinov",
+          "Michael Phelps",
+          "Mark Spitz",
+          "Ian Thorpe"
+        ],
+        "réponse": "Michael Phelps",
+        "anecdote": "En grand bassin, l'Américain est le nageur le plus médaillé de l'histoire avec 22 médailles dont 18 d'or."
+      },
+      {
+        "id": 19,
+        "question": "Comment appelle-t-on la période de quatre ans entre deux Jeux olympiques ?",
+        "propositions": [
+          "Une tierce",
+          "Un lustre",
+          "Un quinquennat",
+          "Une olympiade"
+        ],
+        "réponse": "Une olympiade",
+        "anecdote": "L'olympiade est la base de la chronologie du monde grec à  partir d'Alexandre le Grand."
+      },
+      {
+        "id": 20,
+        "question": "Quel athlète a été champion olympique du saut en longueur à  Atlanta en 1996 ?",
+        "propositions": [
+          "Dwight Phillips",
+          "Carl Lewis",
+          "Michael Johnson",
+          "Linford Christie"
+        ],
+        "réponse": "Carl Lewis",
+        "anecdote": "Sa carrière, plusieurs fois interrompue, a duré de 1979 à  1996, année durant laquelle il a conquis son dernier titre olympique."
+      },
+      {
+        "id": 21,
+        "question": "En quelle année les Jeux olympiques se sont-ils déroulés à  Paris pour la première fois ?",
+        "propositions": [
+          "1908",
+          "1900",
+          "1928",
+          "1920"
+        ],
+        "réponse": "1900",
+        "anecdote": "Aucune cérémonie d'ouverture ou de fermeture n'a été prévue au programme, mis à  part un défilé des gymnastes à  Vincennes."
+      },
+      {
+        "id": 22,
+        "question": "Lequel de ces sports ne figure pas parmi les épreuves disputées en pentathlon moderne ?",
+        "propositions": [
+          "Le cyclisme",
+          "La natation",
+          "Le tir au pistolet",
+          "La course à  pied"
+        ],
+        "réponse": "Le cyclisme",
+        "anecdote": "Les épreuves du pentathlon moderne sont l'escrime, la natation, l'équitation, le tir au pistolet et la course à  pied."
+      },
+      {
+        "id": 23,
+        "question": "Quel chirurgien orthopédiste a été élu en 2001 président du Comité international olympique ?",
+        "propositions": [
+          "Jacques Rogge",
+          "René Fasel",
+          "Marc Hodler",
+          "Jean-Claude Killy"
+        ],
+        "réponse": "Jacques Rogge",
+        "anecdote": "Après une carrière sportive remplie, en voile comme skipper puis au  rugby à  XV, Jacques Rogge s'oriente vers l'administration sportive."
+      },
+      {
+        "id": 24,
+        "question": "Quelle est la première ville à  avoir accueilli trois fois les Jeux olympiques ?",
+        "propositions": [
+          "Paris",
+          "Athènes",
+          "Londres",
+          "Los Angeles"
+        ],
+        "réponse": "Londres",
+        "anecdote": "Les JO sont un événement international majeur, regroupant les sports d'été et d'hiver, auquel des milliers d'athlètes participent."
+      },
+      {
+        "id": 25,
+        "question": "Dans quelle discipline olympique le parcours est-il toujours triangulaire ?",
+        "propositions": [
+          "Le triathlon",
+          "Le canoà«-kayak",
+          "La voile",
+          "L'aviron"
+        ],
+        "réponse": "La voile",
+        "anecdote": "Le plus grand catamaran à  voile jamais construit est le Douce France : 42 mètres de grand luxe et de teck."
+      },
+      {
+        "id": 26,
+        "question": "En 1980, lequel de ces pays a totalement boycotté les Jeux olympiques de Moscou ?",
+        "propositions": [
+          "La Norvège",
+          "La Grande-Bretagne",
+          "La Suède",
+          "La France"
+        ],
+        "réponse": "La Norvège",
+        "anecdote": "Une cinquantaine de nations ont boycotté ces Jeux à  la suite de l'invasion de l'Afghanistan par l'Union Soviétique en 1979."
+      },
+      {
+        "id": 27,
+        "question": "Quel nageur olympique de Guinée équatoriale a connu une célébrité éphémère ?",
+        "propositions": [
+          "Ian Thorpe",
+          "Éric Moussambani",
+          "Bill Kirby",
+          "Jens Kruppa"
+        ],
+        "réponse": "Éric Moussambani",
+        "anecdote": "Son courage à  Sydney en 2000 sera perçu comme un symbole de l'esprit olympique, après un 100 mètres nage libre en 1m 52s."
+      },
+      {
+        "id": 28,
+        "question": "Quel animal a représenté la mascotte des Jeux olympiques de Moscou en 1980 ?",
+        "propositions": [
+          "Un loup",
+          "Un renne",
+          "Un ours",
+          "Un élan"
+        ],
+        "réponse": "Un ours",
+        "anecdote": "La mascotte officielle, l'ours Misha, a été imaginée par Victor Tchijikov, auteur de livres pour enfants."
+      },
+      {
+        "id": 29,
+        "question": "Combien de médailles olympiques ont été distribuées aux Jeux de 2012 ?",
+        "propositions": [
+          "3 500",
+          "5 600",
+          "4 700",
+          "2 900"
+        ],
+        "réponse": "4 700",
+        "anecdote": "Londres est la première ville à  accueillir les Jeux olympiques modernes pour la troisième fois."
+      },
+      {
+        "id": 30,
+        "question": "En quelle année les Jeux olympiques ont-ils été télévisés pour la première fois ?",
+        "propositions": [
+          "1936",
+          "1947",
+          "1963",
+          "1952"
+        ],
+        "réponse": "1936",
+        "anecdote": "Pour la première fois, la flamme olympique sera introduite dans une cérémonie d'ouverture de Jeux olympiques."
+      },
+      {
+        "id": 1,
+        "question": "Le mont Saint-Michel est situé à  l'est de l'embouchure de quel fleuve ?",
+        "propositions": [
+          "Rance",
+          "Hérault",
+          "Couesnon",
+          "Vire"
+        ],
+        "réponse": "Couesnon",
+        "anecdote": "Le Couesnon est un petit fleuve côtier français qui coule dans les trois départements d'Ille-et-Vilaine, de la Manche et de la Mayenne."
+      },
+      {
+        "id": 2,
+        "question": "à€ quelle créature abrahamique le mont Saint-Michel doit-il son nom ?",
+        "propositions": [
+          "Léviathan",
+          "Archange",
+          "Gargouille",
+          "Séraphin"
+        ],
+        "réponse": "Archange",
+        "anecdote": "Michel est un des sept archanges majeurs (avec Gabriel et Raphaà«l) des religions abrahamiques (judaà¯sme, christianisme, et islam)."
+      },
+      {
+        "id": 3,
+        "question": "Quel bâtiment fait partie des premiers sites culturels visités en France ?",
+        "propositions": [
+          "Église",
+          "Abbaye",
+          "Monastère",
+          "Temple"
+        ],
+        "réponse": "Abbaye",
+        "anecdote": "Au XIIe siècle, les bénédictins du Mont-Saint-Michel auraient eu une grande influence sur le développement intellectuel de l'Europe."
+      },
+      {
+        "id": 4,
+        "question": "Quel personnage emblématique du mont Saint-Michel cuisine des omelettes ?",
+        "propositions": [
+          "Mère Maury",
+          "Mère Denis",
+          "Mère Poulard",
+          "Mère Michel"
+        ],
+        "réponse": "Mère Poulard",
+        "anecdote": "Anne Boutiaut, surnommée la mère Poulard, était une cuisinière française née à  Nevers et morte en 1931 au mont Saint-Michel."
+      },
+      {
+        "id": 5,
+        "question": "Quel agneau est à  déguster de préférence grillé au feu de bois ?",
+        "propositions": [
+          "Romanov",
+          "De pré salé",
+          "Cheviot",
+          "Lincoln"
+        ],
+        "réponse": "De pré salé",
+        "anecdote": "La particularité de cette viande est d'àªtre obtenue par l'exploitation herbagère de prés salés grâce à  la conduite pastorale de troupeaux."
+      },
+      {
+        "id": 6,
+        "question": "Quelle spécialité soufflée du mont Saint-Michel est cuite à  feu vif ?",
+        "propositions": [
+          "Courgette",
+          "Cacahuète",
+          "Omelette",
+          "Galinette"
+        ],
+        "réponse": "Omelette",
+        "anecdote": "La mère Poulard développa cette recette après avoir remarqué que les pèlerins arrivaient affamés au Mont Saint-Michel."
+      },
+      {
+        "id": 7,
+        "question": "Combien de places de stationnement ont été aménagées dans le nouveau parking ?",
+        "propositions": [
+          "1 000",
+          "4 000",
+          "2 000",
+          "3 000"
+        ],
+        "réponse": "4 000",
+        "anecdote": "Construit au sud du barrage de la Caserne sur le Couesnon, à  2 500 mètres du mont, le parking possède 45 000 arbres et arbustes."
+      },
+      {
+        "id": 8,
+        "question": "Quel célèbre roman de Dan Brown fait référence au mont Saint-Michel ?",
+        "propositions": [
+          "Inferno",
+          "Anges et Démons",
+          "Origine",
+          "Da Vinci Code"
+        ],
+        "réponse": "Da Vinci Code",
+        "anecdote": "Les thèses du roman sont largement inspirées par « L'Énigme sacrée », un essai publié en 1982 par trois journalistes britanniques."
+      },
+      {
+        "id": 9,
+        "question": "Quel phénomène est dû au fait que la baie du mont soit pratiquement plate ?",
+        "propositions": [
+          "Sables mouvants",
+          "Tempàªte de sable",
+          "Talus",
+          "Sol argileux"
+        ],
+        "réponse": "Sables mouvants",
+        "anecdote": "Contrairement à  une idée répandue, un corps pris dans un sable mouvant n'est pas aspiré par le fond mais flotte deux fois mieux."
+      },
+      {
+        "id": 10,
+        "question": "Quel coquillage du mont Saint-Michel représente un quart de la production française ?",
+        "propositions": [
+          "Saint-Jacques",
+          "Praire",
+          "Palourde",
+          "Moule de bouchot"
+        ],
+        "réponse": "Moule de bouchot",
+        "anecdote": "Au total, la production annuelle de moules de bouchot et des huîtres du Mont-Saint-Michel s'élève à  pas moins de 25 000 tonnes."
+      },
+      {
+        "id": 11,
+        "question": "Quelle est la circonférence approximative de l'îlot rocheux granitique ?",
+        "propositions": [
+          "660 mètres",
+          "960 mètres",
+          "860 mètres",
+          "760 mètres"
+        ],
+        "réponse": "960 mètres",
+        "anecdote": "Le mont Saint-Michel est un îlot rocheux situé à  l'est de l'embouchure du fleuve du Couesnon, dans la Manche."
+      },
+      {
+        "id": 12,
+        "question": "à€ qui doit-on le thriller « Le Sang du temps » qui se déroule au mont Saint-Michel ?",
+        "propositions": [
+          "Bertrand Chéron",
+          "René Charvin",
+          "Antoine Chainas",
+          "Maxime Chattam"
+        ],
+        "réponse": "Maxime Chattam",
+        "anecdote": "« Le Sang du temps » est un roman policier écrit par Maxime Chattam, publié en France aux éditions Michel Lafon en 2005."
+      },
+      {
+        "id": 13,
+        "question": "Comment le mont Saint-Michel était-il connu avant l'année 709 ?",
+        "propositions": [
+          "àŽle Pelée",
+          "Tombelaine",
+          "Mont Tombe",
+          "àŽle du Large"
+        ],
+        "réponse": "Mont Tombe",
+        "anecdote": "Le nouveau nom complet, choisi par Charlemagne pour protéger son empire au IXe siècle, était Mont-Saint-Michel-au-péril-de-la-Mer."
+      },
+      {
+        "id": 14,
+        "question": "Quel pourcentage des touristes du mont Saint-Michel montent jusqu'à  l'abbaye ?",
+        "propositions": [
+          "33 %",
+          "22 %",
+          "55 %",
+          "44 %"
+        ],
+        "réponse": "33 %",
+        "anecdote": "Avec un temps de visite de 3 heures, c'est entre 11h et 16h que la densité de visiteurs sur le site est la plus forte."
+      },
+      {
+        "id": 15,
+        "question": "Quel film de Michael Bay a été partiellement tourné au mont Saint-Michel ?",
+        "propositions": [
+          "No Pain No Gain",
+          "13 Hours",
+          "Armageddon",
+          "Six Underground"
+        ],
+        "réponse": "Armageddon",
+        "anecdote": "La màªme année (1998) est sorti « Deep Impact », un autre film avec la màªme trame de scénario, axée sur le côté humain."
+      },
+      {
+        "id": 16,
+        "question": "Quelle digue séparait la baie du mont Saint-Michel des marais de Dol ?",
+        "propositions": [
+          "Digue de Wadrinau",
+          "Digue de Richelieu",
+          "Digue de Bretagne",
+          "Digue aux Cygnes"
+        ],
+        "réponse": "Digue de Bretagne",
+        "anecdote": "La digue s'étendait sur une trentaine de kilomètres de la pointe de Château-Richeux jusqu'au petit massif de Saint-Broladre à  l'est."
+      },
+      {
+        "id": 17,
+        "question": "Pendant combien de jours par an le mont Saint-Michel est-il entouré d'eau ?",
+        "propositions": [
+          "79 jours",
+          "53 jours",
+          "42 jours",
+          "67 jours"
+        ],
+        "réponse": "53 jours",
+        "anecdote": "Spectacle impressionnant, le Mont-Saint-Michel n'est entouré d'eau et ne redevient une île qu'aux grandes marées d'équinoxe."
+      },
+      {
+        "id": 18,
+        "question": "Quelle plante se trouve principalement sur les herbus qui entourent le mont ?",
+        "propositions": [
+          "Sauge",
+          "Salicorne",
+          "Santal",
+          "Sagine"
+        ],
+        "réponse": "Salicorne",
+        "anecdote": "Les salicornes sont des plantes annuelles, basses, charnues, qui croissent sur des sols riches en sel marin (chlorure de sodium)."
+      },
+      {
+        "id": 19,
+        "question": "Quelle pàªche consiste à  tendre des filets sur les grèves et à  les manoeuvrer ?",
+        "propositions": [
+          "Pàªche à  pied",
+          "Pàªche au chalut",
+          "Pàªche au carrelet",
+          "Pàªche profonde"
+        ],
+        "réponse": "Pàªche à  pied",
+        "anecdote": "Du fait des conditions de pàªche, les grandes marées sont très favorables à  cette activité, avec une forte population de crustacés."
+      },
+      {
+        "id": 20,
+        "question": "à€ quelle hauteur culmine au-dessus du rivage la statue de saint Michel ?",
+        "propositions": [
+          "150 mètres",
+          "120 mètres",
+          "180 mètres",
+          "210 mètres"
+        ],
+        "réponse": "150 mètres",
+        "anecdote": "Élément majeur, l'abbaye, ses dépendances et sa statue sont classés au titre des monuments historiques par la liste de 1862."
+      },
+      {
+        "id": 21,
+        "question": "Qui a composé un album entièrement consacré aux légendes du mont Saint-Michel ?",
+        "propositions": [
+          "Jérôme Wolff",
+          "Patrick Broguière",
+          "Grégoire Vallette",
+          "Manuel Dubigeon"
+        ],
+        "réponse": "Patrick Broguière",
+        "anecdote": "L'album « Mont Saint-Michel », inspiré par les contes et légendes du mont Saint-Michel, comprend un livret de 20 pages couleur."
+      },
+      {
+        "id": 22,
+        "question": "Quel phénomène permet à  une grande partie de la baie d'àªtre découverte ?",
+        "propositions": [
+          "Marnage",
+          "Tourbillon",
+          "Halocline",
+          "Altimétrie"
+        ],
+        "réponse": "Marnage",
+        "anecdote": "Le marnage est, pour un jour donné, la différence de hauteur d'eau entre le niveau de la pleine mer et celui de la basse mer."
+      },
+      {
+        "id": 23,
+        "question": "Quelle voiture transportait autrefois les visiteurs du Mont Saint-Michel ?",
+        "propositions": [
+          "Maringotte",
+          "Podoscaphe",
+          "Vinaigrette",
+          "Gyrobus"
+        ],
+        "réponse": "Maringotte",
+        "anecdote": "La maringotte est une voiture hippomobile à  deux roues, suspendue sur des ressorts à  pincettes, avec des bancs mobiles."
+      },
+      {
+        "id": 24,
+        "question": "Quel architecte a créé les nouveaux ouvrages d'accès disponibles depuis 2014 ?",
+        "propositions": [
+          "Artur Berger",
+          "Christopher Alexander",
+          "Richard Neutra",
+          "Dietmar Feichtinger"
+        ],
+        "réponse": "Dietmar Feichtinger",
+        "anecdote": "La passerelle sur pilotis, élaborée en 2002, est ouverte aux piétons depuis juillet 2014 et aux navettes depuis décembre 2014."
+      },
+      {
+        "id": 25,
+        "question": "Combien de visiteurs se rendent en moyenne chaque jour au mont Saint-Michel ?",
+        "propositions": [
+          "9 000",
+          "6 000",
+          "12 000",
+          "15 000"
+        ],
+        "réponse": "12 000",
+        "anecdote": "Des pics dépassent les 16 000 visiteurs par jour, avec un flux moins dense au fur et à  mesure de l'ascension vers l'abbaye."
+      },
+      {
+        "id": 26,
+        "question": "Quel grand bâtisseur et historien fut le seizième abbé du mont Saint-Michel ?",
+        "propositions": [
+          "Robert de Torigni",
+          "Gilbert de Mons",
+          "Bernat Desclot",
+          "Geoffroi Malaterra"
+        ],
+        "réponse": "Robert de Torigni",
+        "anecdote": "Il y réalisera d'importants travaux en édifiant les deux tours occidentales et le bâtiment (hôtellerie et infirmerie)."
+      },
+      {
+        "id": 27,
+        "question": "Quel prisonnier du mont Saint-Michel fut surnommé « l'Enfermé » ?",
+        "propositions": [
+          "Joseph Sobrier",
+          "Auguste Blanqui",
+          "Jules Senard",
+          "Antoine Fombertaux"
+        ],
+        "réponse": "Auguste Blanqui",
+        "anecdote": "En 1880, Auguste Blanqui a publié le journal « Ni Dieu ni maître » dont le titre est devenu une référence pour le mouvement anarchiste."
+      },
+      {
+        "id": 28,
+        "question": "Dans quel album de Mike Oldfied un des titres est consacré au mont Saint-Michel ?",
+        "propositions": [
+          "Amarok",
+          "Discovery",
+          "Crises",
+          "Voyager"
+        ],
+        "réponse": "Voyager",
+        "anecdote": "L'album contient cinq reprises de traditionnels celtiques, une reprise de galicien Luar na Lubre et quatre compositions originales."
+      },
+      {
+        "id": 29,
+        "question": "En quelle année un timbre de 3 francs français représentait-il le mont Saint-Michel ?",
+        "propositions": [
+          "1998",
+          "1978",
+          "1968",
+          "1988"
+        ],
+        "réponse": "1998",
+        "anecdote": "En 1998, un nouveau timbre de 3 francs français, avec son aspect multicolore, sera élu à  l'unanimité plus beau timbre de l'année."
+      },
+      {
+        "id": 30,
+        "question": "Quel musée des manuscrits du Mont Saint-Michel est installé à  Avranches ?",
+        "propositions": [
+          "Richard-Anacréon",
+          "Granit",
+          "Maison de la Baie",
+          "Scriptorial"
+        ],
+        "réponse": "Scriptorial",
+        "anecdote": "Ouvert en 2006, son objectif est de faire découvrir l'exceptionnelle collection des manuscrits de l'ancienne abbaye du mont."
+      },
+      {
+        "id": 1,
+        "question": "Qui est devenue en 2021 l'artiste féminine la plus récompensée des Grammy Awards ?",
+        "propositions": [
+          "Taylor Swift",
+          "Billie Ellish",
+          "Dua Lipa",
+          "Beyoncé"
+        ],
+        "réponse": "Beyoncé",
+        "anecdote": "Taylor Swift est quant à  elle devenue la première artiste féminine à  décrocher à  trois reprises le trophée de l'album de l'année."
+      },
+      {
+        "id": 2,
+        "question": "Quel ancien président de la République a été condamné à  trois ans de prison ?",
+        "propositions": [
+          "François Hollande",
+          "François Mitterrand",
+          "Jacques Chirac",
+          "Nicolas Sarkozy"
+        ],
+        "réponse": "Nicolas Sarkozy",
+        "anecdote": "L'ex-chef de l'État a été reconnu coupable de corruption et trafic d'influence dans l'affaire dite des écoutes remontant à  2014."
+      },
+      {
+        "id": 3,
+        "question": "Quel ancien président de la République a été condamné à  trois ans de prison ?",
+        "propositions": [
+          "François Hollande",
+          "Nicolas Sarkozy",
+          "François Mitterrand",
+          "Jacques Chirac"
+        ],
+        "réponse": "Nicolas Sarkozy",
+        "anecdote": "L'ex-chef de l'État a été reconnu coupable de corruption et trafic d'influence dans l'affaire dite des écoutes remontant à  2014."
+      },
+      {
+        "id": 4,
+        "question": "Qui a vu son fils Milann refusé à  la crèche pour absence de test COVID-19 ?",
+        "propositions": [
+          "Sarah Fraisou",
+          "Nabila Benattia",
+          "Sarah Lopez",
+          "Vanessa Lawrens"
+        ],
+        "réponse": "Nabila Benattia",
+        "anecdote": "Le couple qui voyage régulièrement dans le reste du monde est habitué aux tests de dépistage, mais Ils ont oublié leur fils."
+      },
+      {
+        "id": 5,
+        "question": "Quelle ex-star d'« Alerte à  Malibu » aimerait s'installer sur la propriété de sa grand-mère ?",
+        "propositions": [
+          "Erika Eleniak",
+          "Nicole Eggert",
+          "Pamela Anderson",
+          "Yasmine Bleeth"
+        ],
+        "réponse": "Pamela Anderson",
+        "anecdote": "Mariée avec son ancien garde du corps, Dan Hayhurst, la star a pris une grande décision : quitter la ville de Los Angeles."
+      },
+      {
+        "id": 6,
+        "question": "Quel célèbre golfeur a quitté l'hôpital en mars 2021 après un grave accident de voiture ?",
+        "propositions": [
+          "Mike Weir",
+          "Bubba Watson",
+          "Tiger Woods",
+          "Zach Johnson"
+        ],
+        "réponse": "Tiger Woods",
+        "anecdote": "Il souffrait de fractures ouvertes aux jambes et aux chevilles qui avaient nécessité plusieurs longues opérations."
+      },
+      {
+        "id": 7,
+        "question": "Qui s'est littéralement mise à  nu aux César 2021 pour soutenir les intermittents ?",
+        "propositions": [
+          "Isabelle Carré",
+          "Marina Foà¯s",
+          "Corinne Masiero",
+          "Virginie Efira"
+        ],
+        "réponse": "Corinne Masiero",
+        "anecdote": "Corinne Masiero a expliqué qu'elle avait déjà  réfléchi à  une action lorsqu'elle participait aux ateliers de l'académie des César."
+      },
+      {
+        "id": 8,
+        "question": "Quelle actrice de « Captain Marvel » a publié une reprise de l'artiste française Pomme ?",
+        "propositions": [
+          "Brie Larson",
+          "Emma Stone",
+          "Olivia Colman",
+          "Helen Mirren"
+        ],
+        "réponse": "Brie Larson",
+        "anecdote": "L'actrice a repris à  la guitare « Je sais pas danser » de Pomme, sacrée artiste féminine de l'année aux Victoires de la musique."
+      },
+      {
+        "id": 9,
+        "question": "Quels époux, condamnés pour fraude fiscale, ont été placés sous bracelet électronique ?",
+        "propositions": [
+          "Ravera",
+          "Fromantin",
+          "Balkany",
+          "Ginoux"
+        ],
+        "réponse": "Balkany",
+        "anecdote": "Patrick et Isabelle Balkany doivent rester dans leur propriété de Giverny afin de purger leur condamnation à  trois ans de prison."
+      },
+      {
+        "id": 10,
+        "question": "Quel proche de Jean-Jacques Goldman a décidé de quitter la troupe des Enfoirés ?",
+        "propositions": [
+          "Michael Jones",
+          "Erick Benzi",
+          "Guy Delacroix",
+          "Gildas Arzel"
+        ],
+        "réponse": "Michael Jones",
+        "anecdote": "Michael Jones a toutefois émis son souhait de continuer à  participer auprès des Restos du Coeur, déplorant la crise sanitaire actuelle."
+      },
+      {
+        "id": 11,
+        "question": "Quelle candidate emblématique des « Marseillais » fut accusée de sorcellerie ?",
+        "propositions": [
+          "Laura Marra",
+          "Stéphanie Durant",
+          "Manon Tanti",
+          "Carla Moreau"
+        ],
+        "réponse": "Carla Moreau",
+        "anecdote": "Plusieurs messages vocaux divulgués avec la voix de Carla confirment qu'elle est bien à  l'origine de ces requàªtes obscures."
+      },
+      {
+        "id": 12,
+        "question": "Quel acteur de la série Stargate SG-1 est décédé d'un accident de kitesurf ?",
+        "propositions": [
+          "Cliff Simon",
+          "Christopher Judge",
+          "Ben Browder",
+          "Michael Shanks"
+        ],
+        "réponse": "Cliff Simon",
+        "anecdote": "L'acteur sud-africain Cliff Simon, décédé à  l'âge de 58 ans, incarnait le méchant Ba'al dans le show de science fiction."
+      },
+      {
+        "id": 13,
+        "question": "Quelle star des podiums a fait son retour en 2021 avec des cheveux roux flamboyants ?",
+        "propositions": [
+          "Tyra Banks",
+          "Kate Upton",
+          "Alex Morgan",
+          "Gigi Hadid"
+        ],
+        "réponse": "Gigi Hadid",
+        "anecdote": "Idéale pour donner du caractère au visage, le roux est de plus en plus convoité par les célébrités du monde entier."
+      },
+      {
+        "id": 14,
+        "question": "Quelle animatrice au regard de braise a annoncé son mariage avec Marco Verratti ?",
+        "propositions": [
+          "Laura Zazzara",
+          "Cindy Bruna",
+          "Carol Cabrino",
+          "Jessica Aidi"
+        ],
+        "réponse": "Jessica Aidi",
+        "anecdote": "La nouvelle bookeuse des « Marseillais », avec ses jambes de gazelle, file depuis 2019 le parfait amour avec le footballeur italien."
+      },
+      {
+        "id": 15,
+        "question": "Quelle chanteuse installée à  Sydney a mis fin à  sa relation avec Romain Gavras ?",
+        "propositions": [
+          "Melanie Brown",
+          "Dannii Minogue",
+          "Kelly Rowland",
+          "Rita Ora"
+        ],
+        "réponse": "Rita Ora",
+        "anecdote": "Selon un proche de Romain Gavras, les engagements professionnels respectifs des deux artistes étaient trop chronophages."
+      },
+      {
+        "id": 16,
+        "question": "Quelle célèbre soeur a donné naissance à  Grace Elizabeth Jan le 15 mars 2021 ?",
+        "propositions": [
+          "Pippa Middleton",
+          "Nicole Richie",
+          "Chloé Kardashian",
+          "Nicky Hilton"
+        ],
+        "réponse": "Pippa Middleton",
+        "anecdote": "Pippa Middleton était déjà  maman d'un petit garçon, Arthur Michael William, à  qui elle avait donné naissance le 15 octobre 2018."
+      },
+      {
+        "id": 17,
+        "question": "Quelle actrice italienne continue à  penser à  Nathalie Delon sur son compte Instagram ?",
+        "propositions": [
+          "Sveva Alviti",
+          "Manuela Arcuri",
+          "Sonia Aquino",
+          "Celeste Almieri"
+        ],
+        "réponse": "Sveva Alviti",
+        "anecdote": "Depuis l'annonce de sa mort, celle qui s'est fiancée à  Anthony Delon ne cesse de rendre hommage à  la femme qu'elle admirait tant."
+      },
+      {
+        "id": 18,
+        "question": "Quelle meilleure amie d'Eva Longoria lui a fait un beau clin d'oeil pour son anniversaire ?",
+        "propositions": [
+          "Brie Larson",
+          "Pippa Middleton",
+          "Paris Hilton",
+          "Victoria Beckham"
+        ],
+        "réponse": "Victoria Beckham",
+        "anecdote": "Révélée grâce à  son rôle de Gabrielle Solis dans la série « Desperate Housewives », Eva Longoria a fàªté le 15 mars 2021 ses 46 ans."
+      },
+      {
+        "id": 19,
+        "question": "Quelle star ibérique a opté en mars 2021 pour un carré net et plongeant ?",
+        "propositions": [
+          "Elsa Pataky",
+          "Adriana Ugarte",
+          "Penelope Cruz",
+          "Maria Pedraza"
+        ],
+        "réponse": "Penelope Cruz",
+        "anecdote": "Sur Instagram, la publication de Penelope Cruz a fait sensation : lèvres colorées, visage tourné vers la lumière et décolleté généreux."
+      },
+      {
+        "id": 20,
+        "question": "Qui a twitté en mars 2021 que le Vatican aurait financé le biopic « Rocketman » ?",
+        "propositions": [
+          "Mick Jagger",
+          "Sting",
+          "Elton John",
+          "Mika"
+        ],
+        "réponse": "Elton John",
+        "anecdote": "Le lundi 15 mars 2021, le Vatican a pourtant rappelé la doctrine selon laquelle l'union des couples homosexuels est un péché."
+      },
+      {
+        "id": 21,
+        "question": "Sur quelle marque Kate Middleton a-t-elle jeté son dévolu en mars 2021 ?",
+        "propositions": [
+          "Next",
+          "Gap",
+          "J. Crew",
+          "Boden"
+        ],
+        "réponse": "Boden",
+        "anecdote": "Bonne nouvelle : sachez que son pull tendance rose bonbon est actuellement disponible sur le site de la marque pour 90 euros."
+      },
+      {
+        "id": 22,
+        "question": "Quelle star de la chanson sénégalaise s'est éteinte à  l'âge de 66 ans ?",
+        "propositions": [
+          "Idrissa Diop",
+          "Mola Sylla",
+          "Faada Freddy",
+          "Thione Seck"
+        ],
+        "réponse": "Thione Seck",
+        "anecdote": "En 1984, son groupe s'était offert une tournée européenne, avec des titres comme « Allô Petit », « Orientissime » et « Diaga »."
+      },
+      {
+        "id": 23,
+        "question": "Quelle actrice américaine, plus jeune, a fortement souffert de bégaiement ?",
+        "propositions": [
+          "Mila Kunis",
+          "Tilda Swinton",
+          "Anne Hathaway",
+          "Emily Blunt"
+        ],
+        "réponse": "Emily Blunt",
+        "anecdote": "Emily Blunt n'a pendant longtemps pas eu confiance en elle à  cause de ce handicap héréditaire (grand-père et cousin)."
+      },
+      {
+        "id": 24,
+        "question": "Qui fut la première femme noire à  signer une photo en couverture de Vogue US ?",
+        "propositions": [
+          "Khadija Saye",
+          "Leà¯la Alaoui",
+          "Nadine Ijewere",
+          "Yosra El-Essawy"
+        ],
+        "réponse": "Nadine Ijewere",
+        "anecdote": "Le 9 mars 2021, le célèbre magazine de mode américain a levé le voile sur la Une de son numéro d'avril avec Selena Gomez."
+      },
+      {
+        "id": 25,
+        "question": "Quel trouble obsessionnel Pierre Niney partage-t-il avec Guillaume Canet ?",
+        "propositions": [
+          "Rage narcissique",
+          "Trahison",
+          "Maniaque du contrôle",
+          "Mégalomanie"
+        ],
+        "réponse": "Maniaque du contrôle",
+        "anecdote": "Ces deux acteurs ont besoin de tout contrôler, tout le temps, à  tel point que Guillaume Canet ira pour cela consulter un psy."
+      },
+      {
+        "id": 26,
+        "question": "Quel surnom fut donné à  Loana lors de son séjour en hôpital psychiatrique en 2021 ?",
+        "propositions": [
+          "Louna",
+          "LadyLoft",
+          "Puce",
+          "Pool"
+        ],
+        "réponse": "Louna",
+        "anecdote": "Pour éviter que tout le monde sache qu'elle était présente, elle fut appelée Louna, comme une louve, celle qui protège les autres."
+      },
+      {
+        "id": 27,
+        "question": "Avec quelle romancière de 34 ans sa cadette Marc Lavoine file-t-il le parfait amour ?",
+        "propositions": [
+          "Lolita Pille",
+          "Marie Pavlenko",
+          "Line Papin",
+          "Julie Peyr"
+        ],
+        "réponse": "Line Papin",
+        "anecdote": "Depuis leur mariage au mois de juillet 2020, la romancière Line Papin et le chanteur Marc Lavoine vivent sur un petit nuage."
+      },
+      {
+        "id": 28,
+        "question": "Quelle marque italienne a choisi Hailey Bieber pour sa campagne 2021 ?",
+        "propositions": [
+          "Superga",
+          "Byblos",
+          "Fendi",
+          "Furla"
+        ],
+        "réponse": "Superga",
+        "anecdote": "Connue pour avoir porté des paires de Superga en coton, Hailey Bieber a été tout naturellement nommée ambassadrice de cette marque."
+      },
+      {
+        "id": 29,
+        "question": "Quel célèbre transgenre s'est livré sans filtre au Time dans une interview en mars 2021 ?",
+        "propositions": [
+          "Elliot Page",
+          "Joey Soloway",
+          "Jim Sinclair",
+          "Kevin Barnes"
+        ],
+        "réponse": "Elliot Page",
+        "anecdote": "C'est début décembre 2020 qu'Elliot Page, anciennement actrice canadienne Ellen Page, a fait son coming-out transgenre."
+      },
+      {
+        "id": 30,
+        "question": "Quel agent des stars de la télé-réalité conseille Emmanuel et Brigitte Macron ?",
+        "propositions": [
+          "Niara Bely",
+          "Ornella Barra",
+          "Sophie Bellon",
+          "Magali Berdah"
+        ],
+        "réponse": "Magali Berdah",
+        "anecdote": "à€ la tàªte d'une agence d'influenceurs, Shauna Events, Magali Berdah est une femme d'affaires avec laquelle il faut compter."
+      },
+      {
+        "id": 1,
+        "question": "Dans quel département français se visite la ville de Vannes ?",
+        "propositions": [
+          "Vendée",
+          "Nord",
+          "Vosges",
+          "Morbihan"
+        ],
+        "réponse": "Morbihan",
+        "anecdote": "De tous les départements français de métropole, c'est le seul à  avoir un nom fait entièrement de termes non issus de la langue française."
+      },
+      {
+        "id": 2,
+        "question": "Comment appelle-t-on les habitants de la ville de Vannes ?",
+        "propositions": [
+          "Vannetais",
+          "Vannais",
+          "Vannois",
+          "Vannetois"
+        ],
+        "réponse": "Vannetais",
+        "anecdote": "Il est à  noter que la ville est la deuxième plus peuplée du département après Lorient et la 5e de la région Bretagne."
+      },
+      {
+        "id": 3,
+        "question": "La ville de Vannes se situe à  l'entrée de quel golfe parsemé de nombreuses îles et îlots ?",
+        "propositions": [
+          "Golfe du Morbihan",
+          "Golfe du Lion",
+          "Golfe de Sagone",
+          "Golfe de St Florent"
+        ],
+        "réponse": "Golfe du Morbihan",
+        "anecdote": "Le golfe du Morbihan est une destination prisée pour la beauté de ses paysages couvrant une centaine de kilomètres carrés."
+      },
+      {
+        "id": 4,
+        "question": "Dans quelle région de France se situe la ville de Vannes ?",
+        "propositions": [
+          "Normandie",
+          "Hauts de France",
+          "Pays de Loire",
+          "Bretagne"
+        ],
+        "réponse": "Bretagne",
+        "anecdote": "Le terme Armorique est utilisé pour désigner la Bretagne et ce, màªme s'il désignait à  l'origine un ensemble plus vaste."
+      },
+      {
+        "id": 5,
+        "question": "Vannes se situe entre Quimper et quelle autre grande ville de France ?",
+        "propositions": [
+          "Laval",
+          "Bourges",
+          "Nantes",
+          "Bordeaux"
+        ],
+        "réponse": "Nantes",
+        "anecdote": "L'histoire de Nantes est en grande partie liée à  celle de la Bretagne, qui deviendra la capitale du duché au XVe siècle."
+      },
+      {
+        "id": 6,
+        "question": "Quel grand conquérant de l'histoire a vaincu la Vannes antique ?",
+        "propositions": [
+          "Alexandre Le Grand",
+          "Attila",
+          "Jules César",
+          "Xerxès"
+        ],
+        "réponse": "Jules César",
+        "anecdote": "Ambitieux et brillant, Jules César s'appuya sur le courant réformateur et démagogue pour son ascension politique."
+      },
+      {
+        "id": 7,
+        "question": "Combien de labels récompensent Vannes comme ville fleurie ?",
+        "propositions": [
+          "Cinq",
+          "Trois",
+          "Deux",
+          "Quatre"
+        ],
+        "réponse": "Quatre",
+        "anecdote": "En 2017, plus de 4 700 communes furent labellisées, dont 249 qui possèdent 4 fleurs (la récompense maximale du concours)."
+      },
+      {
+        "id": 8,
+        "question": "Vers quelle orientation politique la ville de Vannes est-elle plutôt ancrée ?",
+        "propositions": [
+          "Gauche",
+          "Centre",
+          "Droite",
+          "Extràªme droite"
+        ],
+        "réponse": "Droite",
+        "anecdote": "En politique, le terme de droite désigne les courants politiques ayant une idéologie conservatrice, économiquement libérale ou non."
+      },
+      {
+        "id": 9,
+        "question": "Quelle île française est la plus grande du Golfe du Morbihan ?",
+        "propositions": [
+          "àŽle Berder",
+          "àŽle aux Moines",
+          "àŽle de Gavrinis",
+          "àŽle d'Arz"
+        ],
+        "réponse": "àŽle aux Moines",
+        "anecdote": "L'àŽle aux Moines fut habitée depuis l'époque néolithique comme l'attestent les dolmens encore visibles ainsi que d'autres vestiges."
+      },
+      {
+        "id": 10,
+        "question": "Quel gallo-romain est le saint patron de la ville de Vannes ?",
+        "propositions": [
+          "Saint Barbare",
+          "Saint Patern",
+          "Saint Ronan",
+          "Saint Guenael"
+        ],
+        "réponse": "Saint Patern",
+        "anecdote": "Décédé entre 490 et 511, ce gallo-romain est considéré par beaucoup comme l'un des sept saints fondateurs de la Bretagne."
+      },
+      {
+        "id": 11,
+        "question": "Quel peuple de Gaule celtique occupait le pays de Vannes ?",
+        "propositions": [
+          "Vanètes",
+          "Vénigoths",
+          "Vénètes",
+          "Wisigoths"
+        ],
+        "réponse": "Vénètes",
+        "anecdote": "Les Vénètes, dotés d'un sénat, disposaient d'une flotte importante pour commercer avec les îles Britanniques et la péninsule italienne."
+      },
+      {
+        "id": 12,
+        "question": "Laquelle de ces grandes villes de France est la plus proche de Vannes ?",
+        "propositions": [
+          "Angers",
+          "Le Mans",
+          "Nantes",
+          "Caen"
+        ],
+        "réponse": "Nantes",
+        "anecdote": "Nantes se développa grâce à  ses circuits commerciaux hérités du Moyen à‚ge, puis viendra l'époque des engagés blancs."
+      },
+      {
+        "id": 13,
+        "question": "Quel nom a été donné à  la cathédrale catholique romaine de Vannes ?",
+        "propositions": [
+          "Saint-Jean",
+          "Saint-Paul",
+          "Saint-Luc",
+          "Saint-Pierre"
+        ],
+        "réponse": "Saint-Pierre",
+        "anecdote": "Dans son ensemble, l'édifice reste fidèle à  l'ancienne cathédrale romane et comprend une nef avec dix chapelles latérales."
+      },
+      {
+        "id": 14,
+        "question": "Le bagad de Vannes a remporté quelle saison de « La France a un incroyable talent » ?",
+        "propositions": [
+          "Saison 7",
+          "Saison 9",
+          "Saison 8",
+          "Saison 6"
+        ],
+        "réponse": "Saison 9",
+        "anecdote": "Présentée par Alex Goude et Louise Ekland, cette saison a été remportée avec plus de 90 % des voix des téléspectateurs."
+      },
+      {
+        "id": 15,
+        "question": "Contre quelle équipe Vannes fut-elle confrontée en finale de Coupe de la Ligue 2008-2009 ?",
+        "propositions": [
+          "Lorient",
+          "Marseille",
+          "Paris Saint-Germain",
+          "Bordeaux"
+        ],
+        "réponse": "Bordeaux",
+        "anecdote": "La rencontre (au score final de 4-0) a eu lieu au stade de France le samedi 25 avril 2009, le coup d'envoi ayant été donné à  20h50."
+      },
+      {
+        "id": 16,
+        "question": "Où se positionne sur une carte la ville de Vannes par rapport à  Nantes ?",
+        "propositions": [
+          "Au Nord-Ouest",
+          "Au Nord-Est",
+          "Au Sud-Est",
+          "Au Sud-Ouest"
+        ],
+        "réponse": "Au Nord-Ouest",
+        "anecdote": "La ville de Vannes, desservie par la RN 165 sur le littoral sud breton, est à  la fois en bord de mer et à  l'intérieur des terres."
+      },
+      {
+        "id": 17,
+        "question": "Dans la série « Agathe Koltès », dans quel château se situait le commissariat de Police à  Vannes ?",
+        "propositions": [
+          "De l'Hermine",
+          "De police",
+          "Des grands ducs",
+          "Jules Simon"
+        ],
+        "réponse": "De l'Hermine",
+        "anecdote": "« Agathe Koltès » est une série policière française avec Philippine Leroy-Beaulieu diffusée sur France 3 depuis le 7 mai 2016."
+      },
+      {
+        "id": 18,
+        "question": "Quel homme politique français a fait ses études à  Vannes ?",
+        "propositions": [
+          "Jean-Marie Le Pen",
+          "Raymond Marcellin",
+          "Jean-Yves Le Drian",
+          "Christian Bonnet"
+        ],
+        "réponse": "Jean-Marie Le Pen",
+        "anecdote": "Son père trouva la mort à  bord du chalutier La Persévérance lorsque le bateau, qui pàªchait la sole, sauta sur une mine."
+      },
+      {
+        "id": 19,
+        "question": "Quel animal, principalement actif la nuit, représente fièrement la ville de Vannes ?",
+        "propositions": [
+          "Dauphin",
+          "Écureuil",
+          "Hermine",
+          "Taureau"
+        ],
+        "réponse": "Hermine",
+        "anecdote": "Les hermines furent introduites en Nouvelle-Zélande à  la fin du XIXe siècle pour faire le ménage parmi les populations de souris."
+      },
+      {
+        "id": 20,
+        "question": "à€ quelle date ont lieu à  Vannes les désormais célèbres fàªtes d'Arvor ?",
+        "propositions": [
+          "15 août",
+          "21 juin",
+          "14 juillet",
+          "1er mai"
+        ],
+        "réponse": "15 août",
+        "anecdote": "On y procède à  l'élection de la Reine des Fàªtes d'Arvor et de ses deux dauphines, qui devront représenter le folklore breton."
+      },
+      {
+        "id": 21,
+        "question": "Quel célèbre moine et ermite breton est né à  Vannes ?",
+        "propositions": [
+          "Gilles de Rais",
+          "Anne de Bretagne",
+          "Saint Émilion",
+          "Du Guesclin"
+        ],
+        "réponse": "Saint Émilion",
+        "anecdote": "Un monastère et une église monolithe, creusée dans la falaise, furent édifiés après la mort de Saint Émilion, au XIe et XIIe siècle."
+      },
+      {
+        "id": 22,
+        "question": "Quel nom gallo-romain a été donné à  la ville de Vannes ?",
+        "propositions": [
+          "Vernum",
+          "Massalia",
+          "Vanitium",
+          "Darioritum"
+        ],
+        "réponse": "Darioritum",
+        "anecdote": "Au IIIe siècle, la cité va largement déborder du site initial et occuper la colline du Mené qui constitue aujourd'hui le coeur historique."
+      },
+      {
+        "id": 23,
+        "question": "Quelle ville de Belgique est jumelée avec la ville de Vannes ?",
+        "propositions": [
+          "Bruges",
+          "Liège",
+          "Gand",
+          "Mons"
+        ],
+        "réponse": "Mons",
+        "anecdote": "Mons se situe à  60 km au sud-ouest de la capitale Bruxelles, à  environ 240 km au nord-est de Paris, à  75 km à  l'est de Lille."
+      },
+      {
+        "id": 24,
+        "question": "Quelle actrice française célèbre possédait une île près de Vannes ?",
+        "propositions": [
+          "Arletty",
+          "Danielle Darrieux",
+          "Denise Grey",
+          "Michèle Morgan"
+        ],
+        "réponse": "Danielle Darrieux",
+        "anecdote": "Danielle Darrieux a vécu avec Jacques Jenvrin entre une villa de Larmor-Baden (Morbihan) et une maison de Bois-le-Roi (Eure)."
+      },
+      {
+        "id": 25,
+        "question": "Quel est le nom breton de la ville de Vannes, située en Basse-Bretagne ?",
+        "propositions": [
+          "Gwened",
+          "Gwenrann",
+          "Gwitreg",
+          "Roazhon"
+        ],
+        "réponse": "Gwened",
+        "anecdote": "Certains ont été tentés de traduire le nom breton de la ville en français et l'ont interprété comme signifiant « blé blanc »."
+      },
+      {
+        "id": 26,
+        "question": "Quelle célèbre Hélène du cinéma français est née à  Vannes ?",
+        "propositions": [
+          "Vincent",
+          "De Fougerolles",
+          "Rollès",
+          "Duc"
+        ],
+        "réponse": "De Fougerolles",
+        "anecdote": "Elle s'est orientée vers un CAP esthétique-cosmétique, mais elle arràªta ses études à  l'âge de quinze ans afin de devenir actrice."
+      },
+      {
+        "id": 27,
+        "question": "Devant quel roi fut proclamée, à  Vannes, l'union de la Bretagne à  la France ?",
+        "propositions": [
+          "Louis XIV",
+          "Henri IV",
+          "François 1er",
+          "Louis XII"
+        ],
+        "réponse": "François 1er",
+        "anecdote": "à€ la mort de Claude de France, François 1er commet l'erreur de désigner le dauphin François comme héritier de la Bretagne."
+      },
+      {
+        "id": 28,
+        "question": "Quel vaste plan d'eau se situe dans la ville de Vannes ?",
+        "propositions": [
+          "Étang d'Arz",
+          "Étang de Rohan",
+          "Étang de Patern",
+          "Étang au Duc"
+        ],
+        "réponse": "Étang au Duc",
+        "anecdote": "Il s'agirait d'une ancienne carrière dont on aurait tiré les pierres nécessaires à  la construction de la première ville gallo-romaine."
+      },
+      {
+        "id": 29,
+        "question": "Quel fleuve côtier se jette dans le golfe du Morbihan à  Vannes ?",
+        "propositions": [
+          "Blavet",
+          "Odet",
+          "Loire",
+          "Marle"
+        ],
+        "réponse": "Marle",
+        "anecdote": "Canalisée, la Marle passe devant le jardin des remparts et se màªle aux eaux du golfe après la porte Saint-Vincent."
+      },
+      {
+        "id": 30,
+        "question": "Quel grand parc aménagé en hauteur fait face aux remparts de Vannes ?",
+        "propositions": [
+          "Jardin des Remparts",
+          "Parc de Kérizac",
+          "Square Droalen",
+          "Parc de la Garenne"
+        ],
+        "réponse": "Parc de la Garenne",
+        "anecdote": "Véritable symbole de la ville de Vannes, les remparts, en particulier la muraille Est, sont appréciés par les voyageurs et artistes."
+      },
+      {
+        "id": 1,
+        "question": "Combien de personnes forment le groupe humoristique français Les Inconnus ?",
+        "propositions": [
+          "4",
+          "6",
+          "3",
+          "5"
+        ],
+        "réponse": "3",
+        "anecdote": "Ils étaient initialement cinq, avec Smaà¯n et Seymour Brussel qui quitteront le groupe après un an."
+      },
+      {
+        "id": 2,
+        "question": "Au Scrabble, combien de points valent les lettres K, W, X, Y et Z ?",
+        "propositions": [
+          "12",
+          "6",
+          "8",
+          "10"
+        ],
+        "réponse": "10",
+        "anecdote": "Il existe trois championnats du monde de Scrabble : anglophone, francophone et hispanophone."
+      },
+      {
+        "id": 3,
+        "question": "Complétez ce titre de roman écrit par Ray Bradbury : « Fahrenheit »...",
+        "propositions": [
+          "241",
+          "451",
+          "421",
+          "154"
+        ],
+        "réponse": "451",
+        "anecdote": "Le titre fait référence au point d'auto-inflammation, en degrés Fahrenheit, du papier."
+      },
+      {
+        "id": 4,
+        "question": "Quel était le numéro de maillot que portait Platini et Zidane en équipe de France ?",
+        "propositions": [
+          "9",
+          "10",
+          "11",
+          "8"
+        ],
+        "réponse": "10",
+        "anecdote": "Lors de l'Euro 1984, Michel Platini a établi un record de neuf buts marqués durant ce seul tournoi."
+      },
+      {
+        "id": 5,
+        "question": "Traditionnellement, combien y a-t-il de pieds à  une table de cuisine ?",
+        "propositions": [
+          "5",
+          "3",
+          "6",
+          "4"
+        ],
+        "réponse": "4",
+        "anecdote": "Initialement destinées à  l'usage domestique, les tables ont aujourd'hui pénétré le monde industriel."
+      },
+      {
+        "id": 6,
+        "question": "Au théâtre, combien de coups sont frappés avec un bâton avant le lever du rideau ?",
+        "propositions": [
+          "Six",
+          "Cinq",
+          "Trois",
+          "Quatre"
+        ],
+        "réponse": "Trois",
+        "anecdote": "Au théâtre, les trois coups sont frappés sur le plancher de la scène avec un bâton appelé brigadier."
+      },
+      {
+        "id": 7,
+        "question": "Combien de Guerres mondiales eurent lieu au cours du 20e siècle ?",
+        "propositions": [
+          "Une seule",
+          "Trois",
+          "Quatre",
+          "Deux"
+        ],
+        "réponse": "Deux",
+        "anecdote": "Avant la Seconde Guerre mondiale, la Première Guerre mondiale était appelée la « Grande Guerre »."
+      },
+      {
+        "id": 8,
+        "question": "En Europe, de combien de chiffres se compose le code PIN d'une carte bancaire ?",
+        "propositions": [
+          "3",
+          "5",
+          "6",
+          "4"
+        ],
+        "réponse": "4",
+        "anecdote": "Le code PIN est par exemple utilisé sur un téléphone mobile ou un smartphone équipés d'une carte SIM."
+      },
+      {
+        "id": 9,
+        "question": "Combien de personnes formaient autrefois le groupe de musique ABBA ?",
+        "propositions": [
+          "Quatre",
+          "Trois",
+          "Six",
+          "Cinq"
+        ],
+        "réponse": "Quatre",
+        "anecdote": "En janvier 2010, une exposition temporaire, baptisée « ABBA World », a ouvert ses portes à  Londres."
+      },
+      {
+        "id": 10,
+        "question": "En 1998, combien de buts marqua la France en finale de la Coupe du monde de football ?",
+        "propositions": [
+          "Deux",
+          "Cinq",
+          "Quatre",
+          "Trois"
+        ],
+        "réponse": "Trois",
+        "anecdote": "Le début de cette coupe du monde est endeuillé par la disparition du coprésident Fernand Sastre."
+      },
+      {
+        "id": 11,
+        "question": "Lors de la première saison, combien d'heures a duré l'aventure de l'agent Jack Bauer ?",
+        "propositions": [
+          "24",
+          "20",
+          "22",
+          "18"
+        ],
+        "réponse": "24",
+        "anecdote": "Les auteurs de « 24 » ont collaboré avec Sutherland pour créer une « partie » de Jack Bauer."
+      },
+      {
+        "id": 12,
+        "question": "Combien de minutes réglementaires constituent un match de rugby à  XV ?",
+        "propositions": [
+          "40",
+          "20",
+          "60",
+          "80"
+        ],
+        "réponse": "80",
+        "anecdote": "L'International Rugby Board (IRB), créé en 1886, gouverne ce sport et en publie les règles."
+      },
+      {
+        "id": 13,
+        "question": "à€ quel âge Jim Morrison, célèbre chanteurs des Doors, a-t-il trouvé la mort ?",
+        "propositions": [
+          "47 ans",
+          "37 ans",
+          "57 ans",
+          "27 ans"
+        ],
+        "réponse": "27 ans",
+        "anecdote": "Jim Morrison était devenu une véritable idole de la musique rock, mais aussi un intellectuel engagé."
+      },
+      {
+        "id": 14,
+        "question": "Quel est le numéro de maillot que Michael Jordan a porté avec les Chicago Bulls ?",
+        "propositions": [
+          "23",
+          "3",
+          "33",
+          "13"
+        ],
+        "réponse": "23",
+        "anecdote": "Michael Jordan possède aujourd'hui sa propre écurie de superbike ainsi que de nombreux restaurants."
+      },
+      {
+        "id": 15,
+        "question": "Combien de films la saga « Retour vers le futur » comporte-t-elle ?",
+        "propositions": [
+          "Trois",
+          "Quatre",
+          "Cinq",
+          "Six"
+        ],
+        "réponse": "Trois",
+        "anecdote": "Inspirée de l'oeuvre de René Barjavel, « le voyageur imprudent », la trilogie met en exergue deux paradoxes."
+      },
+      {
+        "id": 16,
+        "question": "Lors de la saison 2014 de F1, sur 19 Grand Prix, combien Lewis Hamilton en a-t-il gagné ?",
+        "propositions": [
+          "9",
+          "7",
+          "11",
+          "13"
+        ],
+        "réponse": "11",
+        "anecdote": "Lewis Hamilton est l'un des plus proches amis de Rowan Atkinson, célèbre créateur et interprète du personnage de Mr. Bean."
+      },
+      {
+        "id": 17,
+        "question": "Combien de fois Pamela Anderson est-elle apparu en couverture du « Playboy » américain ?",
+        "propositions": [
+          "11",
+          "9",
+          "7",
+          "13"
+        ],
+        "réponse": "13",
+        "anecdote": "Pamela Anderson milite également activement pour la défense animale, notamment aux côtés de l'association PETA."
+      },
+      {
+        "id": 18,
+        "question": "Quel est le numéro de l'adresse qui abrite le Palais de l'Élysée, rue Faubourg Saint-Honoré ?",
+        "propositions": [
+          "33",
+          "99",
+          "55",
+          "77"
+        ],
+        "réponse": "55",
+        "anecdote": "Le palais de l'Élysée est un hôtel particulier parisien construit par l'architecte Armand-Claude Mollet en 1720."
+      },
+      {
+        "id": 19,
+        "question": "Combien sont les frères Wachowski, devenus soeurs, réalisateurs de la trilogie « Matrix » ?",
+        "propositions": [
+          "3",
+          "2",
+          "4",
+          "5"
+        ],
+        "réponse": "2",
+        "anecdote": "Suite à  leur changement d'identité de genre, Larry est devenu Lana et Andy est devenu Lilly."
+      },
+      {
+        "id": 20,
+        "question": "Le 11 septembre 2001, combien d'avions ont percuté les deux tours du World Trade Center ?",
+        "propositions": [
+          "3",
+          "4",
+          "2",
+          "5"
+        ],
+        "réponse": "2",
+        "anecdote": "Les événements du 11 septembre ont été vécus presque en temps réel par des centaines de millions de téléspectateurs."
+      },
+      {
+        "id": 21,
+        "question": "Combien d'épisodes de la série télévisée « Friends » ont été tournés au total ?",
+        "propositions": [
+          "236",
+          "256",
+          "186",
+          "216"
+        ],
+        "réponse": "236",
+        "anecdote": "La popularité de « Friends » a attiré vers cette sitcom un nombre important d'apparitions d'acteurs de premier plan."
+      },
+      {
+        "id": 22,
+        "question": "Combien de romans ont pour protagoniste Fantômas, héros à  la silhouette encagoulée ?",
+        "propositions": [
+          "22",
+          "32",
+          "12",
+          "42"
+        ],
+        "réponse": "32",
+        "anecdote": "« Fantômas » demeure un des feuilletons les plus marquants de la littérature populaire en France."
+      },
+      {
+        "id": 23,
+        "question": "Durant combien d'années John Fitzgerald Kennedy a-t-il été Président des États-Unis ?",
+        "propositions": [
+          "2",
+          "5",
+          "4",
+          "3"
+        ],
+        "réponse": "2",
+        "anecdote": "John Fitzgerald Kennedy reste à  ce jour le seul président américain de confession catholique."
+      },
+      {
+        "id": 24,
+        "question": "Combien de pays sont frontaliers avec la République populaire de Chine ?",
+        "propositions": [
+          "12",
+          "10",
+          "16",
+          "14"
+        ],
+        "réponse": "14",
+        "anecdote": "Ce nombre en fait, à  égalité avec la Russie, l'État avec le plus de voisins au monde."
+      },
+      {
+        "id": 25,
+        "question": "De combien d 'épisodes est composée la série télévisée à  succès « Breaking Bad » ?",
+        "propositions": [
+          "52",
+          "42",
+          "62",
+          "32"
+        ],
+        "réponse": "62",
+        "anecdote": "La série se concentre sur Walter « Walt » White, un professeur de chimie sur-qualifié et père de famille."
+      },
+      {
+        "id": 26,
+        "question": "Combien de fois le pilote Ayrton Senna a-t-il été champion du monde de Formule 1 ?",
+        "propositions": [
+          "2",
+          "5",
+          "3",
+          "4"
+        ],
+        "réponse": "3",
+        "anecdote": "Ayrton Senna reste une véritable idole au Brésil où son statut a dépassé celui de simple champion sportif."
+      },
+      {
+        "id": 27,
+        "question": "Véritable icône culturelle, en quelle année le boxeur Mohamed Ali est-il décédé ?",
+        "propositions": [
+          "2012",
+          "2014",
+          "2016",
+          "2010"
+        ],
+        "réponse": "2016",
+        "anecdote": "Mohamed Ali a été décoré en 2005 de la Médaille présidentielle de la Liberté."
+      },
+      {
+        "id": 28,
+        "question": "Après combien de secondes la navette spatiale Challenger explosa-t-elle en vol en 1986 ?",
+        "propositions": [
+          "93",
+          "53",
+          "113",
+          "73"
+        ],
+        "réponse": "73",
+        "anecdote": "La navette porte le nom du bateau qui mesura le fond marin le plus profond du globe."
+      },
+      {
+        "id": 29,
+        "question": "Combien d'oeuvres le corpus « La Comédie humaine » d'Honoré de Balzac comporte-t-il ?",
+        "propositions": [
+          "73",
+          "63",
+          "93",
+          "83"
+        ],
+        "réponse": "93",
+        "anecdote": "Doué du génie de l'observation, Balzac a créé des types humains saisissants de vérité."
+      },
+      {
+        "id": 30,
+        "question": "Combien de sélections Zinédine Zidane a-t-il reçu en équipe de France de football ?",
+        "propositions": [
+          "108",
+          "128",
+          "118",
+          "98"
+        ],
+        "réponse": "108",
+        "anecdote": "Célèbre numéro 10 des « Bleus », Zidane met un terme à  sa carrière à  la suite de la Coupe du monde 2006."
+      }
+    ]
+
+}

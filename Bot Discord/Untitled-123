@@ -1,0 +1,5047 @@
+{
+      "dÃ©butant":  [
+      {
+        "id": 1,
+        "question": "Comment appelle-t-on l'ensemble des sensations olfactives procurÃ©es par le vin ?",
+        "propositions": [
+          "Le bouquet",
+          "Le nez",
+          "La robe",
+          "La texture"
+        ],
+        "rÃ©ponse": "Le bouquet",
+        "anecdote": "Le terme Â«Â bouquetÂ Â» est exclusivement rÃ©servÃ© aux parfums issus du vieillissement en bouteille dits secondaires ou tertiaires."
+      },
+      {
+        "id": 2,
+        "question": "Par quel fleuve la rÃ©gion de Saint-Ã‰milion et ses nombreux coteaux est-elle arrosÃ©e ?",
+        "propositions": [
+          "La Garonne",
+          "La Dordogne",
+          "Le Rhin",
+          "La Meuse"
+        ],
+        "rÃ©ponse": "La Dordogne",
+        "anecdote": "Site touristique de premier plan, Saint-Ã‰milion possÃ¨de une importante parure monumentale qui se dÃ©cline au grÃ© des ruelles."
+      },
+      {
+        "id": 3,
+        "question": "Quel pays d'AmÃ©rique latine au drapeau bleu et blanc possÃ¨de le plus grand vignoble ?",
+        "propositions": [
+          "Le Chili",
+          "L'Argentine",
+          "Le PÃ©rou",
+          "La Colombie"
+        ],
+        "rÃ©ponse": "L'Argentine",
+        "anecdote": "Les vignes en hautains, sur espaliers ou en gobelets furent les trois mÃ©thodes les plus utilisÃ©es enÂ viticultureÂ dÃ¨sÂ 1561."
+      },
+      {
+        "id": 4,
+        "question": "Qu'est en fait le phylloxÃ©ra, qui a ravagÃ© presque tous les vignobles du monde ?",
+        "propositions": [
+          "Plante",
+          "Puceron",
+          "BactÃ©rie",
+          "Champignon"
+        ],
+        "rÃ©ponse": "Puceron",
+        "anecdote": "En France, la maladie fut observÃ©e pour la premiÃ¨re fois vers 1863 sur le plateau de Pujaut prÃ¨s Roquemaure, dans le Gard."
+      },
+      {
+        "id": 5,
+        "question": "De quel cÃ©page provient le chablis, vin blanc sec franÃ§ais d'appellation d'origine contrÃ´lÃ©e ?",
+        "propositions": [
+          "Du sauvignon",
+          "Du cabernet",
+          "Du Chardonnay",
+          "Du pinot blanc"
+        ],
+        "rÃ©ponse": "Du Chardonnay",
+        "anecdote": "Il s'agit de la principale appellation en volume duÂ vignoble de Chablis, avec leÂ petit-chablisÂ et leÂ chablis grand cru."
+      },
+      {
+        "id": 6,
+        "question": "Quel verbe utilise-t-on lorsque l'on souhaite mettre un vin dans la glace pour le refroidir ?",
+        "propositions": [
+          "Glacer",
+          "Couper",
+          "Frapper",
+          "Tirer"
+        ],
+        "rÃ©ponse": "Frapper",
+        "anecdote": "Pour beaucoup,Â frappÃ©Â a le sens de rafraÃ®chir ce qui est une erreur car un vin est frappÃ© lorsqu'il est frappÃ© de glace."
+      },
+      {
+        "id": 7,
+        "question": "Pour les protÃ©ger de quels prÃ©dateurs plantait-on autrefois des roses Ã  l'entrÃ©e des vignobles ?",
+        "propositions": [
+          "Des pucerons",
+          "Des fourmis",
+          "Des araignÃ©es",
+          "Des abeilles"
+        ],
+        "rÃ©ponse": "Des pucerons",
+        "anecdote": "Le PhylloxÃ©ra est un minuscule insecte piqueur infÃ©odÃ© Ã  la vigne, apparentÃ© aux pucerons."
+      },
+      {
+        "id": 8,
+        "question": "Au Moyen Ã‚ge, qu'employait-on comme antiseptique pour panser les blessures ?",
+        "propositions": [
+          "Du vin",
+          "Du miel",
+          "Du beurre",
+          "Du sucre"
+        ],
+        "rÃ©ponse": "Du vin",
+        "anecdote": "Un centimÃ¨tre cube de vin tue 99 % des bacilles typhiques et des microbes du cholÃ©ra dans une quantitÃ© Ã©gale Ã  la culture."
+      },
+      {
+        "id": 9,
+        "question": "Parmi ces Saints, lequel ne porte pas le nom d'un cru viticole ou d'un grand vignoble ?",
+        "propositions": [
+          "St Julien",
+          "St RaphaÃ«l",
+          "St Amour",
+          "St Aubin"
+        ],
+        "rÃ©ponse": "St RaphaÃ«l",
+        "anecdote": "LeÂ Saint-RaphaÃ«lÂ est unÂ apÃ©ritifÂ Ã  base de mÃ©lange deÂ mistelleÂ rouge ou blanche et deÂ plantes aromatiques."
+      },
+      {
+        "id": 10,
+        "question": "Ã€ quel dieu Ã©gyptien attribue-t-on le fait d'avoir plantÃ© la vigne sur les bords du Nil ?",
+        "propositions": [
+          "Osiris",
+          "Amon",
+          "RÃ¢",
+          "Thot"
+        ],
+        "rÃ©ponse": "Osiris",
+        "anecdote": "Osiris, fils du Ciel et de la Terre, Ã©tait surnommÃ© Â«Â Le MaÃ®tre de la Vigne en FleursÂ Â»."
+      },
+      {
+        "id": 11,
+        "question": "Le ChÃ©nas est une appellation d'origine contrÃ´lÃ©e de quelle grande rÃ©gion viticole ?",
+        "propositions": [
+          "De Bourgogne",
+          "Du Jura",
+          "Du ChÃ¢lonnais",
+          "Du Beaujolais"
+        ],
+        "rÃ©ponse": "Du Beaujolais",
+        "anecdote": "L'appellation est situÃ©e Ã  cheval sur les dÃ©partements duÂ RhÃ´neÂ et deÂ SaÃ´ne-et-Loire, au nord duÂ vignoble du Beaujolais."
+      },
+      {
+        "id": 12,
+        "question": "Selon les Ã©crits, quel peuple cultiva pour la premiÃ¨re fois la vigne en France ?",
+        "propositions": [
+          "Les Romains",
+          "Les Grecs",
+          "Les Burgondes",
+          "Les Gaulois"
+        ],
+        "rÃ©ponse": "Les Grecs",
+        "anecdote": "Les Grecs, aux alentours de Marseille. Les Romains l'ont ensuite propagÃ© au cours de leurs conquÃªtes."
+      },
+      {
+        "id": 13,
+        "question": "Comment dÃ©signe-t-on un vin qui peut se garder longtemps et qui demande Ã  vieillir ?",
+        "propositions": [
+          "Ã‰lixir",
+          "Vin de garde",
+          "Ã‰chanson",
+          "Graves"
+        ],
+        "rÃ©ponse": "Vin de garde",
+        "anecdote": "Les vins de garde ne doivent pas se boire trop jeunes et doivent subir uneÂ pÃ©riode de maturationÂ de l'ordre de trois Ã  cinq ans."
+      },
+      {
+        "id": 14,
+        "question": "Le pineau des Charentes doit obligatoirement tirer entre 16Â° et combien de degrÃ©s ?",
+        "propositions": [
+          "20Â°",
+          "24Â°",
+          "22Â°",
+          "18Â°"
+        ],
+        "rÃ©ponse": "22Â°",
+        "anecdote": "Il est Ã  noter que 75% de la production du pineau des Charentes est consommÃ©e en France."
+      },
+      {
+        "id": 15,
+        "question": "Le pouilly-fuissÃ© est un vin blanc issu d'un seul cÃ©page, mais lequel ?",
+        "propositions": [
+          "Le Chardonnay",
+          "Le Chemin Blanc",
+          "Le Sauvignon",
+          "Le SÃ©millon"
+        ],
+        "rÃ©ponse": "Le Chardonnay",
+        "anecdote": "Les terroirs du pouilly-fuissÃ© sont de constitution majoritairement argilo-calcaire (Jurassique de l'Ã¨re secondaire)."
+      },
+      {
+        "id": 16,
+        "question": "Quel appareil permet de mesurer le taux d'alcool d'un vin ?",
+        "propositions": [
+          "Un alcootest",
+          "Un Ã©bullioscope",
+          "Un oenolitre",
+          "Un barrica"
+        ],
+        "rÃ©ponse": "Un Ã©bullioscope",
+        "anecdote": "Puisque l'alcool bout Ã  78Â° et l'eau Ã  100Â°, l'Ã©bullioscope permet de mesurer la quantitÃ© d'alcool contenue dans une boisson alcoolisÃ©e."
+      },
+      {
+        "id": 17,
+        "question": "Dans quel local la vinification est-elle gÃ©nÃ©ralement pratiquÃ©e ?",
+        "propositions": [
+          "Le cuvier",
+          "Le cellier",
+          "Le pommard",
+          "Le chai"
+        ],
+        "rÃ©ponse": "Le cuvier",
+        "anecdote": "C'est dans le cuvier que s'effectue la vinification et par extension le stockage en cuve des vins en cours d'Ã©levage."
+      },
+      {
+        "id": 18,
+        "question": "IdÃ©alement, quel vin convient le mieux aux artichauts Ã  la poivrade, spÃ©cialitÃ© provenÃ§ale ?",
+        "propositions": [
+          "Le blanc",
+          "Le blanc pÃ©tillant",
+          "Le rosÃ©",
+          "Le rouge"
+        ],
+        "rÃ©ponse": "Le rosÃ©",
+        "anecdote": "LeÂ violet de Provence peut se manger cru quand il est jeune (poivrade); cru ou cuit, il se dÃ©guste notamment en salade."
+      },
+      {
+        "id": 19,
+        "question": "Quel aÃ©ronef annonce chaque annÃ©e la rÃ©colte du ChÃ¢teau Guiraud en Sauternes ?",
+        "propositions": [
+          "Un avion",
+          "Un ULM",
+          "Une montgolfiÃ¨re",
+          "Un delta-plane"
+        ],
+        "rÃ©ponse": "Une montgolfiÃ¨re",
+        "anecdote": "EnÂ AOCÂ Sauternes, il est classÃ© premier grand cru dans laÂ classification officielle des vins de Bordeaux de 1855."
+      },
+      {
+        "id": 20,
+        "question": "Comment dÃ©signe-t-on un vin rosÃ© dont la cuvaison a durÃ© moins de 24 heures ?",
+        "propositions": [
+          "Vin de jour",
+          "Vin de messe",
+          "Vin de foire",
+          "Vin de cafÃ©"
+        ],
+        "rÃ©ponse": "Vin de cafÃ©",
+        "anecdote": "L'expression Â«Â vin d'une nuitÂ Â» est moins pÃ©jorative que Â«Â vin de cafÃ©Â Â»."
+      },
+      {
+        "id": 21,
+        "question": "Quel vin, cÃ©lÃ©brÃ© par Goethe et Voltaire, fut dÃ©crÃ©tÃ© Vin des rois et Rois des vins ?",
+        "propositions": [
+          "Richebourg",
+          "Tokay Aszu",
+          "ChÃ©nas",
+          "Meursault"
+        ],
+        "rÃ©ponse": "Tokay Aszu",
+        "anecdote": "Les Tokaj sont principalement connus pour la gamme deÂ vins liquoreuxÂ haut de gamme issus de grains de raisin sur-mÃ»ris."
+      },
+      {
+        "id": 22,
+        "question": "En 1850, combien de domaines viticoles du Bordelais utilisaient dÃ©jÃ  un nom de chÃ¢teau ?",
+        "propositions": [
+          "510",
+          "318",
+          "50",
+          "180"
+        ],
+        "rÃ©ponse": "50",
+        "anecdote": "Le vignoble de Bordeaux est le vignoble regroupant toutes les vignes du dÃ©partement de la Gironde."
+      },
+      {
+        "id": 23,
+        "question": "Le festival de Vevey, en Suisse, est un des plus importants festivals du vin depuis quel siÃ¨cle ?",
+        "propositions": [
+          "Le XXe",
+          "Le XVIIIe",
+          "Le XVIIe",
+          "Le XIXe"
+        ],
+        "rÃ©ponse": "Le XVIIe",
+        "anecdote": "LaÂ FÃªte des VigneronsÂ est une fÃªte traditionnelle qui a lieu cinq fois par siÃ¨cle Ã Â Vevey, enÂ Suisse."
+      },
+      {
+        "id": 24,
+        "question": "Quel raisin, destinÃ© Ã  la production du vin, est le plus cultivÃ© dans la rÃ©gion de Dao, au Portugal ?",
+        "propositions": [
+          "Le touriga",
+          "Le touzao",
+          "L'ugni",
+          "Le riaja"
+        ],
+        "rÃ©ponse": "Le touriga",
+        "anecdote": "Cette variÃ©tÃ© Ã  petits grains et peaux Ã©paisses joue un rÃ´le essentiel dans les assemblages du vin deÂ Porto."
+      },
+      {
+        "id": 25,
+        "question": "Quelle expression est utilisÃ©e pour dÃ©signer le fait d'ajouter de l'alcool dans un vin ?",
+        "propositions": [
+          "Frapper un vin",
+          "Mander un vin",
+          "Viner un vin",
+          "Claper un vin"
+        ],
+        "rÃ©ponse": "Viner un vin",
+        "anecdote": "Il ne faut pas confondre Â«Â vinageÂ Â» avec le mot anglais Â«Â vintageÂ Â» qui signifie dans ce contexte millÃ©sime ou millÃ©simÃ©."
+      },
+      {
+        "id": 26,
+        "question": "Lequel de ces Saints est sans conteste Â«Â plus alcooliqueÂ Â» que les trois autres ?",
+        "propositions": [
+          "Saint Emilion",
+          "Saint Julien",
+          "Saint James",
+          "Saint-VÃ©ran"
+        ],
+        "rÃ©ponse": "Saint James",
+        "anecdote": "Saint James est un rhum titrant plus de 80 degrÃ©s d'alcool, tandis que les autres sont des vins."
+      },
+      {
+        "id": 27,
+        "question": "Quel vin rouge fait Ã  partir des cÃ©pages gamay et pinot noir est produit dans le Valais ?",
+        "propositions": [
+          "La DÃ´le",
+          "Le Sancerre",
+          "Le MÃ©doc",
+          "Le Tavel"
+        ],
+        "rÃ©ponse": "La DÃ´le",
+        "anecdote": "La DÃ´le est souvent qualifiÃ©e deÂ Â«Â capiteuse, racÃ©e et moelleuseÂ Â» avec une robe aux reflets de pourpre."
+      },
+      {
+        "id": 28,
+        "question": "Par des cures de quel vin Erasme soignait-il ses troubles d'estomac ?",
+        "propositions": [
+          "CÃ´te de Beaune",
+          "Pomerol",
+          "ChÃ¢teau Guiraud",
+          "Morgan"
+        ],
+        "rÃ©ponse": "CÃ´te de Beaune",
+        "anecdote": "Le CÃ´te de Beaune est en effet rÃ©putÃ© pour sa richesse en Ã©lÃ©ments minÃ©raux et ses propriÃ©tÃ©s bactÃ©ricides."
+      },
+      {
+        "id": 29,
+        "question": "Parmi ces vins blancs liquoreux de Bordeaux s'est glissÃ© un intrus, lequel ?",
+        "propositions": [
+          "Cadillac",
+          "Loupiac",
+          "Listrac",
+          "Barrac"
+        ],
+        "rÃ©ponse": "Listrac",
+        "anecdote": "Listrac est en effet un vin rouge ou un vin blanc sec d'appellation d'origine contrÃ´lÃ©e produit autour de Listrac-MÃ©doc dans le MÃ©doc."
+      },
+      {
+        "id": 30,
+        "question": "Quelle mÃ©thode augmente le taux d'alcool d'un vin en ajoutant du sucre dans le moÃ»t ?",
+        "propositions": [
+          "Ma muscadelle",
+          "La chaptalisation",
+          "L'enfarinage",
+          "L'ambrie"
+        ],
+        "rÃ©ponse": "La chaptalisation",
+        "anecdote": "Dans la thÃ©orie, l'ajout deÂ 16,83Â grammesÂ de sucre par litre conduit Ã  la production d'un degrÃ© d'alcool supplÃ©mentaire."
+       },
+       {
+        "id": 1,
+        "question": "Contre quel prÃ©sident a-t-on lancÃ© une procÃ©dure de destitution en 2019 ?",
+        "propositions": [
+          "Emmanuel Macron",
+          "Donald Trump",
+          "Rodrigo Duterte",
+          "Vladimir Poutine"
+        ],
+        "rÃ©ponse": "Donald Trump",
+        "anecdote": "Donald Trump sera mis en accusation par la Chambre, devenant le troisiÃ¨me prÃ©sident amÃ©ricain Ã  Ãªtre inculpÃ©."
+      },
+      {
+        "id": 2,
+        "question": "Quel clip vidÃ©o de Luis Fonsi a dÃ©passÃ© les six milliards de vues sur YouTube ?",
+        "propositions": [
+          "Respira",
+          "Calypso",
+          "Despacito",
+          "TentaciÃ³n"
+        ],
+        "rÃ©ponse": "Despacito",
+        "anecdote": "Le clip de Â« Despacito Â» de Luis Fonsi Ã©tait dÃ©jÃ  la premiÃ¨re vidÃ©o Ã  avoir dÃ©passÃ© les 3 milliards, les 4 milliards et les 5 milliards de vues."
+      },
+      {
+        "id": 3,
+        "question": "Qui a remportÃ© en 2019 son sixiÃ¨me titre de champion du monde de Formule 1 ?",
+        "propositions": [
+          "Lewis Hamilton",
+          "Pierre Gasly",
+          "Lando Norris",
+          "Sebastian Vettel"
+        ],
+        "rÃ©ponse": "Lewis Hamilton",
+        "anecdote": "Champion du monde de F1 en 2008, 2014, 2015, 2017, 2018 et 2019, il est aussi recordman du nombre de pole positions."
+      },
+      {
+        "id": 4,
+        "question": "Quel pape a annoncÃ© en 2019 une ouverture des archives secrÃ¨tes du Vatican pour 2020 ?",
+        "propositions": [
+          "FranÃ§ois",
+          "BenoÃ®t XVI",
+          "Pie XI",
+          "Jean-Paul II"
+        ],
+        "rÃ©ponse": "FranÃ§ois",
+        "anecdote": "Jorge Mario Bergoglio, nÃ© le 17 dÃ©cembre 1936 Ã  Buenos Aires, Ã©tait avant le 13 mars 2013 archevÃªque de Buenos Aires et cardinal."
+      },
+      {
+        "id": 5,
+        "question": "Quelle cÃ©lÃ¨bre cathÃ©drale Notre-Dame fut ravagÃ©e par un incendie le 15 avril 2019 ?",
+        "propositions": [
+          "Bayeux",
+          "Verdun",
+          "Paris",
+          "Die"
+        ],
+        "rÃ©ponse": "Paris",
+        "anecdote": "Cet important sinistre subi par la cathÃ©drale a dÃ©truit la flÃ¨che et la totalitÃ© de la toiture couvrant la nef, le choeur et le transept."
+      },
+      {
+        "id": 6,
+        "question": "Qui fut nommÃ© Premier ministre du Royaume-Uni, succÃ©dant ainsi Ã  Theresa May ?",
+        "propositions": [
+          "Boris Johnson",
+          "David Cameron",
+          "Tony Blair",
+          "Gordon Brown"
+        ],
+        "rÃ©ponse": "Boris Johnson",
+        "anecdote": "Les conservateurs obtinrent leur plus grande majoritÃ© depuis 1987, ce qui permettra Ã  Boris Johnson d'annoncer la rÃ©alisation du Brexit."
+      },
+      {
+        "id": 7,
+        "question": "En aoÃ»t 2019, dans quel pays s'est tenu le sommet du G7 ?",
+        "propositions": [
+          "France",
+          "Japon",
+          "Canada",
+          "Italie"
+        ],
+        "rÃ©ponse": "France",
+        "anecdote": "Le dernier sommet du G7 organisÃ© sur le territoire franÃ§ais, avant celui de 2019, remontait Ã  2011 sous Nicolas Sarkozy."
+      },
+      {
+        "id": 8,
+        "question": "Quelle suÃ©doise a tenu en 2019 un discours Ã  l'ONU en faveur de l'Ã©cologie ?",
+        "propositions": [
+          "Greta Thunberg",
+          "Hilda Nilsson",
+          "Lisbet Rausing",
+          "Simone Giertz"
+        ],
+        "rÃ©ponse": "Greta Thunberg",
+        "anecdote": "Ayant reÃ§u prix et distinctions, elle a fait en mai 2019 la couverture du magazine Time la dÃ©cernant personnalitÃ© de l'annÃ©e."
+      },
+      {
+        "id": 9,
+        "question": "Dans quel pays s'est dÃ©roulÃ©e la Coupe du monde de rugby Ã  XV de 2019 ?",
+        "propositions": [
+          "Japon",
+          "France",
+          "Nouvelle-ZÃ©lande",
+          "Australie"
+        ],
+        "rÃ©ponse": "Japon",
+        "anecdote": "L'Afrique du Sud remportera cette Coupe du monde en battant l'Angleterre, devenant championne du monde pour la troisiÃ¨me fois."
+      },
+      {
+        "id": 10,
+        "question": "Quel ex-prÃ©sident nous a quittÃ© le 26 septembre 2019, journÃ©e de deuil national ?",
+        "propositions": [
+          "FranÃ§ois Mitterrand",
+          "Jacques Chirac",
+          "FranÃ§ois Hollande",
+          "Nicolas Sarkozy"
+        ],
+        "rÃ©ponse": "Jacques Chirac",
+        "anecdote": "EngagÃ© Ã  gauche dans sa jeunesse, Jacques Chirac sera gÃ©nÃ©ralement considÃ©rÃ© comme gaulliste et classÃ© Ã  droite de l'Ã©chiquier politique."
+      },
+      {
+        "id": 11,
+        "question": "Quel prÃ©sident algÃ©rien a dÃ©missionnÃ© de son poste en avril 2019 ?",
+        "propositions": [
+          "Abdelaziz Bouteflika",
+          "Chadli Bendjedid",
+          "Ali Kafi",
+          "Liamine ZÃ©roual"
+        ],
+        "rÃ©ponse": "Abdelaziz Bouteflika",
+        "anecdote": "AprÃ¨s avoir Ã©tÃ© victime en 2013 d'un grave accident vasculaire cÃ©rÃ©bral, Abdelaziz Bouteflika a vu son Ã©tat de santÃ© se dÃ©grader rapidement."
+      },
+      {
+        "id": 12,
+        "question": "Quels nouveaux billets furent mis en circulation en Europe en 2019 ?",
+        "propositions": [
+          "20 et 50 euros",
+          "200 et 500 euros",
+          "50 et 100 euros",
+          "100 et 200 euros"
+        ],
+        "rÃ©ponse": "100 et 200 euros",
+        "anecdote": "Au 1er janvier 2019, il y avait 2Â 804Â 486Â 391Â billets de 100Â euros en circulation dans le monde, pour une valeur totale de 280Â 448Â 639Â 100Â Â€."
+      },
+      {
+        "id": 13,
+        "question": "Quel empereur du Japon, intronisÃ© en 1990, a abdiquÃ© le 30 avril 2019 ?",
+        "propositions": [
+          "Showa",
+          "Naruhito",
+          "Akihito",
+          "Taisho"
+        ],
+        "rÃ©ponse": "Akihito",
+        "anecdote": "La Constitution japonaise de 1947 avait limitÃ© le rÃ´le de l'empereur Akihito Ã  celui de symbole de l'Ã‰tat et de l'unitÃ© du peuple japonais."
+      },
+      {
+        "id": 14,
+        "question": "Dans quelle ville eut lieu la finale du concours Eurovision de la chanson 2019 ?",
+        "propositions": [
+          "Tel-Aviv",
+          "Stockholm",
+          "Kiev",
+          "Lisbonne"
+        ],
+        "rÃ©ponse": "Tel-Aviv",
+        "anecdote": "Cette compÃ©tition s'est tenue Ã  Tel Aviv, en IsraÃ«l, Ã  la suite de la victoire de Netta lors de l'Ã©dition 2018, avec la chanson Â« Toy Â»."
+      },
+      {
+        "id": 15,
+        "question": "Quel pays a remportÃ© la Coupe du monde masculine de basket-ball 2019 ?",
+        "propositions": [
+          "Espagne",
+          "France",
+          "Argentine",
+          "Australie"
+        ],
+        "rÃ©ponse": "Espagne",
+        "anecdote": "La compÃ©tition sera marquÃ©e par l'Ã©limination des Ã‰tats-Unis, tenants du titre, et de la France (premiÃ¨re dÃ©faite depuis treize ans)."
+      },
+      {
+        "id": 16,
+        "question": "En Belgique, qui fut nommÃ©e PremiÃ¨re ministre le 28 octobre 2019 ?",
+        "propositions": [
+          "Julie Payette",
+          "Brigitte Bierlein",
+          "Sophie WilmÃ¨s",
+          "Erna Solberg"
+        ],
+        "rÃ©ponse": "Sophie WilmÃ¨s",
+        "anecdote": "Ã‰chevine Ã  Rhode-Saint-GenÃ¨se entre 2000 et 2015, Sophie WilmÃ¨s deviendra en 2014 dÃ©putÃ©e fÃ©dÃ©rale en supplÃ©ance de Didier Reynders."
+      },
+      {
+        "id": 17,
+        "question": "En 2019, quel anniversaire a-t-on fÃªtÃ© concernant la chute du mur de Berlin ?",
+        "propositions": [
+          "Les vingt ans",
+          "Les quarante ans",
+          "Les dix ans",
+          "Les trente ans"
+        ],
+        "rÃ©ponse": "Les trente ans",
+        "anecdote": "Ce fut rendu possible par la nouvelle politique de l'URSS vis-Ã -vis des pays de l'Est instaurÃ©e par MikhaÃ¯l Gorbatchev depuis 1985."
+      },
+      {
+        "id": 18,
+        "question": "Combien de soldats franÃ§ais sont morts au Mali aprÃ¨s une collision d'hÃ©licoptÃ¨res ?",
+        "propositions": [
+          "Dix",
+          "Seize",
+          "Treize",
+          "Vingt"
+        ],
+        "rÃ©ponse": "Treize",
+        "anecdote": "Le 2 dÃ©cembre, la France leur rendra un hommage national, le prÃ©sident de la RÃ©publique leur remettant la LÃ©gion d'honneur Ã  titre posthume."
+      },
+      {
+        "id": 19,
+        "question": "Quel compositeur et musicien franÃ§ais nous a quittÃ© le 26 janvier 2019 ?",
+        "propositions": [
+          "Michel Legrand",
+          "Maurice Jarre",
+          "Vladimir Cosma",
+          "Francis Lai"
+        ],
+        "rÃ©ponse": "Michel Legrand",
+        "anecdote": "Comme suite Ã  son dÃ©cÃ¨s, de nombreux artistes francophones ont repris un de ses plus grands succÃ¨s, Â« Les Moulins de mon coeur Â»."
+      },
+      {
+        "id": 20,
+        "question": "Dans quelle ville eurent lieu les Championnats du monde d'athlÃ©tisme 2019 ?",
+        "propositions": [
+          "PÃ©kin",
+          "Doha",
+          "Moscou",
+          "Londres"
+        ],
+        "rÃ©ponse": "Doha",
+        "anecdote": "Le Qatar accueille pour la premiÃ¨re fois cet Ã©vÃ©nement sportif, organisÃ© par l'Association internationale des fÃ©dÃ©rations d'athlÃ©tisme (IAAF)."
+      },
+      {
+        "id": 21,
+        "question": "De quel artiste les Pays-Bas ont-ils cÃ©lÃ©brÃ© en 2019 les 350 ans de la mort ?",
+        "propositions": [
+          "Bosschaert",
+          "De Jongh",
+          "Rembrandt",
+          "Van Dijck"
+        ],
+        "rÃ©ponse": "Rembrandt",
+        "anecdote": "Rembrandt est gÃ©nÃ©ralement considÃ©rÃ© comme l'un des plus grands peintres de l'histoire de la peinture, notamment de la peinture baroque."
+      },
+      {
+        "id": 22,
+        "question": "En 2019, contre quelle maladie le vaccin est-il devenu obligatoire en Somalie ?",
+        "propositions": [
+          "Varicelle",
+          "RubÃ©ole",
+          "Coqueluche",
+          "Rougeole"
+        ],
+        "rÃ©ponse": "Rougeole",
+        "anecdote": "Cette vaccination fait suite Ã  une Ã©pidÃ©mie qui a fait 63Â morts, elle-mÃªme causÃ©e par une faible couverture vaccinale des ÃŽles Samoa."
+      },
+      {
+        "id": 23,
+        "question": "Quel pays a pris en janvier 2019 la prÃ©sidence tournante de l'Union europÃ©enne ?",
+        "propositions": [
+          "Allemagne",
+          "Finlande",
+          "Croatie",
+          "Roumanie"
+        ],
+        "rÃ©ponse": "Roumanie",
+        "anecdote": "La prÃ©sidence du Conseil n'est pas dÃ©tenue par un prÃ©sident unique mais est exercÃ©e par le gouvernement de l'Ã‰tat membre."
+      },
+      {
+        "id": 24,
+        "question": "La rupture de quel barrage brÃ©silien eut un impact sur la biodiversitÃ© amazonienne ?",
+        "propositions": [
+          "Brumadinho",
+          "Camacari",
+          "Arapiraca",
+          "SumarÃ©"
+        ],
+        "rÃ©ponse": "Brumadinho",
+        "anecdote": "La rupture du barrage de Brumadinho au Minas Gerais fit au moins 115Â morts et de nombreux disparus, provoquant un dÃ©sastre Ã©cologique."
+      },
+      {
+        "id": 25,
+        "question": "Quel nouveau site maya d'offrandes quasi-intact fut rÃ©vÃ©lÃ© au grand public en 2019 ?",
+        "propositions": [
+          "Uxmal",
+          "Culuba",
+          "ChichÃ©n ItzÃ¡",
+          "Bonampak"
+        ],
+        "rÃ©ponse": "ChichÃ©n ItzÃ¡",
+        "anecdote": "Connu par les archÃ©ologues mexicains et les populations mayas locales depuis 50 ans, le site Ã©tait jusque-lÃ  cachÃ© dans une grotte murÃ©e."
+      },
+      {
+        "id": 26,
+        "question": "Quel cyclone a provoquÃ© plus de trois cents morts au Mozambique et au Zimbabwe ?",
+        "propositions": [
+          "Bingiza",
+          "Idai",
+          "Tracy",
+          "GamÃ¨de"
+        ],
+        "rÃ©ponse": "Idai",
+        "anecdote": "Alors que les morts se comptent trÃ¨s probablement en milliers au Mozambique, Idai y a dÃ©truit Ã  90 % Beira, la deuxiÃ¨me ville du pays."
+      },
+      {
+        "id": 27,
+        "question": "Quel eurodÃ©putÃ© italien a Ã©tÃ© Ã©lu prÃ©sident du Parlement europÃ©enÂ en 2019 ?",
+        "propositions": [
+          "Mario Mauro",
+          "Paolo De Castro",
+          "Franco Bonanini",
+          "David Sassoli"
+        ],
+        "rÃ©ponse": "David Sassoli",
+        "anecdote": "Ce journaliste et homme politique italien a Ã©galement Ã©tÃ© prÃ©sentateur de l'Ã©dition de 20 heures et vice-directeur du TG1 sur Rai 1."
+      },
+      {
+        "id": 28,
+        "question": "Au Mexique, quelle famille fut massacrÃ©e dans la Sierra Madre en 2019 ?",
+        "propositions": [
+          "Michoacana",
+          "LeBaron",
+          "Sinaloa",
+          "Fernando"
+        ],
+        "rÃ©ponse": "LeBaron",
+        "anecdote": "Si les assaillants de ce groupe de femmes et d'enfants sont bien des narcotrafiquants, cela en ferait un massacre de la Guerre de la drogue."
+      },
+      {
+        "id": 29,
+        "question": "Quel volcan est entrÃ© en Ã©ruption le 9 dÃ©cembre 2019 en Nouvelle-ZÃ©lande ?",
+        "propositions": [
+          "Kambalny",
+          "White Island",
+          "Mont Carlisle",
+          "Home Reef"
+        ],
+        "rÃ©ponse": "White Island",
+        "anecdote": "L'Ã®le est constituÃ©e de deux volcans andÃ©sitiques imbriquÃ©s dont l'un est un cratÃ¨re en forme de fer Ã  cheval ouvert vers le sud-est."
+      },
+      {
+        "id": 30,
+        "question": "Quelle ville a fÃªtÃ© en 2019 les cent ans de sa station de radio ?",
+        "propositions": [
+          "Miami",
+          "Berlin",
+          "Londres",
+          "MontrÃ©al"
+        ],
+        "rÃ©ponse": "MontrÃ©al",
+        "anecdote": "MontrÃ©al, ville du Canada, a en effet Ã©tÃ© la premiÃ¨re ville au monde Ã  possÃ©der une vraie station de radio en 1919."
+      },
+      {
+        "id": 1,
+        "question": "Qui a ditÂ : Â«Â Un seul Ãªtre vous manque, et tout est dÃ©peuplÃ©Â Â» ?",
+        "propositions": [
+          "Voltaire",
+          "Montesquieu",
+          "Lamartine",
+          "Stendhal"
+        ],
+        "rÃ©ponse": "Lamartine",
+        "anecdote": "Alphonse de Lamartine est un poÃ¨te et romancier qui participa Ã  la RÃ©volution de fÃ©vrier 1848 et proclama la DeuxiÃ¨me RÃ©publique."
+      },
+      {
+        "id": 2,
+        "question": "Qui a ditÂ : Â«Â Quand les gens parlent de toi, c'est que tu existesÂ Â» ?",
+        "propositions": [
+          "Coluche",
+          "Grand corps malade",
+          "Ã‰ric Cantona",
+          "Serge Gainsbourg"
+        ],
+        "rÃ©ponse": "Ã‰ric Cantona",
+        "anecdote": "Ses frasques, ses colÃ¨res et son caractÃ¨re imprÃ©visible font d'Ã‰ric Cantona un acteur incontournable des mÃ©dias."
+      },
+      {
+        "id": 3,
+        "question": "Qui a ditÂ : Â«Â Ne buvez pas au volant, vous pourriez en renverserÂ Â» ?",
+        "propositions": [
+          "FrÃ©dÃ©ric Dard",
+          "Michel Audiard",
+          "Woody Allen",
+          "Coluche"
+        ],
+        "rÃ©ponse": "Coluche",
+        "anecdote": "Fils d'un immigrÃ© italien et d'une FranÃ§aise, Michel Colucci grandit Ã  Montrouge et adoptera le pseudonyme de Coluche Ã  26 ans."
+      },
+      {
+        "id": 4,
+        "question": "Qui a ditÂ : Â«Â La vie ne vaut rien, mais rien ne vaut la vieÂ Â» ?",
+        "propositions": [
+          "Oscar Wilde",
+          "AndrÃ© Malraux",
+          "Albert Camus",
+          "Jules Renard"
+        ],
+        "rÃ©ponse": "AndrÃ© Malraux",
+        "anecdote": "Malraux a obtenu le prix Goncourt avec Â« La Condition humaine Â», roman qui s'inspire des soubresauts rÃ©volutionnaires de la Chine."
+      },
+      {
+        "id": 5,
+        "question": "Qui a ditÂ : Â«Â Je n'ai jamais eu qu'une seule ride et je suis assise dessusÂ Â» ?",
+        "propositions": [
+          "MÃ¨re Teresa",
+          "Jeanne Calment",
+          "Woody Allen",
+          "Albert Einstein"
+        ],
+        "rÃ©ponse": "Jeanne Calment",
+        "anecdote": "Jeanne Calment est devenue l'Ãªtre humain ayant vÃ©cu le plus longtemps parmi les personnes Ã  la date de naissance certifiÃ©e."
+      },
+      {
+        "id": 6,
+        "question": "Qui a ditÂ : Â«Â Quand j'Ã©tais jeune j'Ã©tais trÃ¨s conÂ : je suis restÃ© trÃ¨s jeuneÂ Â» ?",
+        "propositions": [
+          "J-C Van Damme",
+          "Woody Allen",
+          "Coluche",
+          "Sacha Guitry"
+        ],
+        "rÃ©ponse": "J-C Van Damme",
+        "anecdote": "En 2007, il rÃ©vÃ¨le au magazine Empire sa liaison avec la chanteuse Kylie Minogue durant le tournage de Â« Street Fighter Â»."
+      },
+      {
+        "id": 7,
+        "question": "Quelle cÃ©lÃ©britÃ© a ditÂ : Â«Â L'avenir appartient Ã  ceux qui rÃªvent tropÂ Â» ?",
+        "propositions": [
+          "Bob Marley",
+          "William Shakespeare",
+          "Grand corps malade",
+          "Eric Cantona"
+        ],
+        "rÃ©ponse": "Grand corps malade",
+        "anecdote": "Lors d'une colonie de vacances qu'il animait en 1997, il a fait un plongeon dans une piscine dont le niveau d'eau Ã©tait trop bas."
+      },
+      {
+        "id": 8,
+        "question": "Qui a ditÂ : Â«Â Un intellectuel assis va moins loin qu'un con qui marcheÂ Â» ?",
+        "propositions": [
+          "Serge Gainsbourg",
+          "Michel Audiard",
+          "Tristan Bernard",
+          "FrÃ©dÃ©ric Dard"
+        ],
+        "rÃ©ponse": "Michel Audiard",
+        "anecdote": "Les dialogues de Michel Audiard constituent l'un des meilleurs tÃ©moignages de l'irrÃ©vÃ©rence dÃ©tachÃ©e propre aux annÃ©es 1960."
+      },
+      {
+        "id": 9,
+        "question": "Qui a ditÂ : Â«Â Je suis fier que l'on me compare Ã  Michel PlatiniÂ Â» ?",
+        "propositions": [
+          "Lionel Messi",
+          "ZinÃ©dine Zidane",
+          "Laurent Blanc",
+          "David Beckham"
+        ],
+        "rÃ©ponse": "ZinÃ©dine Zidane",
+        "anecdote": "CÃ©lÃ¨bre numÃ©ro 10 des Bleus, ZinÃ©dine Zidane mettra un terme Ã  sa carriÃ¨re Ã  la suite de la Coupe du monde de football 2006."
+      },
+      {
+        "id": 10,
+        "question": "Qui a ditÂ : Â«Â Les enfants c'est comme les pets, on supporte surtout les siensÂ Â» ?",
+        "propositions": [
+          "Jean-Paul Guerlain",
+          "Sacha Guitry",
+          "FrÃ©dÃ©ric Dard",
+          "Coluche"
+        ],
+        "rÃ©ponse": "FrÃ©dÃ©ric Dard",
+        "anecdote": "FrÃ©dÃ©ric Dard est surtout connu pour les aventures du commissaire San Antonio, souvent aidÃ© de son adjoint BÃ©rurier."
+      },
+      {
+        "id": 11,
+        "question": "Qui a ditÂ : Â«Â Le parfum d'une femme est la forme la plus intense du souvenirÂ Â» ?",
+        "propositions": [
+          "Jean-Paul Guerlain",
+          "Pierre Bourdon",
+          "FranÃ§ois Demachy",
+          "Jean Patou"
+        ],
+        "rÃ©ponse": "Jean-Paul Guerlain",
+        "anecdote": "MariÃ©, il Ã©tait le dernier hÃ©ritier de la cÃ©lÃ¨bre maison de parfumeurs homonyme, avant de la cÃ©der en 1994 au groupe LVMH."
+      },
+      {
+        "id": 12,
+        "question": "Qui a ditÂ : Â«Â L'homme n'est pas fait pour travailler : la preuve, Ã§a le fatigueÂ Â» ?",
+        "propositions": [
+          "Albert Camus ",
+          "Jules Renard",
+          "Oscar Wilde",
+          "Tristan Bernard"
+        ],
+        "rÃ©ponse": "Tristan Bernard",
+        "anecdote": "Outre ses romans, Tristan Bernard est Ã©galement connu pour ses grilles de mots croisÃ©s, pleines d'esprit et de malice."
+      },
+      {
+        "id": 13,
+        "question": "Qui a ditÂ : Â«Â ÃŠtre fidÃ¨le, c'est, bien souvent, enchaÃ®ner l'autreÂ Â» ?",
+        "propositions": [
+          "Jules Renard",
+          "Voltaire",
+          "Sacha Guitry",
+          "MÃ¨re Teresa"
+        ],
+        "rÃ©ponse": "Sacha Guitry",
+        "anecdote": "Auteur dramatique prolifique, Sacha Guitry a Ã©crit 124 piÃ¨ces de thÃ©Ã¢tre, dont beaucoup furent et restent de grands succÃ¨s."
+      },
+      {
+        "id": 14,
+        "question": "Quel homme cÃ©lÃ¨bre a ditÂ : Â«Â La vie est courte, mais l'ennui l'allongeÂ Â» ?",
+        "propositions": [
+          "Jules Renard",
+          "Serge Gainsbourg",
+          "Woody Allen",
+          "Bob Marley"
+        ],
+        "rÃ©ponse": "Jules Renard",
+        "anecdote": "Soutient d'Ã‰mile Zola dans l'affaire Dreyfus, il se rÃ©vÃ¨le aussi Ãªtre un admirateur enthousiaste et presque dÃ©lirant de Victor Hugo."
+      },
+      {
+        "id": 15,
+        "question": "Qui a ditÂ : Â«Â La bouche obÃ©it mal lorsque le coeur murmureÂ Â» ?",
+        "propositions": [
+          "Malraux",
+          "Shakespeare",
+          "Confucius",
+          "Voltaire"
+        ],
+        "rÃ©ponse": "Voltaire",
+        "anecdote": "ReprÃ©sentant le plus connu de la philosophie des LumiÃ¨res, Voltaire domina son Ã©poque par la durÃ©e de sa vie (83 ans)."
+      },
+      {
+        "id": 16,
+        "question": "Qui a ditÂ : Â«Â Si vous jugez les gens, vous n'avez pas le temps de les aimerÂ Â» ?",
+        "propositions": [
+          "MÃ¨re Teresa",
+          "Alfred de Musset",
+          "Grand corps malade",
+          "Oscar Wilde"
+        ],
+        "rÃ©ponse": "MÃ¨re Teresa",
+        "anecdote": "MÃ¨re Teresa est connue pour son action caritative avec les Â« Missionnaires de la CharitÃ© Â» qui suivent son exemple."
+      },
+      {
+        "id": 17,
+        "question": "Qui a ditÂ : Â«Â L'imagination est plus importante que le savoirÂ Â» ?",
+        "propositions": [
+          "Oscar Wilde",
+          "Confucius",
+          "Albert Einstein",
+          "Guy de Maupassant"
+        ],
+        "rÃ©ponse": "Albert Einstein",
+        "anecdote": "Albert Einstein a publiÃ© sa thÃ©orie de la relativitÃ© restreinte en 1905 et sa thÃ©orie de la gravitation dite relativitÃ© gÃ©nÃ©raleÂ en 1915."
+      },
+      {
+        "id": 18,
+        "question": "Qui a ditÂ : Â«Â Parler de ses peines, c'est dÃ©jÃ  se consolerÂ Â» ?",
+        "propositions": [
+          "Albert Camus",
+          "Alfred de Musset",
+          "Jeanne Calment",
+          "MÃ¨re Teresa"
+        ],
+        "rÃ©ponse": "Albert Camus",
+        "anecdote": "En marge des courants philosophiques, Camus sera d'abord tÃ©moin de son temps, intransigeant, refusant toute compromission."
+      },
+      {
+        "id": 19,
+        "question": "Quel gÃ©nie a ditÂ : Â«Â L'Ã©ternitÃ© c'est long, surtout vers la finÂ Â» ?",
+        "propositions": [
+          "Albert Einstein",
+          "Tristan Bernard",
+          "Woody Allen",
+          "Guy de Maupassant"
+        ],
+        "rÃ©ponse": "Woody Allen",
+        "anecdote": "RÃ©alisant pratiquement un film par an, Woody Allen est l'un des cinÃ©astes amÃ©ricains les plus prolifiques de ces derniÃ¨res annÃ©es."
+      },
+      {
+        "id": 20,
+        "question": "Quel homme de lettres a ditÂ : Â«Â La tristesse vient de la solitude du coeurÂ Â» ?",
+        "propositions": [
+          "Lamartine",
+          "Montesquieu",
+          "Stendhal",
+          "Voltaire"
+        ],
+        "rÃ©ponse": "Montesquieu",
+        "anecdote": "Montesquieu est l'un des penseurs de l'organisation politique et sociale sur lesquels les sociÃ©tÃ©s modernes s'appuient."
+      },
+      {
+        "id": 21,
+        "question": "Quelle personnalitÃ© a ditÂ : Â«Â C'est ce qui sort de ta bouche qui te maintient en vieÂ Â» ?",
+        "propositions": [
+          "Emile Deschanel",
+          "Woody Allen",
+          "Bob Marley",
+          "Confucius"
+        ],
+        "rÃ©ponse": "Bob Marley",
+        "anecdote": "Bob Marley est celui qui a permis Ã  la musique jamaÃ¯caine et au mouvement rastafari de connaÃ®tre une audience planÃ©taire."
+      },
+      {
+        "id": 22,
+        "question": "Qui a ditÂ : Â«Â Le masque est si charmant que j'ai peur du visageÂ Â» ?",
+        "propositions": [
+          "Montesquieu",
+          "Alfred de Musset",
+          "Stendhal",
+          "AndrÃ© Malraux"
+        ],
+        "rÃ©ponse": "Alfred de Musset",
+        "anecdote": "Le thÃ©Ã¢tre et la poÃ©sie lyrique d'Alfred de Musset montrent une sensibilitÃ© extrÃªme et une interrogation sur la puretÃ© et la dÃ©bauche."
+      },
+      {
+        "id": 23,
+        "question": "Qui a ditÂ : Â«Â La beautÃ© est dans les yeux de celui qui regardeÂ Â» ?",
+        "propositions": [
+          "Stendhal",
+          "Oscar Wilde",
+          "Confucius",
+          "Guy de Maupassant"
+        ],
+        "rÃ©ponse": "Oscar Wilde",
+        "anecdote": "Oscar Wilde incarne une nouvelle sensibilitÃ© qui apparaÃ®t en rÃ©action contre le positivisme et le naturalisme."
+      },
+      {
+        "id": 24,
+        "question": "Qui a ditÂ : Â«Â Un baiser lÃ©gal ne vaut jamais un baiser volÃ©Â Â» ?",
+        "propositions": [
+          "Alfred de Musset",
+          "Sacha Guitry",
+          "Guy de Maupassant",
+          "AndrÃ© Malraux"
+        ],
+        "rÃ©ponse": "Guy de Maupassant",
+        "anecdote": "Reconnu de son vivant, il conserve un renom de premier plan, renouvelÃ© par les nombreuses adaptations filmÃ©es de ses oeuvres."
+      },
+      {
+        "id": 25,
+        "question": "Qui a ditÂ : Â«Â On n'emporte en mourant que ce qu'on a donnÃ©Â Â» ?",
+        "propositions": [
+          "ThÃ©odore Garnier",
+          "Gaston MÃ©ry",
+          "Ã‰mile Deschanel",
+          "Hector Durville"
+        ],
+        "rÃ©ponse": "Ã‰mile Deschanel",
+        "anecdote": "Les papiers personnels de la famille Deschanel sont conservÃ©s aux Archives nationales sous la cote 151AP."
+      },
+      {
+        "id": 26,
+        "question": "Qui a ditÂ : Â«Â Plus on plaÃ®t gÃ©nÃ©ralement, moins on plaÃ®t profondÃ©mentÂ Â» ?",
+        "propositions": [
+          "Montesquieu",
+          "Lamartine",
+          "Voltaire",
+          "Stendhal"
+        ],
+        "rÃ©ponse": "Stendhal",
+        "anecdote": "Stendhal aurait voulu consacrer sa vie Ã  la rÃªverie, Ã  la chasse au bonheur et Ã  l'amourÂ ; malgrÃ© lui, il eut une vie mouvementÃ©e."
+      },
+      {
+        "id": 27,
+        "question": "Qui a ditÂ : Â«Â Mieux vaut mourir incompris que passer sa vie Ã  s'expliquerÂ Â» ?",
+        "propositions": [
+          "Serge Gainsbourg",
+          "William Shakespeare",
+          "Eric Cantona",
+          "Oscar Wilde"
+        ],
+        "rÃ©ponse": "William Shakespeare",
+        "anecdote": "Il est rÃ©putÃ© pour sa maÃ®trise des formes poÃ©tiques et littÃ©raires, ainsi que sa capacitÃ© Ã  reprÃ©senter les aspects de la nature humaine."
+      },
+      {
+        "id": 28,
+        "question": "Qui a ditÂ : Â«Â La perte d'un ennemi ne compense pas celle d'un amiÂ Â» ?",
+        "propositions": [
+          "Abraham Lincoln",
+          "Lamartine",
+          "Stendhal",
+          "Oscar Wilde"
+        ],
+        "rÃ©ponse": "Abraham Lincoln",
+        "anecdote": "SeiziÃ¨me prÃ©sident des Ã‰tats-Unis, il fut Ã©lu Ã  deux reprises prÃ©sident du pays, en novembre 1860 et en novembre 1864."
+      },
+      {
+        "id": 29,
+        "question": "Qui a ditÂ : Â« La chance est bien souvent un hasard qui se provoque Â» ?",
+        "propositions": [
+          "Guy de Maupassant",
+          "Bob Marley",
+          "Oscar Wilde",
+          "Confucius"
+        ],
+        "rÃ©ponse": "Confucius",
+        "anecdote": "Personnage historique ayant le plus marquÃ© la civilisation chinoise, Confucius est considÃ©rÃ© comme le premier Ã©ducateurÂ de la Chine."
+      },
+      {
+        "id": 30,
+        "question": "Qui a ditÂ : Â«Â La beautÃ© est la seule vengeance des femmesÂ Â» ?",
+        "propositions": [
+          "Sacha Guitry",
+          "Coluche",
+          "Serge Gainsbourg",
+          "Woody Allen"
+        ],
+        "rÃ©ponse": "Serge Gainsbourg",
+        "anecdote": "Serge Gainsbourg influencera considÃ©rablement des artistes franÃ§ais comme le groupe Taxi Girl, Renaud ou encore Ã‰tienne Daho."
+      },
+      {
+        "id": 1,
+        "question": "Qui fut la prÃ©sentatrice du journal de 20 heures sur TF1 de 2008 Ã  2012 ?",
+        "propositions": [
+          "Anne-Sophie Lapix",
+          "Laurence Ferrari",
+          "Florence Schaal",
+          "BÃ©atrice SchÃ¶nberg"
+        ],
+        "rÃ©ponse": "Laurence Ferrari",
+        "anecdote": "Laurence Ferrari entendÂ dÃ©sormais Â«Â dÃ©poussiÃ©rer l'actualitÃ©Â Â»Â en traitant toutes sortes de sujets."
+      },
+      {
+        "id": 2,
+        "question": "Qui a remplacÃ© Claude SÃ©rillon Ã  la prÃ©sentation du journal de 20 heures de France 2 ?",
+        "propositions": [
+          "David Pujadas",
+          "Daniel Bilalian",
+          "Paul Amar",
+          "Bruno Masure"
+        ],
+        "rÃ©ponse": "David Pujadas",
+        "anecdote": "David Pujadas a remportÃ© en 2007 leÂ prix Roland-DorgelÃ¨s pour sonÂ Â«Â attachement Ã  la qualitÃ© de la langue franÃ§aiseÂ Â»."
+      },
+      {
+        "id": 3,
+        "question": "Qui a animÃ© chaque jour Â« C Ã  vous Â» sur France 5 de 2009 Ã  2013 ?",
+        "propositions": [
+          "ValÃ©rie BÃ©naÃ¯m",
+          "Sonia Dubois",
+          "Alessandra Sublet",
+          "Karine Ferri"
+        ],
+        "rÃ©ponse": "Alessandra Sublet",
+        "anecdote": "Alessandra Sublet est la fille deÂ JoÃ«l Sublet, ancien footballeur de l'Olympique lyonnaisÂ ayant jouÃ© dans les annÃ©es 1970."
+      },
+      {
+        "id": 4,
+        "question": "Quel animateur de tÃ©lÃ©vision a prÃ©sentÃ© huit saisons de Â« Secret Story Â» ?",
+        "propositions": [
+          "Denis Brogniart",
+          "Marc-Olivier Fogiel",
+          "Cyril Hanouna",
+          "Benjamin Castaldi"
+        ],
+        "rÃ©ponse": "Benjamin Castaldi",
+        "anecdote": "Benjamin Castaldi est le fils deÂ Jean-Pierre CastaldiÂ etÂ Catherine AllÃ©gretÂ mais aussi le petit-fils de l'actriceÂ Simone Signoret."
+      },
+      {
+        "id": 5,
+        "question": "Qui a co-animÃ© de 2011 Ã  2018 une Ã©mission tÃ©lÃ© aux cÃ´tÃ©s de Nicolas Canteloup ?",
+        "propositions": [
+          "Jean-Pierre Foucault",
+          "Julien Courbet",
+          "SÃ©bastien Cauet",
+          "Nikos Aliagas"
+        ],
+        "rÃ©ponse": "Nikos Aliagas",
+        "anecdote": "En avril 2011, Nikos a doublÃ© un personnage (Flamenco) dans le filmÂ Â« Rio Â»Â aux cÃ´tÃ©s deÂ Karine FerriÂ et Nicolas Richaud."
+      },
+      {
+        "id": 6,
+        "question": "Qui a succÃ©dÃ© Ã  Michel Denisot Ã  la prÃ©sentation du Â« Grand Journal Â» sur Canal+ ?",
+        "propositions": [
+          "Philippe Risoli",
+          "Philippe Gildas",
+          "JÃ©rÃ´me Bonaldi",
+          "Antoine de Caunes"
+        ],
+        "rÃ©ponse": "Antoine de Caunes",
+        "anecdote": "Antoine de Caunes est l'auteur-compositeur, sous le pseudonyme de Paul Persavon, deÂ gÃ©nÃ©riquesÂ d'Ã©missions pour enfants."
+      },
+      {
+        "id": 7,
+        "question": "Quel prÃ©sentateur de tÃ©lÃ©vision est un fin spÃ©cialiste des familles royales ?",
+        "propositions": [
+          "Denis Brogniart",
+          "GÃ©rard Holtz",
+          "Michel Drucker",
+          "StÃ©phane Bern"
+        ],
+        "rÃ©ponse": "StÃ©phane Bern",
+        "anecdote": "StÃ©phane Bern a fait sonÂ coming outÂ dans le magazineÂ Â« TÃªtu Â» en octobre 2009, puis chez Mireille Dumas la mÃªme annÃ©e."
+      },
+      {
+        "id": 8,
+        "question": "Quel animateur tÃ©lÃ© est incontestablement associÃ© Ã  Â« Koh-Lanta Â» ?",
+        "propositions": [
+          "Jean-Pierre Foucault",
+          "SÃ©bastien Cauet",
+          "Nikos Aliagas",
+          "Denis Brogniart"
+        ],
+        "rÃ©ponse": "Denis Brogniart",
+        "anecdote": "MariÃ© enÂ 2007, Denis Brogniart a quatre enfants (nÃ©s entre 2000 et 2007) dont trois avec son Ã©pouse Hortense."
+      },
+      {
+        "id": 9,
+        "question": "Qui a prÃ©sentÃ© jusque 2018 le Â« Grand Concours des Animateurs Â» chaque annÃ©e sur TF1 ?",
+        "propositions": [
+          "Nathalie Simon",
+          "Carole Rousseau",
+          "Sophie Favier",
+          "Alexandra Kazan"
+        ],
+        "rÃ©ponse": "Carole Rousseau",
+        "anecdote": "Carole Rousseau a Ã©galement prÃ©sentÃ© Â« Scrupules Â» ainsi que les trois premiÃ¨res saisons de l'Ã©mission Â« MasterChef Â»."
+      },
+      {
+        "id": 10,
+        "question": "Quel animateur tÃ©lÃ© vous proposait autrefois de le retrouver sur les Â« Champs-Ã‰lysÃ©es Â» ?",
+        "propositions": [
+          "Michel Drucker",
+          "Alexandre Devoise",
+          "Michel Denisot",
+          "Guillaume Durand"
+        ],
+        "rÃ©ponse": "Michel Drucker",
+        "anecdote": "Michel Drucker produit aux cÃ´tÃ©s de FranÃ§oise Coquet ses Ã©missions depuisÂ 1984Â avec DMD Productions."
+      },
+      {
+        "id": 11,
+        "question": "Quel animateur tÃ©lÃ© aujourd'hui disparu a trÃ¨s vite Ã©tÃ© surnommÃ© l'homme Ã  l'oreillette ?",
+        "propositions": [
+          "Jean-Luc Delarue",
+          "Benjamin Castaldi",
+          "Antoine de Caunes",
+          "Philippe Gildas"
+        ],
+        "rÃ©ponse": "Jean-Luc Delarue",
+        "anecdote": "Jean-Luc Delarue a Ã©tÃ© confrontÃ© Ã  diffÃ©rentes difficultÃ©s d'ordre judiciaire avecÂ RÃ©servoir ProdÂ ainsi qu'Ã  titre personnel."
+      },
+      {
+        "id": 12,
+        "question": "Qui a le premier animÃ© Â« La revue de presse Â» dans Â« Salut les Terriens! Â» ?",
+        "propositions": [
+          "Laurent Baffie",
+          "Antoine de Caunes",
+          "Gaspard Proust",
+          "StÃ©phane Guillon"
+        ],
+        "rÃ©ponse": "StÃ©phane Guillon",
+        "anecdote": "Dans l'Ã©missionÂ Â« 20h10 pÃ©tantes Â», StÃ©phane Guillon a parfois Ã©tÃ© confrontÃ© Ã  la colÃ¨re, Ã  l'hostilitÃ©, voire le mÃ©pris de certains invitÃ©s."
+      },
+      {
+        "id": 13,
+        "question": "Laquelle de ces journalistes a Ã©tÃ© chroniqueuse tÃ©lÃ© auprÃ¨s de Laurent Ruquier ?",
+        "propositions": [
+          "Ã‰lisabeth Quin",
+          "Virginie Mouzat",
+          "Anne Fulda",
+          "Natacha Polony"
+        ],
+        "rÃ©ponse": "Natacha Polony",
+        "anecdote": "Le 19 mars 2015, Natacha Polony a reÃ§u le prix du Livre incorrect 2015 pour son livreÂ Â« Ce pays qu'on abat Â»."
+      },
+      {
+        "id": 14,
+        "question": "En tÃ©lÃ©vision, quel polÃ©miste et essayiste est souvent associÃ© Ã  Ã‰ric Naulleau ?",
+        "propositions": [
+          "Ã‰ric Zemmour",
+          "Jean Dutourd",
+          "Christophe Barbier",
+          "Maurice Joly"
+        ],
+        "rÃ©ponse": "Ã‰ric Zemmour",
+        "anecdote": "AprÃ¨s avoir Ã©crit plusieurs biographies d'hommes politiques, Ã‰ric Zemmour s'est tournÃ© en 2006-2007 vers les sujets sociÃ©taux."
+      },
+      {
+        "id": 15,
+        "question": "Lequel de ces animateurs a co-produit de nombreuses Ã©missions avec Catherine Barma ?",
+        "propositions": [
+          "Thierry Ardisson",
+          "Pierre Bellemare",
+          "Olivier Chiabodo",
+          "Bruno Gaccio"
+        ],
+        "rÃ©ponse": "Thierry Ardisson",
+        "anecdote": "EnÂ 2005, Thierry Ardisson crÃ©e la sociÃ©tÃ© Ardimages dans le but de produire des longs-mÃ©trages et des sÃ©ries pour la tÃ©lÃ©vision."
+      },
+      {
+        "id": 16,
+        "question": "Quel animateur tÃ©lÃ© reste connu pour ses dÃ©monstrations presque toujours dÃ©faillantes ?",
+        "propositions": [
+          "Patrice Carmouze",
+          "Antoine de Caunes",
+          "Laurent Baffie",
+          "StÃ©phane Guillon"
+        ],
+        "rÃ©ponse": "Patrice Carmouze",
+        "anecdote": "AprÃ¨s une jeunesse passÃ©e Ã  Limoges, Patrice Carmouze y obtiendra une licence de lettres et une maÃ®trise de droit."
+      },
+      {
+        "id": 17,
+        "question": "Qui faisait chanter les jeunes enfants Ã  la tÃ©lÃ©vision le dimanche aprÃ¨s-midi ?",
+        "propositions": [
+          "Jacques Martin",
+          "Thierry Beccaro",
+          "Alain Chabat",
+          "Bruno Masure"
+        ],
+        "rÃ©ponse": "Jacques Martin",
+        "anecdote": "Fin cuisinier, Jacques Martin Ã©tait le petit-fils de JoannÃ¨s Ducerf, chef de cuisine du tsarÂ Nicolas II de Russie."
+      },
+      {
+        "id": 18,
+        "question": "Quel homme de tÃ©lÃ© est rÃ©putÃ© pour son sens de la rÃ©partie et son humour grinÃ§ant ?",
+        "propositions": [
+          "StÃ©phane Bern",
+          "GÃ©rard Holtz",
+          "Laurent Baffie",
+          "Michel Drucker"
+        ],
+        "rÃ©ponse": "Laurent Baffie",
+        "anecdote": "EnÂ 2003, Laurent Baffie rÃ©alise son premierÂ long mÃ©trage,Â Â« Les Clefs de bagnole Â», dans lequel il partage la vedette avecÂ Daniel Russo."
+      },
+      {
+        "id": 19,
+        "question": "Qui dirige depuis 2003 les candidats de Â« Fort Boyard Â» sur France 2 ?",
+        "propositions": [
+          "Olivier Minne",
+          "Michel Field",
+          "FrÃ©dÃ©ric Lopez",
+          "Florian Gazan"
+        ],
+        "rÃ©ponse": "Olivier Minne",
+        "anecdote": "Olivier Minne a fait des apparitions dans la sÃ©rieÂ Â« Un gars, une fille Â», incarnant alors un des copains de Jean."
+      },
+      {
+        "id": 20,
+        "question": "Quel animateur de tÃ©lÃ©vision vous interdit de Â«Â toucher Ã  son posteÂ Â» ?",
+        "propositions": [
+          "Pascal Sevran",
+          "Cyril Hanouna",
+          "Vincent Perrot",
+          "LÃ©on Zitrone"
+        ],
+        "rÃ©ponse": "Cyril Hanouna",
+        "anecdote": "LeÂ 7Â juinÂ 2013, Cyril Hanouna a remportÃ© pour la premiÃ¨re fois le tournoi des personnalitÃ©s deÂ Roland-Garros."
+      },
+      {
+        "id": 21,
+        "question": "Quel Ã©tait le salaire mensuel de Julien LepersÂ pour Â« Questions pour un champion Â» ?",
+        "propositions": [
+          "13 000 euros",
+          "26 000 euros",
+          "47 000 euros",
+          "39Â 000 euros"
+        ],
+        "rÃ©ponse": "39Â 000 euros",
+        "anecdote": "Julien Lepers est Ã©galement chef d'entreprise via sa sociÃ©tÃ© Guilor, spÃ©cialisÃ©e en conseil pour les affaires et la gestion."
+      },
+      {
+        "id": 22,
+        "question": "Quel animateur de tÃ©lÃ©vision a toujours affirmÃ© avoir Patrick Sabatier comme idole absolue ?",
+        "propositions": [
+          "Thomas Hugues",
+          "Bernard Montiel",
+          "Guy Lux",
+          "Marc-Olivier Fogiel"
+        ],
+        "rÃ©ponse": "Marc-Olivier Fogiel",
+        "anecdote": "Parfois surnommÃ© le Â«Â pitbull du PAFÂ Â», Marc-Olivier Fogiel se distingue en interviews par un style agressif et cassant."
+      },
+      {
+        "id": 23,
+        "question": "Quelle animatrice tÃ©lÃ© a affirmÃ© que la quÃªte de vÃ©ritÃ© Ã©tait sa premiÃ¨re motivation ?",
+        "propositions": [
+          "Ã‰lise Lucet",
+          "Marie Drucker",
+          "Audrey Pulvar",
+          "Christine Ockrent"
+        ],
+        "rÃ©ponse": "Ã‰lise Lucet",
+        "anecdote": "Elle qualifie son Ã©mission comme Â«Â un grain de sable qui empÃªche la machine de tournerÂ Â» et donc Â«Â rÃ©veille les consciencesÂ Â»."
+      },
+      {
+        "id": 24,
+        "question": "Ã€ quel animateur doit-on la cÃ©lÃ¨bre phraseÂ : Â« Vive le sport sur France 2 Â» ?",
+        "propositions": [
+          "GÃ©rard Holtz",
+          "Jean-Luc Lemoine",
+          "Laurent Mariotte",
+          "Georges Lang"
+        ],
+        "rÃ©ponse": "GÃ©rard Holtz",
+        "anecdote": "GÃ©rard Holtz a prÃ©sentÃ© le journal deÂ 13Â heuresÂ deÂ France 2 entre septembre 2000 et juilletÂ 2001."
+      },
+      {
+        "id": 25,
+        "question": "Quel chroniqueur du Canal Football Club est parfois accompagnÃ© d'HervÃ© Mathoux ?",
+        "propositions": [
+          "Laurent Bazin",
+          "Pierre MÃ©nÃ¨s",
+          "Christian Ollivier",
+          "Vincent Perrot"
+        ],
+        "rÃ©ponse": "Pierre MÃ©nÃ¨s",
+        "anecdote": "Du fait de son rÃ´le deÂ polÃ©miste, Pierre MÃ©nÃ¨s est entrÃ© Ã  plusieurs reprises en conflit avec diffÃ©rents acteurs duÂ football."
+      },
+      {
+        "id": 26,
+        "question": "Quel animateur de tÃ©lÃ©vision est surnommÃ© le Prince polonais par William Leymergie ?",
+        "propositions": [
+          "StÃ©phane Plaza",
+          "Laurent Romejko",
+          "Ariel Wizman",
+          "Bruce Toussaint"
+        ],
+        "rÃ©ponse": "Laurent Romejko",
+        "anecdote": "EnÂ 2000, il participe au lancement de la chaÃ®neÂ SantÃ© VieÂ et prÃ©sente un journal destinÃ© aux professionnels de la santÃ©."
+      },
+      {
+        "id": 27,
+        "question": "Quel est le nom de la sociÃ©tÃ© de production de Julien Courbet ?",
+        "propositions": [
+          "Coyote",
+          "Atlantic",
+          "RÃ©servoir Prod",
+          "La Concepteria"
+        ],
+        "rÃ©ponse": "La Concepteria",
+        "anecdote": "Julien Courbet est un cavalier Ã©mÃ©rite qui concourt sous son vÃ©ritable nom (FrÃ©dÃ©ric Courbet)."
+      },
+      {
+        "id": 28,
+        "question": "Qui fut le premier Ã  animer Â« La Chasse aux trÃ©sors Â» sur Antenne 2 en 1981 ?",
+        "propositions": [
+          "Didier Lecat ",
+          "Philippe Gildas",
+          "Jean Lanzi ",
+          "Bruce Toussaint"
+        ],
+        "rÃ©ponse": "Philippe Gildas",
+        "anecdote": "Philippe Gildas a publiÃ© son autobiographie Â« Comment rÃ©ussir Ã  la tÃ©lÃ©vision quand on est petit, breton, avec de grandes oreilles Â»."
+      },
+      {
+        "id": 29,
+        "question": "Quel animateur de tÃ©lÃ©vision a chantÃ© Â« Cuitas les bananas Â» ?",
+        "propositions": [
+          "SÃ©bastien Cauet",
+          "Pascal Brunner",
+          "Thierry Beccaro",
+          "Philippe Risoli"
+        ],
+        "rÃ©ponse": "Philippe Risoli",
+        "anecdote": "Philippe Risoli a fait son grand retour Ã  la tÃ©lÃ©vision sur la chaÃ®neÂ GulliÂ enÂ 2009 en y prÃ©sentantÂ Â« L'Ã‰cole des fans Â»."
+      },
+      {
+        "id": 30,
+        "question": "Quel animateur produit des Ã©missions de tÃ©lÃ© grÃ¢ce Ã  sa sociÃ©tÃ© Coyote ?",
+        "propositions": [
+          "Ch. Dechavanne",
+          "O. Minne",
+          "Th. Ardisson",
+          "V. Perrot"
+        ],
+        "rÃ©ponse": "Ch. Dechavanne",
+        "anecdote": "Christophe Dechavanne figure parmi les premiÃ¨res personnalitÃ©s Ã  avoir proposÃ© le prÃ©servatif Ã  unÂ franc."
+      },
+      {
+        "id": 1,
+        "question": "Combien de dÃ©partements compte la Bretagne, Ã  l'extrÃ©mitÃ© ouest de la France ?",
+        "propositions": [
+          "Deux",
+          "Cinq",
+          "Quatre",
+          "Trois"
+        ],
+        "rÃ©ponse": "Quatre",
+        "anecdote": "La Bretagne est situÃ©e entre la Manche au nord, la mer Celtique Ã  l'ouest et le golfe de Gascogne au sud."
+      },
+      {
+        "id": 2,
+        "question": "Comment dit-on Â«Â BretagneÂ Â» en breton, langue parlÃ©e par 200 000 personnes en Bretagne ?",
+        "propositions": [
+          "Gomz",
+          "Breizh",
+          "Fenoz",
+          "Kerne"
+        ],
+        "rÃ©ponse": "Breizh",
+        "anecdote": "La pratique traditionnelle du breton est majoritairement concentrÃ©e dans l'ouest de la pÃ©ninsule."
+      },
+      {
+        "id": 3,
+        "question": "Quelle ville bretonne est connue pour ses alignements de plusieurs milliers de menhirs ?",
+        "propositions": [
+          "Lorient",
+          "Brest",
+          "Rumengol",
+          "Carnac"
+        ],
+        "rÃ©ponse": "Carnac",
+        "anecdote": "Ce site mÃ©galithique exceptionnel est constituÃ© d'alignements de menhirs, de dolmens et d'allÃ©es couvertes."
+      },
+      {
+        "id": 4,
+        "question": "Quelle ville bretonne a pour habitants les briochins et les briochines ?",
+        "propositions": [
+          "Brest",
+          "Betton",
+          "Saint-Brieuc",
+          "Bruz"
+        ],
+        "rÃ©ponse": "Saint-Brieuc",
+        "anecdote": "PrÃ©fecture des CÃ´tes-d'Armor, Saint-Brieuc en est Ã©galement la ville la plus peuplÃ©e."
+      },
+      {
+        "id": 5,
+        "question": "Quel symbole celtique Ã  trois branches est devenu trÃ¨s populaire en Bretagne ?",
+        "propositions": [
+          "Chardon",
+          "Sablier",
+          "FlÃ¨che",
+          "TriskÃ¨le"
+        ],
+        "rÃ©ponse": "TriskÃ¨le",
+        "anecdote": "Le triskÃ¨le est considÃ©rÃ© comme une caractÃ©ristique importante de l'art celtique Ã  l'Ã©poque de la TÃ¨ne."
+      },
+      {
+        "id": 6,
+        "question": "Quels genres de musique sont cÃ©lÃ©brÃ©s tous les ans Ã  Lorient ?",
+        "propositions": [
+          "Cubaines",
+          "Celtiques",
+          "Classiques",
+          "Religieuses"
+        ],
+        "rÃ©ponse": "Celtiques",
+        "anecdote": "Le Festival interceltique de Lorient trouve son origine dans l'accueil en 1971 d'une compÃ©tition de bagadou."
+      },
+      {
+        "id": 7,
+        "question": "Quelle course Ã  la voile est trÃ¨s souvent associÃ©e au port de Saint-Malo ?",
+        "propositions": [
+          "Transat anglaise",
+          "Spi Dauphine",
+          "VendÃ©e Globe",
+          "Route du Rhum"
+        ],
+        "rÃ©ponse": "Route du Rhum",
+        "anecdote": "Le record de la traversÃ©e est dÃ©tenu depuis 2014 par LoÃ¯ck Peyron sur le Maxi Solo BP VII."
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la prÃ©fecture du FinistÃ¨re, dÃ©partement situÃ© en rÃ©gion Bretagne ?",
+        "propositions": [
+          "Brest",
+          "Nantes",
+          "Quimper",
+          "Vannes"
+        ],
+        "rÃ©ponse": "Quimper",
+        "anecdote": "Le FinistÃ¨re fut crÃ©Ã© en 1790 Ã  l'instar de la majoritÃ© des dÃ©partements franÃ§ais."
+      },
+      {
+        "id": 9,
+        "question": "Combien peut-on compter de bandes noires et blanches sur le drapeau breton ?",
+        "propositions": [
+          "Cinq",
+          "Trois",
+          "Sept",
+          "Neuf"
+        ],
+        "rÃ©ponse": "Neuf",
+        "anecdote": "Un canton supÃ©rieur (cÃ´tÃ© mÃ¢t) de couleur blanche est quant Ã  lui parsemÃ© d'une multitude de mouchetures d'hermine."
+      },
+      {
+        "id": 10,
+        "question": "Ã€ partir de quelle substance est rÃ©alisÃ© le chouchen, proche de l'hydromel ?",
+        "propositions": [
+          "Miel",
+          "Lait",
+          "Sirop de menthe",
+          "Foie gras"
+        ],
+        "rÃ©ponse": "Miel",
+        "anecdote": "Le chouchen se fabriquait autrefois plus particuliÃ¨rement Ã  partir de miel de sarrasin, jadis trÃ¨s prÃ©sent en Bretagne."
+      },
+      {
+        "id": 11,
+        "question": "En Haute-Bretagne, que dÃ©signe le gallo, faisant l'objet d'Ã©tudes universitaires ?",
+        "propositions": [
+          "Un oiseau",
+          "Un dessert",
+          "Une langue",
+          "Un symbole"
+        ],
+        "rÃ©ponse": "Une langue",
+        "anecdote": "Contrairement au breton, le gallo ne bÃ©nÃ©ficie pas d'une longue tradition de dÃ©fense et de protection."
+      },
+      {
+        "id": 12,
+        "question": "Quel festival a lieu tous les ans sur la commune de Carhaix-Plouguer, dans le FinistÃ¨re ?",
+        "propositions": [
+          "Rocklang",
+          "Vieilles charrues",
+          "Europavox",
+          "Musicalarue"
+        ],
+        "rÃ©ponse": "Vieilles charrues",
+        "anecdote": "Ce festival annuel dure quatre jours et dÃ©bute Ã  la mi-juillet dans la commune de Carhaix-Plouguer."
+      },
+      {
+        "id": 13,
+        "question": "Dans quel dÃ©partement franÃ§ais se dresse le phare de l'ÃŽle Vierge ?",
+        "propositions": [
+          "CÃ´tes-d'Armor",
+          "FinistÃ¨re",
+          "Morbihan",
+          "ÃŽle et Vilaine"
+        ],
+        "rÃ©ponse": "FinistÃ¨re",
+        "anecdote": "Ce phare fait l'objet d'un classement au titre des monuments historiques depuis le 23 mai 2011."
+      },
+      {
+        "id": 14,
+        "question": "Quelle ville est la capitale traditionnelle de la Cornouaille ?",
+        "propositions": [
+          "Lorient",
+          "Saint-Malo",
+          "Quimper",
+          "Morlaix"
+        ],
+        "rÃ©ponse": "Quimper",
+        "anecdote": "Selon une Ã©tude rÃ©alisÃ©e en 2005, Quimper se classait en 22Ã¨me position des villes franÃ§aises oÃ¹ il faisait bon vivre."
+      },
+      {
+        "id": 15,
+        "question": "Dans quelle ville de Bretagne est situÃ© le deuxiÃ¨me port militaire franÃ§ais ?",
+        "propositions": [
+          "Nantes",
+          "Vannes",
+          "Quimper",
+          "Brest"
+        ],
+        "rÃ©ponse": "Brest",
+        "anecdote": "L'arsenal de Brest est un ensemble d'installations militaires et navales situÃ© dans la riviÃ¨re Penfeld, Ã  Brest, dans le FinistÃ¨re."
+      },
+      {
+        "id": 16,
+        "question": "Dans quelle ville de Bretagne peut-on admirer la cathÃ©drale Saint-Pierre-et-Saint-Paul ?",
+        "propositions": [
+          "Lorient",
+          "Saint-Brieuc",
+          "Brest",
+          "Nantes"
+        ],
+        "rÃ©ponse": "Nantes",
+        "anecdote": "On peut y admirer le tombeau et les gisants du duc FranÃ§ois II de Bretagne et de son Ã©pouse Marguerite de Foix."
+      },
+      {
+        "id": 17,
+        "question": "Quel Ã©tait l'ancien nom du dÃ©partement des CÃ´tes-d'Armor ?",
+        "propositions": [
+          "CÃ´tes du Roi",
+          "CÃ´tes-du-Nord",
+          "CÃ´tes ciselÃ©es",
+          "CÃ´tes franches"
+        ],
+        "rÃ©ponse": "CÃ´tes-du-Nord",
+        "anecdote": "Les CÃ´tes-d'Armor sont limitrophes du FinistÃ¨re Ã  l'ouest, du Morbihan au sud et de l'Ille-et-Vilaine Ã  l'est."
+      },
+      {
+        "id": 18,
+        "question": "Quel cÃ©lÃ¨bre navigateur et explorateur franÃ§ais est nÃ© Ã  Saint-Malo en 1491 ?",
+        "propositions": [
+          "Jacques Cartier",
+          "Jean Dugain",
+          "Charles Levasseur",
+          "Albert Falco"
+        ],
+        "rÃ©ponse": "Jacques Cartier",
+        "anecdote": "Un boulevard et une station du mÃ©tro de Rennes portent le nom de Jacques Cartier, ainsi qu'un lycÃ©e public de Saint-Malo."
+      },
+      {
+        "id": 19,
+        "question": "Que mangerez-vous en achetant un petit-gris de Rennes sur un marchÃ© breton ?",
+        "propositions": [
+          "Sandwich",
+          "Melon",
+          "Bonbon",
+          "Saucisson"
+        ],
+        "rÃ©ponse": "Melon",
+        "anecdote": "Il est caractÃ©risÃ© par une petite taille de fruit, une robe gris-verte et un goÃ»t trÃ¨s sucrÃ©."
+      },
+      {
+        "id": 20,
+        "question": "Quelle ville bretonne est surnommÃ©e Â«Â La citÃ© des peintresÂ Â» ?",
+        "propositions": [
+          "Carnac",
+          "Concarneau",
+          "Pont-Aven",
+          "Vannes"
+        ],
+        "rÃ©ponse": "Pont-Aven",
+        "anecdote": "Pont-Aven Ã©tait autrefois un bourg trÃ¨s animÃ© : en 1900, on y comptait 40 hÃ´tels, auberges et cafÃ©s."
+      },
+      {
+        "id": 21,
+        "question": "Pour un breton, que reprÃ©sente le Gwenn ha Du, symbole de sa rÃ©gion ?",
+        "propositions": [
+          "Drapeau",
+          "Bateau",
+          "ChÃ¢teau",
+          "GÃ¢teau"
+        ],
+        "rÃ©ponse": "Drapeau",
+        "anecdote": "D'autres drapeaux sont encore utilisÃ©s aujourd'hui afin de reprÃ©senter cette rÃ©gion."
+      },
+      {
+        "id": 22,
+        "question": "En Bretagne, que pouvez-vous contempler en regardant la Table des Marchand ?",
+        "propositions": [
+          "ChÃ¢teau-fort",
+          "Statue",
+          "Tableau",
+          "Dolmen"
+        ],
+        "rÃ©ponse": "Dolmen",
+        "anecdote": "PropriÃ©tÃ© de l'Ã‰tat, le dolmen fait l'objet d'un classement au titre des monuments historiques depuis 1889."
+      },
+      {
+        "id": 23,
+        "question": "Dans quelle ville peut-on admirer le chÃ¢teau des ducs de Bretagne ?",
+        "propositions": [
+          "Nantes",
+          "Lorient",
+          "Morlaix",
+          "Quimper"
+        ],
+        "rÃ©ponse": "Nantes",
+        "anecdote": "Devenu propriÃ©tÃ© de la ville de Nantes en 1915, le chÃ¢teau est affectÃ© Ã  un usage touristique et musÃ©al depuis 1924."
+      },
+      {
+        "id": 24,
+        "question": "Quel Ã©crivain a Ã©tÃ© enterrÃ© face Ã  la mer sur le rocher du grand BÃ©, Ã  Saint-Malo ?",
+        "propositions": [
+          "Rousseau",
+          "Balzac",
+          "Chateaubriand",
+          "Montesquieu"
+        ],
+        "rÃ©ponse": "Chateaubriand",
+        "anecdote": "Chateaubriand est considÃ©rÃ© comme l'un des prÃ©curseurs du romantisme franÃ§ais."
+      },
+      {
+        "id": 25,
+        "question": "Pour quelle culture la ville de Paimpol est-elle cÃ©lÃ¨bre ?",
+        "propositions": [
+          "Pomme",
+          "Cerise jaune",
+          "Haricot sec",
+          "Raisin blanc"
+        ],
+        "rÃ©ponse": "Haricot sec",
+        "anecdote": "Construite autour de ses bassins, Paimpol est l'un des principaux ports de pÃªche et de plaisance donnant sur la Manche."
+      },
+      {
+        "id": 26,
+        "question": "Dans quelle commune de France se trouve le monument mÃ©galithique La Roche-aux-FÃ©es ?",
+        "propositions": [
+          "Sainte-Colombe",
+          "Pont-Aven",
+          "Retiers",
+          "EssÃ©"
+        ],
+        "rÃ©ponse": "EssÃ©",
+        "anecdote": "Son nom vient d'une lÃ©gende prÃ©tendant que les pierres auraient Ã©tÃ© apportÃ©es par des fÃ©es."
+      },
+      {
+        "id": 27,
+        "question": "Quelle est la ville la plus importante et la plus touristique de Belle-ÃŽle-en-Mer ?",
+        "propositions": [
+          "Le Palais",
+          "Sauzon",
+          "EssÃ©",
+          "Bangor"
+        ],
+        "rÃ©ponse": "Le Palais",
+        "anecdote": "Belle-ÃŽle est un plateau d'origine volcanique essentiellement constituÃ© de schiste dÃ©composÃ©."
+      },
+      {
+        "id": 28,
+        "question": "Pour quelle spÃ©cialitÃ© culinaire la ville de GuÃ©menÃ©-sur-Scorff est-elle connue ?",
+        "propositions": [
+          "Saucisse",
+          "Boudin",
+          "Andouille",
+          "Haricot sec"
+        ],
+        "rÃ©ponse": "Andouille",
+        "anecdote": "L'andouille de GuÃ©menÃ© est une charcuterie Ã  base de chaudins de porc enfilÃ©s les uns sur les autres pour former une andouille."
+      },
+      {
+        "id": 29,
+        "question": "Dans quelle ville de Bretagne se trouve la base de sous-marins de Keroman ?",
+        "propositions": [
+          "Lorient",
+          "Landerneau",
+          "Saint-Malo",
+          "Nantes"
+        ],
+        "rÃ©ponse": "Lorient",
+        "anecdote": "Depuis la fin des annÃ©es 1990, le site est reconverti en un pÃ´le nautique spÃ©cialisÃ© dans la plaisance et la course au large."
+      },
+      {
+        "id": 30,
+        "question": "Quel chef d'oeuvre architectural de la renaissance la ville de Pontivy abrite-t-elle ?",
+        "propositions": [
+          "ChÃ¢teau",
+          "Ferme",
+          "Moulin",
+          "Eglise"
+        ],
+        "rÃ©ponse": "ChÃ¢teau",
+        "anecdote": "Le chÃ¢teau de Pontivy est le lieu de la Â« dÃ©claration d'indÃ©pendance bretonne Â» de 1940."
+      },
+      {
+        "id": 1,
+        "question": "Quel constructeur automobile a pour slogan le plaisir de conduire ?",
+        "propositions": [
+          "BMW",
+          "Lexus",
+          "Lotus",
+          "Mercedes"
+        ],
+        "rÃ©ponse": "BMW",
+        "anecdote": "EnÂ 2016, le groupe BMW a vendu 2 117 965 vÃ©hicules automobiles (BMW, Mini, et Rolls-Royce) ainsi que 123 495 deux-roues."
+      },
+      {
+        "id": 2,
+        "question": "Quelles couleurs sont prÃ©sentes sur le logo circulaire de la marque BMW ?",
+        "propositions": [
+          "Bleu et blanc",
+          "Noir et rouge",
+          "Rouge et bleu",
+          "Vert et jaune"
+        ],
+        "rÃ©ponse": "Bleu et blanc",
+        "anecdote": "L'emblÃ¨me de la marque BMW reprend le cercle noir du logo de Rapp, avec au centre les couleurs symbolisant la BaviÃ¨re."
+      },
+      {
+        "id": 3,
+        "question": "Quel constructeur automobile a produit les modÃ¨les Diablo et Countach ?",
+        "propositions": [
+          "Maserati",
+          "Porsche",
+          "Ferrari",
+          "Lamborghini"
+        ],
+        "rÃ©ponse": "Lamborghini",
+        "anecdote": "La Lamborghini Diablo succÃ¨de Ã  la lÃ©gendaireÂ Lamborghini CountachÂ aprÃ¨s seize ans de carriÃ¨re et 2Â 200 exemplaires produits."
+      },
+      {
+        "id": 4,
+        "question": "Laquelle de ces voitures est un modÃ¨le du constructeur Nissan ?",
+        "propositions": [
+          "Fiesta",
+          "Diablo",
+          "Qashqai",
+          "Elantra"
+        ],
+        "rÃ©ponse": "Qashqai",
+        "anecdote": "En mai 2007, la Qashqai de chez Nissan a dÃ©crochÃ© la plus haute note possible aux crash testsÂ Euro NCAP, Ã  savoirÂ cinq Ã©toiles."
+      },
+      {
+        "id": 5,
+        "question": "Quel constructeur haut de gamme a pour ornement l'Esprit d'extase ?",
+        "propositions": [
+          "Jaguar",
+          "Mercedes",
+          "Porsche",
+          "Rolls-Royce"
+        ],
+        "rÃ©ponse": "Rolls-Royce",
+        "anecdote": "Spirit of Ecstasy, le fameuxÂ bouchon de radiateurÂ de la marque Rolls-Royce, a Ã©tÃ© crÃ©Ã© en 1911 par l'artiste anglais Charles Sykes."
+      },
+      {
+        "id": 6,
+        "question": "Lequel de ces modÃ¨les Volkswagen reste aujourd'hui le plus vendu au monde ?",
+        "propositions": [
+          "Jetta",
+          "ScarabÃ©e",
+          "Golf",
+          "Passat"
+        ],
+        "rÃ©ponse": "Golf",
+        "anecdote": "Ce concept de petite voiture sportive Ã  hayon et traction avec un moteur Ã  injectionÂ contrastait avec les moteurs Ã Â carburateur."
+      },
+      {
+        "id": 7,
+        "question": "Quel constructeur a produit la trÃ¨s populaire Coccinelle ?",
+        "propositions": [
+          "Volvo",
+          "Volkswagen",
+          "Nissan",
+          "Suzuki"
+        ],
+        "rÃ©ponse": "Volkswagen",
+        "anecdote": "Produite enÂ 1938, la Coccinelle fut conÃ§ue par l'ingÃ©nieur autrichien Ferdinand PorscheÂ Ã  la demande du chancelierÂ Adolf Hitler."
+      },
+      {
+        "id": 8,
+        "question": "Combien de passagers peut accueillir une Tesla ModÃ¨le S de 2014 ?",
+        "propositions": [
+          "Trois",
+          "Un seul",
+          "Sept",
+          "Cinq"
+        ],
+        "rÃ©ponse": "Sept",
+        "anecdote": "Outre la recharge sur bornes ordinaires, la Model S bÃ©nÃ©ficie de bornes gratuites ultra-rapides appelÃ©es Superchargeurs."
+      },
+      {
+        "id": 9,
+        "question": "Quel constructeur automobile a crÃ©Ã© le modÃ¨le Cayenne ?",
+        "propositions": [
+          "Porsche",
+          "Ferrari",
+          "Maserati",
+          "Lamborghini"
+        ],
+        "rÃ©ponse": "Porsche",
+        "anecdote": "Le Cayenne a Ã©tÃ© fabriquÃ© en collaboration avecÂ VolkswagenÂ avec qui il partage la mÃªme plate-formeÂ de son 4x4Â Touareg."
+      },
+      {
+        "id": 10,
+        "question": "Quel constructeur a produit une voiture hybride du nom de Civic ?",
+        "propositions": [
+          "Honda",
+          "Jaguar",
+          "Tesla",
+          "Ford"
+        ],
+        "rÃ©ponse": "Honda",
+        "anecdote": "Le terme CivicÂ exprime l'ambition de la marque Honda de rÃ©duire ses Ã©missions polluantes et de proposer une voiture propre."
+      },
+      {
+        "id": 11,
+        "question": "En quelle annÃ©e la CitroÃ«n DS a-t-elle Ã©tÃ© vendue pour la premiÃ¨re fois ?",
+        "propositions": [
+          "1964",
+          "1947",
+          "1955",
+          "1971"
+        ],
+        "rÃ©ponse": "1955",
+        "anecdote": "Le DÂ viendrait de l'usage du moteur le plus rÃ©cent alors de CitroÃ«n, le moteur sÃ©rie D, qui Ã©quipait laÂ TractionÂ 11 D."
+      },
+      {
+        "id": 12,
+        "question": "Quel constructeur amÃ©ricain a produit le modÃ¨le Chieftain ?",
+        "propositions": [
+          "Pontiac",
+          "Chrysler",
+          "Lotus",
+          "Ford"
+        ],
+        "rÃ©ponse": "Pontiac",
+        "anecdote": "La Chieftain de 1949 marque le tout premier nouveau design des modÃ¨les Pontiac sortis aprÃ¨s la Seconde Guerre mondiale."
+      },
+      {
+        "id": 13,
+        "question": "Dacia est un constructeur automobile originaire de quel pays ?",
+        "propositions": [
+          "Roumanie",
+          "Bulgarie",
+          "Pologne",
+          "GrÃ¨ce"
+        ],
+        "rÃ©ponse": "Roumanie",
+        "anecdote": "Les vÃ©hicules produits sont commercialisÃ©s sous la marque Dacia enÂ EuropeÂ et sous la marque Renault dans le reste du monde."
+      },
+      {
+        "id": 14,
+        "question": "Quel constructeur a pour slogan la puissance des rÃªves ?",
+        "propositions": [
+          "Jaguar",
+          "Land Rover",
+          "Skoda",
+          "Honda"
+        ],
+        "rÃ©ponse": "Honda",
+        "anecdote": "En 2008, Honda a vendu plus de 17 millions deÂ moteurs Ã  quatre temps, ce qui en a fait le plus important producteur au monde."
+      },
+      {
+        "id": 15,
+        "question": "Quel Ã‰tat des Ã‰tats-Unis a Ã©tÃ© choisi pour hÃ©berger la Â« Gigafactory 1 Â» de Tesla ?",
+        "propositions": [
+          "Nevada",
+          "Washington",
+          "New York",
+          "Illinois"
+        ],
+        "rÃ©ponse": "Nevada",
+        "anecdote": "Cette usine a Ã©tÃ© conÃ§ue dans le but de produire, Ã  terme, assez d'Ã©nergie renouvelable pour faire face Ã  sa consommation."
+      },
+      {
+        "id": 16,
+        "question": "Quel constructeur a possÃ©dÃ© la marque Jaguar de 1990 Ã  2008 ?",
+        "propositions": [
+          "Ford",
+          "BMW",
+          "Honda",
+          "Nissan"
+        ],
+        "rÃ©ponse": "Ford",
+        "anecdote": "La sociÃ©tÃ© SSC, fondÃ©e en 1922, prit le nom de Jaguar en 1945 pour ne pas Ã©voquer les SS allemands de sinistre mÃ©moire."
+      },
+      {
+        "id": 17,
+        "question": "La Bel Air Ã©tait autrefois un modÃ¨le trÃ¨s populaire proposÃ© par quel constructeur ?",
+        "propositions": [
+          "Chrysler",
+          "Volkswagen",
+          "American Motors",
+          "Chevrolet"
+        ],
+        "rÃ©ponse": "Chevrolet",
+        "anecdote": "Le nom deÂ Bel Air vient d'un quartier huppÃ© de la ville deÂ Los Angeles, situÃ© 27 kilomÃ¨tres Ã  l'ouest de Downtown Los Angeles."
+      },
+      {
+        "id": 18,
+        "question": "Quel constructeur a pour slogan l'art de la performance ?",
+        "propositions": [
+          "Chevrolet",
+          "Peugeot",
+          "Mini Cooper",
+          "Jaguar"
+        ],
+        "rÃ©ponse": "Jaguar",
+        "anecdote": "Le 26 mars 2008, dans le cadre d'un dÃ©mantÃ¨lement, FordÂ a vendu Jaguar Ã  l'entreprise indienneÂ Tata Motors."
+      },
+      {
+        "id": 19,
+        "question": "Quel modÃ¨le de voiture Ford est sorti le premier dans les annÃ©es 60 ?",
+        "propositions": [
+          "Ford Gelding",
+          "Ford Mustang",
+          "Ford Stallion",
+          "Ford Mare"
+        ],
+        "rÃ©ponse": "Ford Mustang",
+        "anecdote": "Fait unique pour la marque Ford, tous les modÃ¨les Mustang arborent leur propre logotype de calandre (un mustang au galop)."
+      },
+      {
+        "id": 20,
+        "question": "Dans quelle ville italienne est situÃ© le siÃ¨ge social du constructeur Fiat ?",
+        "propositions": [
+          "GÃªnes",
+          "Naples",
+          "Turin",
+          "Milan"
+        ],
+        "rÃ©ponse": "Turin",
+        "anecdote": "La compagnie FIAT a Ã©tÃ© crÃ©Ã©e le 11 juillet 1899 au Palazzo Bricherasio par trente actionnaires, dont Giovanni Agnelli."
+      },
+      {
+        "id": 21,
+        "question": "Par quelle entreprise fut conÃ§u le moteur de la Chevrolet Corvette C4 ZR1 ?",
+        "propositions": [
+          "Lotus",
+          "Saab",
+          "Nissan",
+          "BMW"
+        ],
+        "rÃ©ponse": "Lotus",
+        "anecdote": "Si la Corvette C4 est apparue en 1983, sa version sportiveÂ ZR1 n'apparaÃ®tra quant Ã  elle qu'au salon de GenÃ¨ve 1989."
+      },
+      {
+        "id": 22,
+        "question": "Quel Ã©tait le prÃ©nom du mÃ©canicien et fondateur de la Chrysler Company ?",
+        "propositions": [
+          "Wade",
+          "Walter",
+          "Wilfried",
+          "William"
+        ],
+        "rÃ©ponse": "Walter",
+        "anecdote": "De 1928 Ã  1930, Walter P. Chrysler fit construire un immeuble Ã  la gloire de la marque automobile de son nomÂ : leÂ Chrysler Building."
+      },
+      {
+        "id": 23,
+        "question": "Quel vÃ©hicule reste Ã  ce jour la plus petite voiture jamais produite ?",
+        "propositions": [
+          "Chevrolet Camaro",
+          "Isetta",
+          "Peel P50",
+          "Mini Cooper"
+        ],
+        "rÃ©ponse": "Peel P50",
+        "anecdote": "LaÂ Peel P50Â est une mini voiture Ã  trois roues fabriquÃ©e de 1962 Ã  1965 par la sociÃ©tÃ©Â Peel Engineering CompanyÂ sur l'ÃŽle de Man."
+      },
+      {
+        "id": 24,
+        "question": "Les Herald, Vitesse et Spitfire sont des modÃ¨les fabriquÃ©s par quelle entreprise ?",
+        "propositions": [
+          "Vauxhall",
+          "Austin",
+          "Peugeot",
+          "Triumph"
+        ],
+        "rÃ©ponse": "Triumph",
+        "anecdote": "Le but de la Spitfire Ã©tait de crÃ©er une petiteÂ voiture de sportÂ bon marchÃ©, situÃ©e un niveau en-dessous de celui des roadsters TR."
+      },
+      {
+        "id": 25,
+        "question": "Jusqu'en quelle annÃ©e la marque Duesenberg a-t-elle conÃ§u des voitures ?",
+        "propositions": [
+          "1927",
+          "1917",
+          "1947",
+          "1937"
+        ],
+        "rÃ©ponse": "1937",
+        "anecdote": "AprÃ¨s laÂ Seconde Guerre mondiale, l'amÃ©ricain August Duesenberg essayera tant bien que mal de relancer la marque, sans succÃ¨s."
+      },
+      {
+        "id": 26,
+        "question": "Quel constructeur a choisi pour slogan innover autrement ?",
+        "propositions": [
+          "Volkswagen",
+          "Lexus",
+          "Nissan",
+          "Jaguar"
+        ],
+        "rÃ©ponse": "Nissan",
+        "anecdote": "Nissan Motor Company, Limited ou Nissan est un constructeur automobile japonais nÃ© en 1932 sous le nom deÂ Datsun."
+      },
+      {
+        "id": 27,
+        "question": "Dans quelle ville d'Allemagne se trouve le siÃ¨ge social d'Audi ?",
+        "propositions": [
+          "Dortmund",
+          "Frankfort",
+          "Ingolstadt",
+          "Kiel"
+        ],
+        "rÃ©ponse": "Ingolstadt",
+        "anecdote": "ImplantÃ©e dans 55 pays du monde, la marque Audi est prÃ©sente sur la plupart des segments du marchÃ© des vÃ©hicules particuliers."
+      },
+      {
+        "id": 28,
+        "question": "De quelle compagnie fait partie la division Smart Automobile ?",
+        "propositions": [
+          "Chrysler",
+          "Daimler AG",
+          "General Motors",
+          "BMW"
+        ],
+        "rÃ©ponse": "Daimler AG",
+        "anecdote": "SmartÂ (dÃ©rivÃ© du nom de projetÂ Swatch Mercedes Art car) est une marque crÃ©Ã©e en 1994 sous l'impulsion du groupe horloger Swatch."
+      },
+      {
+        "id": 29,
+        "question": "Quelle compagnie d'automobiles possÃ¨de un modÃ¨le appelÃ© Forester ?",
+        "propositions": [
+          "Hyundai",
+          "Ford",
+          "Subaru",
+          "Toyota"
+        ],
+        "rÃ©ponse": "Subaru",
+        "anecdote": "Il a Ã©tÃ© Ã©lu en 2009 et 2014 Meilleur SUV de l'annÃ©e par Motor Trend et Meilleure voiture Ã  acheter en 2014 par Car Connection."
+      },
+      {
+        "id": 30,
+        "question": "Quel modÃ¨le de voiture succÃ©da directement Ã  la Porsche 944 ?",
+        "propositions": [
+          "956",
+          "968",
+          "977",
+          "945"
+        ],
+        "rÃ©ponse": "968",
+        "anecdote": "Au niveau esthÃ©tique, la Porsche 944 reprend les caractÃ©ristiques de laÂ 924, ses ailes renflÃ©es rappelant celles de la 924 Carrera GT."
+      },
+      {
+        "id": 1,
+        "question": "Quelle est la couleur du passeport de l'union europÃ©enne dÃ©livrÃ© en Belgique ou en France ?",
+        "propositions": [
+          "Bleue",
+          "Verte",
+          "Grise",
+          "Bordeaux"
+        ],
+        "rÃ©ponse": "Bordeaux",
+        "anecdote": "Toute personne sollicitant l'entrÃ©e dans un pays autre que le sien doit remplir certaines formalitÃ©s et solliciter une autorisation."
+      },
+      {
+        "id": 2,
+        "question": "Comment appelle-t-on le cachet apposÃ© sur un passeport permettant l'entrÃ©e dans un pays ?",
+        "propositions": [
+          "Un permis",
+          "Un visa",
+          "Un titre",
+          "Un code"
+        ],
+        "rÃ©ponse": "Un visa",
+        "anecdote": "Le visa est une condition nÃ©cessaire pour entrer et sÃ©journer pendant une certaine durÃ©e sur certains territoires."
+      },
+      {
+        "id": 3,
+        "question": "De quel pays le drapeau est-il appelÃ© Â«Â Union JackÂ Â» ou encore Â«Â Union FlagÂ Â»Â par certains ?",
+        "propositions": [
+          "La Suisse",
+          "La Grande Bretagne",
+          "La Finlande",
+          "La GrÃ¨ce"
+        ],
+        "rÃ©ponse": "La Grande Bretagne",
+        "anecdote": "Le drapeau combine la croix de saint Georges du drapeau anglais et la croix de saint AndrÃ© du drapeau Ã©cossais."
+      },
+      {
+        "id": 4,
+        "question": "Que vous fournira-t-on presque exclusivement pour mettre sur vos frites aux Ã‰tats-Unis ?",
+        "propositions": [
+          "De la mayonnaise",
+          "De la tartare",
+          "Du pickles",
+          "Du ketchup"
+        ],
+        "rÃ©ponse": "Du ketchup",
+        "anecdote": "LeÂ ketchupÂ est unÂ condimentÂ populaire, habituellement Ã©laborÃ© Ã  partir deÂ sauce tomate, deÂ vinaigreÂ et deÂ sucre."
+      },
+      {
+        "id": 5,
+        "question": "Quel est le seul pays d'Europe oÃ¹ certaines voitures ont encore des phares jaunes ?",
+        "propositions": [
+          "Le Portugal",
+          "La GrÃ¨ce",
+          "La Belgique",
+          "La France"
+        ],
+        "rÃ©ponse": "La France",
+        "anecdote": "L'arrÃªtÃ© imposant les phares jaunes en France date du 3 novembre 1936 et se fonde sur l'avis de la Commission centrale."
+      },
+      {
+        "id": 6,
+        "question": "Quelle ville est considÃ©rÃ©e par beaucoup comme Ã©tant le centre diamantaire mondial ?",
+        "propositions": [
+          "LiÃ¨ge",
+          "Bruxelles",
+          "Anvers",
+          "Mons"
+        ],
+        "rÃ©ponse": "Anvers",
+        "anecdote": "La rÃ©putation des diamantaires anversois fait de cette ville la premiÃ¨re place mondiale de taille et de nÃ©gociation du diamant."
+      },
+      {
+        "id": 7,
+        "question": "Quel  fruit du badianier de Chine parfume des boissons comme l'ouzo ou comme l'arak ?",
+        "propositions": [
+          "Le carvi",
+          "L'anis Ã©toilÃ©",
+          "Le sel noir",
+          "Le gingembre"
+        ],
+        "rÃ©ponse": "L'anis Ã©toilÃ©",
+        "anecdote": "Les fruits sont cueillis verts, avant d'Ãªtre sÃ©chÃ©s au soleil, oÃ¹ ils prennent une couleur marron rouge."
+      },
+      {
+        "id": 8,
+        "question": "Combien coÃ»te l'autoroute qui relie directement les villes d'Amsterdam et de Bruxelles ?",
+        "propositions": [
+          "Rien",
+          "27 euros",
+          "12 euros",
+          "19 euros"
+        ],
+        "rÃ©ponse": "Rien",
+        "anecdote": "LeÂ rÃ©seauÂ autoroutierÂ belgeÂ est trÃ¨s dÃ©veloppÃ© et bÃ©nÃ©ficie de la deuxiÃ¨me plus forte densitÃ© en Europe."
+      },
+      {
+        "id": 9,
+        "question": "Vers oÃ¹ regarde-t-on en tout premier lieu avant de traverser une route en Irlande ?",
+        "propositions": [
+          "La gauche",
+          "La droite",
+          "L'avant",
+          "L'arriÃ¨re"
+        ],
+        "rÃ©ponse": "La droite",
+        "anecdote": "En Irlande comme en Angleterre, on roule Ã  gauche, ce qui oblige les piÃ©tons Ã  d'abord regarder Ã  droite avant de traverser."
+      },
+      {
+        "id": 10,
+        "question": "Qu'est-ce qui est turc, nÃ© en Autriche et mangÃ© en France au petit dÃ©jeuner ?",
+        "propositions": [
+          "Croissant",
+          "Gaufre",
+          "CrÃªpe",
+          "Pistolet"
+        ],
+        "rÃ©ponse": "Croissant",
+        "anecdote": "Ã€ Paris, les premiers croissants Ã  dÃ©guster furent vendus Ã  laÂ rue de Richelieu entre 1837 et 1839."
+      },
+      {
+        "id": 11,
+        "question": "De quel pays trÃ¨s fortement peuplÃ© le paon est-il depuis des lustres l'oiseau national ?",
+        "propositions": [
+          "L'Inde",
+          "La ThaÃ¯lande",
+          "La Chine",
+          "Le Japon"
+        ],
+        "rÃ©ponse": "L'Inde",
+        "anecdote": "Ã‰troitement associÃ© Ã  la fertilitÃ©, la danse du paon symbolise en Inde le rÃ©veil de la nature et l'approche de laÂ mousson."
+      },
+      {
+        "id": 12,
+        "question": "Qu'est-ce qu'un lama, si ce n'est pas un animal de grande taille de la cordillÃ¨re des Andes ?",
+        "propositions": [
+          "Un moine tibÃ©tain",
+          "Un policier slave",
+          "Un arbre turc",
+          "Un pain grec"
+        ],
+        "rÃ©ponse": "Un moine tibÃ©tain",
+        "anecdote": "Ce titre peut Ãªtre utilisÃ© de maniÃ¨re honorifique pour un moine, une nonne ou un pratiquant avancÃ© duÂ tantrisme."
+      },
+      {
+        "id": 13,
+        "question": "Combien de zÃ©ros dans un trillion amÃ©ricain, Ã©gal Ã  un million Ã  la puissance trois ?",
+        "propositions": [
+          "9",
+          "15",
+          "6",
+          "12"
+        ],
+        "rÃ©ponse": "12",
+        "anecdote": "En mathÃ©matique, un trillion reprÃ©sente 1 milliard de milliards (109x109), soit 10 puissance 18."
+      },
+      {
+        "id": 14,
+        "question": "Contre quelle maladie appelÃ©e vomi noir vous fait-on une vaccination antiamarile ?",
+        "propositions": [
+          "CholÃ©ra",
+          "Dysenterie",
+          "Typhus",
+          "FiÃ¨vre jaune"
+        ],
+        "rÃ©ponse": "FiÃ¨vre jaune",
+        "anecdote": "La fiÃ¨vre jaune reste toujours une cause importante deÂ maladies hÃ©morragiquesÂ dans plusieurs pays africains et sud-amÃ©ricains."
+      },
+      {
+        "id": 15,
+        "question": "Quel port dans lequel entrent 31 000 bateaux par an est le premier de Hollande ?",
+        "propositions": [
+          "La Haye",
+          "Utrecht",
+          "Rotterdam",
+          "Amsterdam"
+        ],
+        "rÃ©ponse": "Rotterdam",
+        "anecdote": "Son activitÃ© lui a permis de s'affirmer comme leÂ huitiÃ¨me port mondialÂ en 2014, aprÃ¨s ShanghaÃ¯ et Singapour."
+      },
+      {
+        "id": 16,
+        "question": "Quelle Â«Â protectionÂ Â» est-il plutÃ´t judicieux de prÃ©voir en Inde entre juin et octobre ?",
+        "propositions": [
+          "Des gants",
+          "Un prÃ©servatif",
+          "Un parapluie",
+          "Un casque"
+        ],
+        "rÃ©ponse": "Un parapluie",
+        "anecdote": "MalgrÃ© un climat trÃ¨s variÃ© de par la superficie du pays, la mousson ou la saison des pluies en Inde a lieu de juin Ã  septembre."
+      },
+      {
+        "id": 17,
+        "question": "Quel pays composÃ© de provinces et de territoires a choisi le castor comme emblÃ¨me ?",
+        "propositions": [
+          "Canada",
+          "Costa Rica",
+          "Mexique",
+          "Honduras"
+        ],
+        "rÃ©ponse": "Canada",
+        "anecdote": "Des castors sauvages ont pu Ãªtre Ã©tudiÃ©s au Canada et en Europe du Nord dans des zones peu anthropisÃ©es."
+      },
+      {
+        "id": 18,
+        "question": "Quel liquide est mis sur les plages australiennes pour neutraliser les piqÃ»res des mÃ©duses ?",
+        "propositions": [
+          "De l'essence",
+          "Du dissolvant",
+          "Du vinaigre",
+          "De la biÃ¨re"
+        ],
+        "rÃ©ponse": "Du vinaigre",
+        "anecdote": "Les mÃ©duses sont gÃ©nÃ©ralement desÂ prÃ©datrices qui paralysent leurs proies grÃ¢ce Ã  leursÂ cnidocytes."
+      },
+      {
+        "id": 19,
+        "question": "Combien coÃ»te une boisson alcoolisÃ©e sur un vol international Â« Air France Â» en premiÃ¨re classe ?",
+        "propositions": [
+          "Rien",
+          "10 euros",
+          "30 euros",
+          "20 euros"
+        ],
+        "rÃ©ponse": "Rien",
+        "anecdote": "LaÂ plate-forme de correspondanceÂ principale d'Air France est situÃ©e sur l'aÃ©roport de Paris-Charles-de-Gaulle."
+      },
+      {
+        "id": 20,
+        "question": "De quel pays pouviez-vous jadis recevoir une carte postale affranchie avec 60 escudos ?",
+        "propositions": [
+          "De la GrÃ¨ce",
+          "Du Portugal",
+          "Des Pays-Bas",
+          "Du BrÃ©sil"
+        ],
+        "rÃ©ponse": "Du Portugal",
+        "anecdote": "Son nom signifieÂ Ã©cuÂ et rappelle que les premiÃ¨res piÃ¨ces portaient la reprÃ©sentation de l'Ã©cuÂ des souverains."
+      },
+      {
+        "id": 21,
+        "question": "Quelle langue a 63 formes de prÃ©sent et de nombreux mots pour dÃ©signer la neige ?",
+        "propositions": [
+          "Eskimo",
+          "Han",
+          "Tanacross",
+          "Eyak"
+        ],
+        "rÃ©ponse": "Eskimo",
+        "anecdote": "Les langues eskimo contiennent les langues inuit (un continuum linguistique) et les langues yupik."
+      },
+      {
+        "id": 22,
+        "question": "Combien y a-t-il de bandes bleues et blanches sur le drapeau de la GrÃ¨ce ?",
+        "propositions": [
+          "Trois",
+          "Sept",
+          "Cinq",
+          "Neuf"
+        ],
+        "rÃ©ponse": "Neuf",
+        "anecdote": "Les raisons et la symbolique de ce choix ne sont pas connues prÃ©cisÃ©ment, et font l'objet de nombreuses thÃ©ories populaires."
+      },
+      {
+        "id": 23,
+        "question": "Quelle drogue extraite de l'Ã©corce du Cinchona retrouve-t-on dans le Schweppes ?",
+        "propositions": [
+          "Quinine",
+          "Nicotine",
+          "Camphre",
+          "Brucine"
+        ],
+        "rÃ©ponse": "Quinine",
+        "anecdote": "Les espÃ¨ces du genreÂ CinchonaÂ sont des arbustes, ou plus souvent des arbres, pouvant atteindreÂ 18Â mÃ¨tresÂ de hauteur."
+      },
+      {
+        "id": 24,
+        "question": "Qu'est-ce qui change autour du 180e mÃ©ridien, dans l'ocÃ©an Pacifique ?",
+        "propositions": [
+          "La lumiÃ¨re",
+          "La tempÃ©rature",
+          "La date",
+          "L'humiditÃ©"
+        ],
+        "rÃ©ponse": "La date",
+        "anecdote": "Cette ligne peut Ãªtre considÃ©rÃ©e comme Ã©tant situÃ©e 12 heures en avance ou 12 heures en retard par Ã  Greenwich."
+      },
+      {
+        "id": 25,
+        "question": "Jusqu'Ã  quelle valeur en-dessous de zÃ©ro peut descendre le thermomÃ¨tre en hiver en SibÃ©rie ?",
+        "propositions": [
+          "- 80Â°C",
+          "- 40Â°C",
+          "- 60Â°C",
+          "- 20Â°C"
+        ],
+        "rÃ©ponse": "- 80Â°C",
+        "anecdote": "Constituant la partie nord de l'Asie, la SibÃ©rie reprÃ©sente 77Â % de la surface de la Russie, mais seulement 27Â % de sa population."
+      },
+      {
+        "id": 26,
+        "question": "Ã€ quoi vous servira un charpoi en Inde, que vous le fassiez sur le dos ou sur le ventre ?",
+        "propositions": [
+          "Travailler",
+          "Manger",
+          "Dormir",
+          "Chasser"
+        ],
+        "rÃ©ponse": "Dormir",
+        "anecdote": "La forme, la composition et les tissus des oreillers varient selon les usages, les cultures, la qualitÃ© et le degrÃ© de confort de chacun."
+      },
+      {
+        "id": 27,
+        "question": "Quelle heure est-il Ã  Los Angeles quand vous prenez votre petit dÃ©jeuner Ã  New York Ã  8h ?",
+        "propositions": [
+          "2h",
+          "3h",
+          "10h",
+          "5h"
+        ],
+        "rÃ©ponse": "5h",
+        "anecdote": "UnÂ fuseau horaireÂ est une zone de la surfaceÂ terrestreÂ qui observe une heure uniforme en tout lieu."
+      },
+      {
+        "id": 28,
+        "question": "Quel Ã‰tat trÃ¨s fortement peuplÃ© est aussi le plus grand des Ã‰tats-Unis, aprÃ¨s l'Alaska ?",
+        "propositions": [
+          "Le Texas",
+          "Le Michigan",
+          "La Virginie",
+          "Le Wyoming"
+        ],
+        "rÃ©ponse": "Le Texas",
+        "anecdote": "Les Texans sont Ã  prÃ¨s de 80Â % des citadins et presque la moitiÃ© d'entre eux vivent Ã Â Dallas-Fort WorthÂ ouÂ Houston."
+      },
+      {
+        "id": 29,
+        "question": "Ã€ cÃ´tÃ© de quel animal mythique se dresse fiÃ¨rement le lion du passeport britannique ?",
+        "propositions": [
+          "Un panda",
+          "Un ours",
+          "Une licorne",
+          "Un mouton"
+        ],
+        "rÃ©ponse": "Une licorne",
+        "anecdote": "La licorne se voit dotÃ©e d'unÂ corpsÂ Ã©quin, d'une barbiche deÂ bouc, deÂ sabotsÂ fendus et d'une longueÂ corne sur le front."
+      },
+      {
+        "id": 30,
+        "question": "Qui repose dans les trois petites pyramides de Gizeh, placÃ©es Ã  cÃ´tÃ© des trois grandes ?",
+        "propositions": [
+          "Les prÃªtres",
+          "Les mages",
+          "Les reines",
+          "Les esclaves"
+        ],
+        "rÃ©ponse": "Les reines",
+        "anecdote": "les pyramides des reines, au nombre de trois, font partie des pyramides subsidiaires du complexe funÃ©raire de KhÃ©ops."
+      },
+      {
+        "id": 1,
+        "question": "OÃ¹ sont placÃ©s les deux propulseurs d'Astro le petit robot ?",
+        "propositions": [
+          "Ã€ la ceinture",
+          "Sous ses bras",
+          "Dans le dos",
+          "Dans ses pieds"
+        ],
+        "rÃ©ponse": "Dans ses pieds",
+        "anecdote": "DiffusÃ© depuis 1963 sur les Ã©crans Japonais, le manga d'Osamu Tezuka avait dÃ©jÃ  Ã©tÃ© publiÃ© pour la premiÃ¨re fois en 1952."
+      },
+      {
+        "id": 2,
+        "question": "Qui n'en finit plus de mourir dans les premiÃ¨res saisons de South Park ?",
+        "propositions": [
+          "Stan",
+          "Kyle",
+          "Kenny",
+          "Eric"
+        ],
+        "rÃ©ponse": "Kenny",
+        "anecdote": "Le petit garÃ§on Ã  la capuche orange est la risÃ©e de Cartman, l'un des quatre hÃ©ros du dessin animÃ© de Trey Parker et Matt Stone."
+      },
+      {
+        "id": 3,
+        "question": "Avec lequel des garÃ§ons de sa bande fait habituellement Ã©quipe Scoubidou ?",
+        "propositions": [
+          "Roger",
+          "Sammy",
+          "Fred",
+          "Logan"
+        ],
+        "rÃ©ponse": "Sammy",
+        "anecdote": "Le chien dÃ©tective a rapidement Ã©tÃ© de retour, accompagnÃ© de guest-stars comme Batman et Robin ou Laurel et Hardy."
+      },
+      {
+        "id": 4,
+        "question": "Qui est le plus Ã¢gÃ© des enfants de la famille Simpson ?",
+        "propositions": [
+          "Lisa",
+          "Maggie",
+          "Bart",
+          "Marge"
+        ],
+        "rÃ©ponse": "Bart",
+        "anecdote": "Depuis sa crÃ©ation en 1989, le dessin animÃ© de Matt Groenig rencontre un succÃ¨s mondial, traduit sur grand Ã©cran en 2007."
+      },
+      {
+        "id": 5,
+        "question": "Quel animal est Capucin, le petit compagnon de Candy ?",
+        "propositions": [
+          "Hamster",
+          "Raton laveur",
+          "Lapin",
+          "Chat"
+        ],
+        "rÃ©ponse": "Raton laveur",
+        "anecdote": "La jeune fille se retrouve Ã  l'orphelinat tenu par Mademoiselle Pony, et Candy tombe amoureuse du prince des collines."
+      },
+      {
+        "id": 6,
+        "question": "Comment qualifier le manÃ¨ge de Margotte, ZÃ©bulon et Pollux ?",
+        "propositions": [
+          "EncerclÃ©",
+          "EnchantÃ©",
+          "HantÃ©",
+          "EmbrumÃ©"
+        ],
+        "rÃ©ponse": "EnchantÃ©",
+        "anecdote": "La sÃ©rie d'animation de Serge Danot est apparue en 1963 sur la premiÃ¨re chaÃ®ne de l'ORTF. En 2005, une version 3D a Ã©tÃ© diffusÃ©e."
+      },
+      {
+        "id": 7,
+        "question": "Qui est rond comme un ballon et plus jaune qu'un citron ?",
+        "propositions": [
+          "Fruity",
+          "Pengo",
+          "Digger",
+          "Pac-Man"
+        ],
+        "rÃ©ponse": "Pac-Man",
+        "anecdote": "Ce hÃ©ros a Ã©tÃ© l'une des premiÃ¨res vedettes de jeu vidÃ©o Ã  avoir son propre dessin animÃ©, avant Super Mario Bros et Zelda."
+      },
+      {
+        "id": 8,
+        "question": "Quel pivert possÃ¨de le rire le plus reconnaissable de la tÃ©lÃ©vision ?",
+        "propositions": [
+          "Falco Lombardi",
+          "Oscar Rapace",
+          "GÃ©nius",
+          "Woody Woodpecker"
+        ],
+        "rÃ©ponse": "Woody Woodpecker",
+        "anecdote": "Le petit oiseau Ã  la houpette rouge, nÃ© en 1940 mais diffusÃ© en 1967, a un rire original signÃ© Mel Blanc."
+      },
+      {
+        "id": 9,
+        "question": "De quelle saga cinÃ©matographique Â« Clone Wars Â» est-il dÃ©rivÃ© ?",
+        "propositions": [
+          "Voraces",
+          "Star Wars",
+          "Harry Potter",
+          "Star Trek"
+        ],
+        "rÃ©ponse": "Star Wars",
+        "anecdote": "D'aprÃ¨s l'histoire signÃ©e George Lucas, le dessin animÃ© a Ã©tÃ© produit Ã  partir de 2003, entre les sorties des Ã©pisodes 2 et 3."
+      },
+      {
+        "id": 10,
+        "question": "Qui est le meilleur ami de Tom SayerÂ Ã  Saint-Petersburg ?",
+        "propositions": [
+          "Muff Potter",
+          "Jim Hollis",
+          "Benjamin Rogers",
+          "Huckleberry Finn"
+        ],
+        "rÃ©ponse": "Huckleberry Finn",
+        "anecdote": "VÃ©ritable vagabond livrÃ© Ã  lui-mÃªme, il entraÃ®ne Tom Sayer avec lui dans de nombreuses aventures sur les bords du Mississippi."
+      },
+      {
+        "id": 11,
+        "question": "GrÃ¢ce Ã  quel objet Gigi arrive-t-elle Ã  se transformer en jeune femme ?",
+        "propositions": [
+          "Chapeau",
+          "Pendentif",
+          "Ceinture",
+          "Parapluie"
+        ],
+        "rÃ©ponse": "Pendentif",
+        "anecdote": "Ã‚gÃ©e de 12 ans, Gigi est une princesse envoyÃ©e sur Terre par ses parents pour redonner de l'espoir Ã  certains humains."
+      },
+      {
+        "id": 12,
+        "question": "Qu'utilise le lutin Tofffsy pour savoir si on lui dit la vÃ©ritÃ© ?",
+        "propositions": [
+          "Herbe musicale",
+          "Diamant bleu",
+          "Grimoire",
+          "ClÃ© magique"
+        ],
+        "rÃ©ponse": "Herbe musicale",
+        "anecdote": "Le petit lutin Ã  la chevelure jaune a toujours d'ingÃ©nieuses idÃ©es pour aider ses amis qui vivent avec lui au chÃ¢teau de la comtesse."
+      },
+      {
+        "id": 13,
+        "question": "Quel jeune hÃ©ros de sÃ©rie tÃ©lÃ© Ã¢gÃ© de 10 ans utilise l'Omnitrix ?",
+        "propositions": [
+          "Astro",
+          "Ben 10",
+          "Kenny",
+          "Yogi"
+        ],
+        "rÃ©ponse": "Ben 10",
+        "anecdote": "L'omnitrix est le bracelet qu'il fixe Ã  son poignet et qui lui permet de se mÃ©tamorphoser en dix hÃ©ros aux super-pouvoirs."
+      },
+      {
+        "id": 14,
+        "question": "GrÃ¢ce Ã  quel objet Sophie communique-t-elle avec Finot dans Â« Inspecteur Gadget Â» ?",
+        "propositions": [
+          "Bague",
+          "PoupÃ©e",
+          "TÃ©lÃ©phone",
+          "Montre"
+        ],
+        "rÃ©ponse": "Montre",
+        "anecdote": "Ultra-sophistiquÃ©e, la montre offre Ã  Sophie la possibilitÃ© de parler et de voir son chien pour venir ensemble en aide Ã  Gadget."
+      },
+      {
+        "id": 15,
+        "question": "Que pilotent Satanas et Diabolo pour attraper le messager ZÃ©phyrin ?",
+        "propositions": [
+          "Moto",
+          "Autobus",
+          "Biplan",
+          "FusÃ©e"
+        ],
+        "rÃ©ponse": "Biplan",
+        "anecdote": "A la suite du succÃ¨s des Â« Fous du volant Â», Satanas et Diabolo ont en effet poursuivi leurs pÃ©ripÃ©ties dans les airs."
+      },
+      {
+        "id": 16,
+        "question": "Pour quelle raison Calimero est-il le seul poussin de couleur noire autour de lui ?",
+        "propositions": [
+          "Il est brÃ»lÃ©",
+          "Il est malade",
+          "Il est sale",
+          "Il est furieux"
+        ],
+        "rÃ©ponse": "Il est sale",
+        "anecdote": "En 1961, Calimero Ã©tait la star d'une publicitÃ© pour la lessive italienne oÃ¹ il retrouvait sa couleur d'origine une fois nettoyÃ©."
+      },
+      {
+        "id": 17,
+        "question": "Quelle est la particularitÃ© vestimentaire de Yogi l'ours ?",
+        "propositions": [
+          "Cape et collants",
+          "Tee-shirt et tongs",
+          "Cravate et chapeau",
+          "Casquette et short"
+        ],
+        "rÃ©ponse": "Cravate et chapeau",
+        "anecdote": "Ã‰voluant dans le parc de Jellystone en compagnie de son ami Boubou, il est toujours en quÃªte de nourriture."
+      },
+      {
+        "id": 18,
+        "question": "Quel animal est Saturnin, hÃ©ros de la sÃ©rie crÃ©Ã©e par Jean Tourane ?",
+        "propositions": [
+          "Un zÃ¨bre",
+          "Un raton laveur",
+          "Un Ã©lÃ©phant",
+          "Un caneton"
+        ],
+        "rÃ©ponse": "Un caneton",
+        "anecdote": "Le petit volatile caractÃ©riel, dont le monde miniature est Ã  l'identique celui des humains, a dÃ©marrÃ© sa carriÃ¨re en 1965."
+      },
+      {
+        "id": 19,
+        "question": "Par quel procÃ©dÃ© d'animation le clown Kiri a-t-il Ã©tÃ© crÃ©Ã© ?",
+        "propositions": [
+          "Papier carton",
+          "MosaÃ¯ques",
+          "Plasticine",
+          "Marionnettes"
+        ],
+        "rÃ©ponse": "Marionnettes",
+        "anecdote": "De ville en ville, sa roulotte entraÃ®ne ses compagnons Pip'lett, Laura, Ratibus et Bianca dans de nombreuses aventures."
+      },
+      {
+        "id": 20,
+        "question": "Quelle hÃ©roÃ¯ne de dessin animÃ© a Ã©tÃ© la star des studios Fleischer avec Popeye ?",
+        "propositions": [
+          "Charlotte",
+          "Betty Boop",
+          "Dora Marquez",
+          "Manny"
+        ],
+        "rÃ©ponse": "Betty Boop",
+        "anecdote": "Apparue en 1930, la sensuelle brunette est un des personnages animÃ©s emblÃ©matiques de l'entre-deux-guerres."
+      },
+      {
+        "id": 21,
+        "question": "Quelle est la chaÃ®ne jeunesse dont le slogan a Ã©tÃ© Â« La tÃ©lÃ© qui remue toute la famille Â» ?",
+        "propositions": [
+          "W9",
+          "Cstar",
+          "HD1",
+          "Gulli"
+        ],
+        "rÃ©ponse": "Gulli",
+        "anecdote": "Lors du lancement de la TNT en France, en 2005, le groupe LagardÃ¨re et France Televisions se sont associÃ©s."
+      },
+      {
+        "id": 22,
+        "question": "Quels personnages sautillent en s'engouffrant dans leur poche ?",
+        "propositions": [
+          "Entrechats",
+          "Tifins",
+          "Popples",
+          "Bisounours"
+        ],
+        "rÃ©ponse": "Popples",
+        "anecdote": "Ces boules de poils adorent s'amuser et possÃ¨dent une poche dans le dos qui leur permet de faire sortir des objets insolites."
+      },
+      {
+        "id": 23,
+        "question": "De quelle sÃ©rie tÃ©lÃ©visÃ©e d'animation le jeune Yugo est-il le hÃ©ros ?",
+        "propositions": [
+          "Code Lyoko",
+          "Star Butterfly",
+          "Molusco",
+          "Wakfu"
+        ],
+        "rÃ©ponse": "Wakfu",
+        "anecdote": "AccompagnÃ© de ses cinq amis, l'enfant va tenter d'arrÃªter les ambitions du Nox volant l'Ã©nergie crÃ©atrice du monde."
+      },
+      {
+        "id": 24,
+        "question": "Qui est probablement le plus cÃ©lÃ¨bre shÃ©rif de l'espace ?",
+        "propositions": [
+          "Ulysse",
+          "Jiban",
+          "X-Or",
+          "Bioman"
+        ],
+        "rÃ©ponse": "X-Or",
+        "anecdote": "Cette sÃ©rie japonaise diffusÃ©e en 1983 a pour hÃ©ros Gordan qui se transforme en X-Or en demandant sa transmutation."
+      },
+      {
+        "id": 25,
+        "question": "Comment se nomme le renard et ennemi d'AglaÃ© et Sidonie ?",
+        "propositions": [
+          "Saturnin",
+          "Croquetou",
+          "Hugo",
+          "AgÃ©nor"
+        ],
+        "rÃ©ponse": "Croquetou",
+        "anecdote": "Dans la ferme, la truie AglaÃ© et l'oie Sidonie sont aidÃ©es par le coq AgÃ©nor pour dÃ©masquer Craquetou en moins de cinq minutes."
+      },
+      {
+        "id": 26,
+        "question": "Quel animal Ã©tait Monsieur Ed dans la sÃ©rie Ã©ponyme amÃ©ricaine destinÃ©e aux enfants ?",
+        "propositions": [
+          "Lion",
+          "Cheval",
+          "Hibou",
+          "Ane"
+        ],
+        "rÃ©ponse": "Cheval",
+        "anecdote": "Monsieur Ed, le cheval parlant qui appartient Ã  l'architecte Wilbur Post, utilise ce don Ã  foison en disant tout ce qu'il pense."
+      },
+      {
+        "id": 27,
+        "question": "Quel est le mÃ©tier de Picolo, personnage crÃ©Ã© pour Radio-Canada ?",
+        "propositions": [
+          "Boulanger",
+          "Peintre",
+          "Plombier",
+          "Banquier"
+        ],
+        "rÃ©ponse": "Peintre",
+        "anecdote": "CrÃ©Ã© par jean Image en 1963, Picolo parcourt les rues de Paris en compagnie de Picolette, son amoureuse."
+      },
+      {
+        "id": 28,
+        "question": "Combien sont les hÃ©ros des Petites Canailles apparues en 1962 ?",
+        "propositions": [
+          "Huit",
+          "Six",
+          "Sept",
+          "Cinq"
+        ],
+        "rÃ©ponse": "Cinq",
+        "anecdote": "Ces sacrÃ©s garnements Ã  la personnalitÃ© bien diffÃ©rente ont pour nom Alfafa, Buck, Darla, Porky et Spanky."
+      },
+      {
+        "id": 29,
+        "question": "Lequel de ces dessins animÃ©s n'a pas Ã©tÃ© produit par Hanna-Barbera ?",
+        "propositions": [
+          "Scoubidou",
+          "Calimero",
+          "Capitaine Caverne",
+          "Les Pierrafeu"
+        ],
+        "rÃ©ponse": "Calimero",
+        "anecdote": "La carriÃ¨re de William Hanna et Joseph Barbera a dÃ©marrÃ© avec Tom et Jerry pour le cinÃ©ma et la MGM en 1940."
+      },
+      {
+        "id": 30,
+        "question": "Quel petit animal est Hamtaro dans le manga crÃ©Ã© par Ritsuko Kawai ?",
+        "propositions": [
+          "Caneton",
+          "Cheval",
+          "Raton laveur",
+          "Hamster"
+        ],
+        "rÃ©ponse": "Hamster",
+        "anecdote": "Le dessin animÃ© est signÃ© Ritsuko Kawai et est apparu sur les Ã©crans de Â« Midi les zouzous Â» de France 5 en 2003."
+      },
+      {
+        "id": 1,
+        "question": "Dans quel ocÃ©an se dÃ©verse l'Amazone, de loin le plus Ã©levÃ© de tous les fleuves de la planÃ¨te ?",
+        "propositions": [
+          "OcÃ©an Arctique",
+          "OcÃ©an Atlantique",
+          "OcÃ©an Indien",
+          "OcÃ©an Pacifique"
+        ],
+        "rÃ©ponse": "OcÃ©an Atlantique",
+        "anecdote": "La dÃ©mesure de l'Amazone s'apprÃ©cie aussi en constatant qu'aucun pont ni barrage ne le franchit sur des milliers de kilomÃ¨tres."
+      },
+      {
+        "id": 2,
+        "question": "OÃ¹ peut-on se rendre dans la plus grande Ã®le et le plus petit continent du monde ?",
+        "propositions": [
+          "Asie",
+          "Australie",
+          "Afrique",
+          "Europe"
+        ],
+        "rÃ©ponse": "Australie",
+        "anecdote": "Sa population est principalement concentrÃ©e dans les grandes villes cÃ´tiÃ¨res de Sydney, Melbourne, Brisbane, Perth et AdÃ©laÃ¯de."
+      },
+      {
+        "id": 3,
+        "question": "OÃ¹ peut-on marcher sur la place Tian'anmen, au sud de la porte de la Paix cÃ©leste ?",
+        "propositions": [
+          "Shanghai",
+          "PÃ©kin",
+          "Shenzhen",
+          "Canton"
+        ],
+        "rÃ©ponse": "PÃ©kin",
+        "anecdote": "La place Tian'anmen doit notamment sa cÃ©lÃ©britÃ© aux nombreux Ã©vÃ©nements qui s'y sont dÃ©roulÃ©s dans l'histoire chinoise."
+      },
+      {
+        "id": 4,
+        "question": "Quelle est la plus grande ville du Grand-DuchÃ© de Luxembourg ainsi que sa capitale ?",
+        "propositions": [
+          "Wiltz",
+          "Diekirch",
+          "Vianden",
+          "Luxembourg"
+        ],
+        "rÃ©ponse": "Luxembourg",
+        "anecdote": "AprÃ¨s avoir Ã©tÃ© surnommÃ©e Â«Â laÂ GibraltarÂ du NordÂ Â» en raison de sa forteresse, elle est dite aujourd'hui le Â«Â Coeur vert de l'EuropeÂ Â»."
+      },
+      {
+        "id": 5,
+        "question": "Quel pays sans cÃ´te ocÃ©anique partage en toute tranquillitÃ© le lac Majeur avec l'Italie ?",
+        "propositions": [
+          "Le Danemark",
+          "La Pologne",
+          "La Suisse",
+          "L'Autriche"
+        ],
+        "rÃ©ponse": "La Suisse",
+        "anecdote": "Le lac Majeur est cÃ©lÃ¨bre par ses sites touristiques comme les Ã®les BorromÃ©es et les Ã®les de Brissago."
+      },
+      {
+        "id": 6,
+        "question": "OÃ¹ se trouve Ankara, ville nouvelle aux origines pourtant trÃ¨s anciennes ?",
+        "propositions": [
+          "En Inde",
+          "En Turquie",
+          "En Birmanie",
+          "Au Pakistan"
+        ],
+        "rÃ©ponse": "En Turquie",
+        "anecdote": "Certains vestiges hittites dÃ©couverts dans la citadelle attestent la prÃ©sence d'une citÃ© (Ankuva) du temps de l'Empire hittite."
+      },
+      {
+        "id": 7,
+        "question": "Sur quel tropique se trouve Taiwan, connue comme la RÃ©publique de Chine ?",
+        "propositions": [
+          "Sagittaire",
+          "Capricorne",
+          "Cancer",
+          "Taureau"
+        ],
+        "rÃ©ponse": "Cancer",
+        "anecdote": "TaÃ¯wan fut officiellement gouvernÃ© par la Chine de 1683 Ã  1895, puis cÃ©dÃ© au Japon par leÂ traitÃ© de ShimonosekiÂ en 1895."
+      },
+      {
+        "id": 8,
+        "question": "Quel est le pays entourÃ© par le Lichtenstein, l'Italie, l'Autriche, l'Allemagne et la France ?",
+        "propositions": [
+          "Les Pays-Bas",
+          "La GrÃ¨ce",
+          "La Suisse",
+          "La Hongrie"
+        ],
+        "rÃ©ponse": "La Suisse",
+        "anecdote": "La Suisse est unÂ pays sans cÃ´te ocÃ©anique mais dispose d'un accÃ¨s direct Ã  la mer par le Rhin (Convention de Mannheim)."
+      },
+      {
+        "id": 9,
+        "question": "Dans quel pays allez-vous si vous partez Ã  la recherche du comte Dragul, en Transylvanie ?",
+        "propositions": [
+          "En Bulgarie",
+          "En Roumanie",
+          "En Hongrie",
+          "En Australie"
+        ],
+        "rÃ©ponse": "En Roumanie",
+        "anecdote": "Ã‰crit Ã  la fin duÂ XIXeÂ siÃ¨cle,Â Â« Dracula Â»Â est un roman Ã©pistolaire dont le personnage principal est un vampire."
+      },
+      {
+        "id": 10,
+        "question": "Quel tropique indiquÃ© sur les cartes terrestres passe entre la Floride et Cuba ?",
+        "propositions": [
+          "Tropique du Lion",
+          "Tropique du Loup",
+          "Tropique du Cancer",
+          "Tropique du Chat"
+        ],
+        "rÃ©ponse": "Tropique du Cancer",
+        "anecdote": "Le tropique du Cancer porte ce nom car, il y a environ 2000 ans, le Soleil entrait dans la constellation duÂ CancerÂ lors du solstice de juin."
+      },
+      {
+        "id": 11,
+        "question": "Quel archipel du Pacifique est constituÃ© de plus de 7100 Ã®les et Ã®lots formant un Ã©tat ?",
+        "propositions": [
+          "Les Philippines",
+          "L'IndonÃ©sie",
+          "La Malaisie",
+          "La Birmanie"
+        ],
+        "rÃ©ponse": "Les Philippines",
+        "anecdote": "Un peu plus de 2000 seulement sont habitÃ©es, alors qu'environ 2400 Ã®les n'ont mÃªme pas encore reÃ§u de nom."
+      },
+      {
+        "id": 12,
+        "question": "Quel fleuve et importante voie fluviale bleuit selon la mÃ©tÃ©o la capitale de la Hongrie ?",
+        "propositions": [
+          "Le Danube",
+          "Le Rhin",
+          "L'Elbe",
+          "Le RhÃ´ne"
+        ],
+        "rÃ©ponse": "Le Danube",
+        "anecdote": "En suivant le Danube qui forme alors la frontiÃ¨re entre laÂ HongrieÂ et laÂ Slovaquie, la premiÃ¨re ville importante rencontrÃ©e estÂ Gyor."
+      },
+      {
+        "id": 13,
+        "question": "Quelle mer du bassin Indo-Pacifique est reliÃ©e Ã  la MÃ©diterranÃ©e par le canal de Suez ?",
+        "propositions": [
+          "Mer Noire",
+          "Mer Rouge",
+          "Mer Ionienne",
+          "Mer de Java"
+        ],
+        "rÃ©ponse": "Mer Rouge",
+        "anecdote": "Il arrive que ses eaux soient peuplÃ©es d'algues qui, lorsqu'elles meurent, donnent Ã  l'eau une couleur rougeÃ¢tre."
+      },
+      {
+        "id": 14,
+        "question": "Sachant que les Apennins se trouvent en Italie, oÃ¹ sont principalement situÃ©es les Appalaches ?",
+        "propositions": [
+          "En Russie",
+          "Aux Ã‰tats-Unis",
+          "Au BrÃ©sil",
+          "En Inde"
+        ],
+        "rÃ©ponse": "Aux Ã‰tats-Unis",
+        "anecdote": "Les Appalaches sÃ©parent laÂ plaine cÃ´tiÃ¨reÂ atlantiqueÂ (Ã  l'est) du bassin duÂ fleuveÂ MississippiÂ et desÂ Grands LacsÂ (Ã  l'ouest)."
+      },
+      {
+        "id": 15,
+        "question": "Quel fleuve d'Afrique occidentale, portant le nom d'un pays, borde le Sahel ?",
+        "propositions": [
+          "Le Congo",
+          "Le ZambÃ¨ze",
+          "Le Niger",
+          "Le SÃ©nÃ©gal"
+        ],
+        "rÃ©ponse": "Le Niger",
+        "anecdote": "Le fleuve Niger fait partie de ces fleuves (tout comme le SÃ©nÃ©gal) qui ont Ã©tÃ© fortement amÃ©nagÃ©s depuis les annÃ©es 1980."
+      },
+      {
+        "id": 16,
+        "question": "Vers quel pays allez-vous si vous quittez la ville italienne de Trieste vers l'Est ?",
+        "propositions": [
+          "La Suisse",
+          "L'Espagne",
+          "La GrÃ¨ce",
+          "La Yougoslavie"
+        ],
+        "rÃ©ponse": "La Yougoslavie",
+        "anecdote": "GÃ©ographiquement, Trieste est considÃ©rÃ©e comme la Â«Â derniÃ¨re ville du Nord-EstÂ de l'Italie Â» ou comme la Â«Â ville de l'extrÃªme SudÂ Â»."
+      },
+      {
+        "id": 17,
+        "question": "Quel port canadien situÃ© sur le lac Ontario Ã©tait jadis connu sous le nom de Â«Â Fort YorkÂ Â» ?",
+        "propositions": [
+          "Oshawa",
+          "Toronto",
+          "Windsor",
+          "Hamilton"
+        ],
+        "rÃ©ponse": "Toronto",
+        "anecdote": "Fort YorkÂ fut construit Ã  l'entrÃ©e du port naturel de la ville, abritÃ© par un long banc de sable en forme de pÃ©ninsule."
+      },
+      {
+        "id": 18,
+        "question": "Dans quel Ã‰tat des Ã‰tats-Unis pourrez-vous partir Ã  la rencontre des SÃ©minoles ?",
+        "propositions": [
+          "Nevada",
+          "Michigan",
+          "Arkansas",
+          "Floride"
+        ],
+        "rÃ©ponse": "Floride",
+        "anecdote": "Les AmÃ©rindiensÂ CalusaÂ furent les premiers habitants de ces marais subtropicaux qu'ils baptisÃ¨rentÂ Â« Pa-hay-okee Â»Â ou Â«Â eaux herbeusesÂ Â»."
+      },
+      {
+        "id": 19,
+        "question": "Quelle mer dÃ©pourvue de poissons et d'algues est partagÃ©e entre la Jordanie et IsraÃ«l ?",
+        "propositions": [
+          "Mer Jaune",
+          "Mer Morte",
+          "Mer Rouge",
+          "Mer Blanche"
+        ],
+        "rÃ©ponse": "Mer Morte",
+        "anecdote": "Alors que laÂ salinitÃ©Â moyenne de l'eau de merÂ oscille entre 2 et 4Â %, celle de la mer Morte est d'approximativement 27.5Â %."
+      },
+      {
+        "id": 20,
+        "question": "OÃ¹ est Dubrovnik, dont les habitants ainsi que ce qui s'y rapporte s'appellent des ragusains ?",
+        "propositions": [
+          "En SibÃ©rie",
+          "En Roumanie",
+          "En Estonie",
+          "En Yougoslavie"
+        ],
+        "rÃ©ponse": "En Yougoslavie",
+        "anecdote": "De son ancien nom franÃ§ais Raguse, Dubrovnik a pour devise : Â« La libertÃ© ne se vend pas mÃªme pour tout l'or du monde Â»."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Sur quelle Ã®le Ã  120 km du sud de l'Angleterre se trouvent Grand Havre et Port Soif ?",
+        "propositions": [
+          "Ortac",
+          "Guernesey",
+          "Herm",
+          "Aurigny"
+        ],
+        "rÃ©ponse": "Guernesey",
+        "anecdote": "Victor Hugo a sÃ©journÃ© Ã  Guernesey et y a Ã©critÂ Â« Les MisÃ©rables Â»Â en 1862 etÂ Â« Les Travailleurs de la mer Â»Â en 1866."
+      },
+      {
+        "id": 22,
+        "question": "Dans quel pays peut-on par exemple passer une nuit Ã  Mandalay et la suivante Ã  Rangoon ?",
+        "propositions": [
+          "En Birmanie",
+          "Aux Philippines",
+          "En Malaisie",
+          "En IndonÃ©sie"
+        ],
+        "rÃ©ponse": "En Birmanie",
+        "anecdote": "Capitale royale entre 1860 et 1885, rÃ©putÃ©e pour son jade, Mandalay Ã©tait alors surnommÃ©e la Â«Â citÃ© des joyauxÂ Â»."
+      },
+      {
+        "id": 23,
+        "question": "Dans quel Ã‰tat du Midwest des Ã‰tats-Unis se trouvent Mineapolis et sa jumelle St Paul ?",
+        "propositions": [
+          "Le Missouri",
+          "Le Minnesota",
+          "Le Michigan",
+          "Le Montana"
+        ],
+        "rÃ©ponse": "Le Minnesota",
+        "anecdote": "Le mot Â«Â MinnesotaÂ Â» vient de Â«Â mnisotaÂ Â», nom donnÃ© au fleuve Minnesota par les Dakotas, tribu Sioux."
+      },
+      {
+        "id": 24,
+        "question": "Vers quel lac la ville d'Irkoutsk plonge-t-elle son regard Ã  66 kilomÃ¨tres Ã  l'ouest ?",
+        "propositions": [
+          "Ã‰riÃ©",
+          "BaÃ¯kal",
+          "Malawi",
+          "Tanganyika"
+        ],
+        "rÃ©ponse": "BaÃ¯kal",
+        "anecdote": "Irkoutsk se trouve dans une rÃ©gion de collines couvertes deÂ taÃ¯ga, paysage typique de la SibÃ©rie orientale."
+      },
+      {
+        "id": 25,
+        "question": "Quelle grande ville trouve-t-on sur la mer d'Oman, prÃ¨s de l'embouchure de l'Indus ?",
+        "propositions": [
+          "Mingora",
+          "Karachi",
+          "Burewala",
+          "Islamabad"
+        ],
+        "rÃ©ponse": "Karachi",
+        "anecdote": "Karachi est l'une desÂ villes les plus peuplÃ©es au mondeÂ et la plus peuplÃ©e duÂ monde musulman."
+      },
+      {
+        "id": 26,
+        "question": "Quelle capitale pakistanaise, situÃ©e au nord du pays, jouxte la ville de Rawalpindi ?",
+        "propositions": [
+          "Quetta",
+          "Islamabad",
+          "Wah",
+          "Karachi"
+        ],
+        "rÃ©ponse": "Islamabad",
+        "anecdote": "Devenue en 1967 la capitale du pays, au dÃ©triment deÂ Karachi, Islamabad en constitue le coeur administratif et politique."
+      },
+      {
+        "id": 27,
+        "question": "Dans quel Ã‰tat amÃ©ricain du Nord-Est du pays se trouvent Rome, Syracuse et Albany ?",
+        "propositions": [
+          "Idaho",
+          "Alabama",
+          "New York",
+          "Maryland"
+        ],
+        "rÃ©ponse": "New York",
+        "anecdote": "Si la ville deÂ New YorkÂ se trouve dans l'Ã‰tat de New York, sa principale agglomÃ©ration se trouve dans les Ã‰tats voisins."
+      },
+      {
+        "id": 28,
+        "question": "De quel pays situÃ© Ã  environ 200 km au nord de l'Ã©quateur Kuala Lumpur est-elle la capitale ?",
+        "propositions": [
+          "Le Cambodge",
+          "Le Laos",
+          "La Malaisie",
+          "La Birmanie"
+        ],
+        "rÃ©ponse": "La Malaisie",
+        "anecdote": "ArrachÃ©e Ã  laÂ jungleÂ dans les annÃ©es 1850, la ville doit sa naissance et sa fortune aux abondants gisements d'Ã©tain."
+      },
+      {
+        "id": 29,
+        "question": "Combien de mers baignent la Russie, le plus vaste pays de notre planÃ¨te ?",
+        "propositions": [
+          "Six",
+          "Douze",
+          "Huit",
+          "Dix"
+        ],
+        "rÃ©ponse": "Douze",
+        "anecdote": "Bien qu'entourÃ©e de mersÂ et de deuxÂ ocÃ©ans, la Russie est caractÃ©risÃ©e par unÂ climat continentalÂ aux milieux froids et hostiles."
+      },
+      {
+        "id": 30,
+        "question": "Sur quelle Ã®le se trouve Manille, deuxiÃ¨me ville la plus peuplÃ©e des Philippines aprÃ¨s Quezon ?",
+        "propositions": [
+          "Guam",
+          "LuÃ§on",
+          "Shikoku",
+          "Visayas"
+        ],
+        "rÃ©ponse": "LuÃ§on",
+        "anecdote": "La quasi totalitÃ© de la ville se trouve sur un sol alluvionnaire dÃ©placÃ© par la riviÃ¨re Pasig et gagnÃ© sur la baie de Manille."
+      },
+      {
+        "id": 1,
+        "question": "Ã€ quel historien et pÃ©dagogue franÃ§ais doit-on les Jeux olympiques modernes ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "NapolÃ©on Bonaparte",
+          "Pie XI",
+          "Duc de Windsor"
+        ],
+        "rÃ©ponse": "Pierre de Coubertin",
+        "anecdote": "La mÃ©daille Pierre-de-Coubertin, attribuÃ©e par le CIO, dÃ©montre aux Jeux olympiques un vÃ©ritable esprit sportif."
+      },
+      {
+        "id": 2,
+        "question": "Combien y a-t-il de couloirs dans une piscine olympique ?",
+        "propositions": [
+          "10",
+          "12",
+          "14",
+          "6"
+        ],
+        "rÃ©ponse": "10",
+        "anecdote": "Seules les piscines d'eau douce homologuÃ©es conviennent aux compÃ©titions organisÃ©es dans ces grands bassins."
+      },
+      {
+        "id": 3,
+        "question": "Qui a Ã©tÃ© Ã©lu journaliste franÃ§ais le plus chauvin des Jeux olympiques de 2012 ?",
+        "propositions": [
+          "Nelson Monfort",
+          "Christian Jeanpierre",
+          "Georges Cazeneuve",
+          "Michel Denisot"
+        ],
+        "rÃ©ponse": "Nelson Monfort",
+        "anecdote": "Nelson Monfort commente le patinage artistique mais surtout interviewe les sportifs dans de nombreuses disciplines."
+      },
+      {
+        "id": 4,
+        "question": "Dans quelle ville se dÃ©rouleront les Jeux olympiques de 2016, malgrÃ© son insÃ©curitÃ© ?",
+        "propositions": [
+          "PÃ©kin",
+          "Londres",
+          "Rio de Janeiro",
+          "Tokyo"
+        ],
+        "rÃ©ponse": "Rio de Janeiro",
+        "anecdote": "Ces JO seront les premiers Ã  se dÃ©rouler en AmÃ©rique du Sud et les premiers Ã  se dÃ©rouler dans un pays lusophone."
+      },
+      {
+        "id": 5,
+        "question": "Quelle Ã©preuve olympique commence hors du stade pour se terminer dans ses murs ?",
+        "propositions": [
+          "Le marathon",
+          "Le cross-country",
+          "Le 10 000 m",
+          "Le trail"
+        ],
+        "rÃ©ponse": "Le marathon",
+        "anecdote": "Le marathon est une Ã©preuve sportive de course Ã  pied qui se dispute gÃ©nÃ©ralement sur une distance de 42 kilomÃ¨tres."
+      },
+      {
+        "id": 6,
+        "question": "Lequel des anneaux du drapeau olympique se retrouve le plus prÃ¨s du mÃ¢t ?",
+        "propositions": [
+          "Bleu",
+          "Rouge",
+          "Jaune",
+          "Vert"
+        ],
+        "rÃ©ponse": "Bleu",
+        "anecdote": "Les cinq anneaux entrelacÃ©s reprÃ©sentent les cinq continents unis par l'olympisme, et les six couleurs reprÃ©sentent toutes les nations."
+      },
+      {
+        "id": 7,
+        "question": "Quel pongiste belge a participÃ© Ã  ses septiÃ¨mes Jeux olympiques Ã  l'Ã¢ge de 42 ans ?",
+        "propositions": [
+          "GrÃ©gory Obert",
+          "Martin Bratanov",
+          "Jean-Michel Saive",
+          "Yannick Vostes"
+        ],
+        "rÃ©ponse": "Jean-Michel Saive",
+        "anecdote": "Jean-Michel Saive a Ã©galement portÃ© le drapeau de la dÃ©lÃ©gation belge lors des Jeux olympiques de 1996 et 2004."
+      },
+      {
+        "id": 8,
+        "question": "Qui est la premiÃ¨re gymnaste Ã  avoir obtenu un 10 aux Jeux olympiques ?",
+        "propositions": [
+          "Diana Mocanu",
+          "Nadia Comaneci",
+          "Doina Ignat",
+          "Tatiana Gutsu"
+        ],
+        "rÃ©ponse": "Nadia Comaneci",
+        "anecdote": "Nadia Comaneci, qui possÃ¨de une double nationalitÃ©, a donnÃ© une dimension populaire et mÃ©diatique inÃ©galÃ©e Ã  ce sport."
+      },
+      {
+        "id": 9,
+        "question": "Quelle est la couleur de fond du drapeau olympique, cÃ©lÃ¨bre pour ses cinq anneaux ?",
+        "propositions": [
+          "Bleue",
+          "Verte",
+          "Jaune",
+          "Blanche"
+        ],
+        "rÃ©ponse": "Blanche",
+        "anecdote": "Aux Jeux de 2008, l'association Reporters sans frontiÃ¨res a dÃ©tournÃ© le drapeau olympique en remplaÃ§ant le fond blanc par un fond noir."
+      },
+      {
+        "id": 10,
+        "question": "Qui Ã©tait Premier ministre britannique lors des Jeux olympiques de Londres en 2012 ?",
+        "propositions": [
+          "Tony Blair",
+          "David Cameron",
+          "Gordon Brown",
+          "James Callaghan"
+        ],
+        "rÃ©ponse": "David Cameron",
+        "anecdote": "DiplÃ´mÃ© du Brasenose College de l'universitÃ© d'Oxford, il fut conseiller politique de Margaret Thatcher puis de John Major."
+      },
+      {
+        "id": 11,
+        "question": "Quel athlÃ¨te JamaÃ¯cain a marquÃ© les Jeux olympiques de 2008 ?",
+        "propositions": [
+          "Lerone Clarke",
+          "Ray Stewart",
+          "Usain Bolt",
+          "Dexter Lee"
+        ],
+        "rÃ©ponse": "Usain Bolt",
+        "anecdote": "SpÃ©cialiste des Ã©preuves de sprint, Usain Bolt est Ã©galement l'athlÃ¨te le plus dÃ©corÃ© des championnats du monde d'athlÃ©tisme."
+      },
+      {
+        "id": 12,
+        "question": "Quelle discipline olympique associe le saut Ã  ski au ski de fond ?",
+        "propositions": [
+          "Le snowboard",
+          "Le biathlon",
+          "Le curling",
+          "Le combinÃ© nordique"
+        ],
+        "rÃ©ponse": "Le combinÃ© nordique",
+        "anecdote": "CrÃ©Ã© en NorvÃ¨ge Ã  la fin du XIXe siÃ¨cle, le combinÃ© nordique est au programme olympique depuis la premiÃ¨re Ã©dition."
+      },
+      {
+        "id": 13,
+        "question": "En 2012, quel type de passeport est apparu aux Jeux olympiques de Londres ?",
+        "propositions": [
+          "Thermique",
+          "Automatique",
+          "Biologique",
+          "TÃ©lÃ©pathique"
+        ],
+        "rÃ©ponse": "Biologique",
+        "anecdote": "Il permet de dÃ©celer des violations de la rÃ©glementation antidopage en dÃ©tectant des variations anormales de marqueurs biologiques."
+      },
+      {
+        "id": 14,
+        "question": "Quelle sportive franÃ§aise a participÃ© Ã  sept Ã©ditions des Jeux olympiques ?",
+        "propositions": [
+          "Sophie Creux",
+          "Jeannie Longo",
+          "Marion Rousse",
+          "Sabrina Jonnier"
+        ],
+        "rÃ©ponse": "Jeannie Longo",
+        "anecdote": "Au total, Jeannie Longo a remportÃ© 9 titres de championne du monde sur route et un titre olympique."
+      },
+      {
+        "id": 15,
+        "question": "Quel objet les femmes ne peuvent-elles jeter aux Jeux olympiques que depuis 1995 ?",
+        "propositions": [
+          "Le poids",
+          "Le javelot",
+          "Le disque",
+          "Le marteau"
+        ],
+        "rÃ©ponse": "Le marteau",
+        "anecdote": "Le lancer du marteau pour femmes a eu lieu pour la premiÃ¨re fois aux Jeux olympiques d'Ã©tÃ© de 2000 Ã  Sydney."
+      },
+      {
+        "id": 16,
+        "question": "Quel Ã©quipement trÃ¨s utilisÃ© en athlÃ©tisme doit peser au moins 50 grammes ?",
+        "propositions": [
+          "Le disque",
+          "Le sifflet",
+          "Le javelot",
+          "Le tÃ©moin"
+        ],
+        "rÃ©ponse": "Le tÃ©moin",
+        "anecdote": "Le but du relais est de parcourir la distance le plus rapidement possible tout en assurant la transmission d'un tÃ©moin."
+      },
+      {
+        "id": 17,
+        "question": "Dans quelle Ã©preuve olympique peut-on trouver des hommes couchÃ©s par terre ?",
+        "propositions": [
+          "Le croquet",
+          "Le curling",
+          "Le softball",
+          "Le tir"
+        ],
+        "rÃ©ponse": "Le tir",
+        "anecdote": "Le tir inclus deux types principaux de compÃ©tition, le tir sur cible avec des pistolets ou des carabines et le tir sur plateau."
+      },
+      {
+        "id": 18,
+        "question": "Quel sportif, nÃ© le 30 juin 1985 Ã  Towson, est le plus titrÃ© des Jeux olympiques ?",
+        "propositions": [
+          "Andriy Serdinov",
+          "Michael Phelps",
+          "Mark Spitz",
+          "Ian Thorpe"
+        ],
+        "rÃ©ponse": "Michael Phelps",
+        "anecdote": "En grand bassin, l'AmÃ©ricain est le nageur le plus mÃ©daillÃ© de l'histoire avec 22 mÃ©dailles dont 18 d'or."
+      },
+      {
+        "id": 19,
+        "question": "Comment appelle-t-on la pÃ©riode de quatre ans entre deux Jeux olympiques ?",
+        "propositions": [
+          "Une tierce",
+          "Un lustre",
+          "Un quinquennat",
+          "Une olympiade"
+        ],
+        "rÃ©ponse": "Une olympiade",
+        "anecdote": "L'olympiade est la base de la chronologie du monde grec Ã  partir d'Alexandre le Grand."
+      },
+      {
+        "id": 20,
+        "question": "Quel athlÃ¨te a Ã©tÃ© champion olympique du saut en longueur Ã  Atlanta en 1996 ?",
+        "propositions": [
+          "Dwight Phillips",
+          "Carl Lewis",
+          "Michael Johnson",
+          "Linford Christie"
+        ],
+        "rÃ©ponse": "Carl Lewis",
+        "anecdote": "Sa carriÃ¨re, plusieurs fois interrompue, a durÃ© de 1979 Ã  1996, annÃ©e durant laquelle il a conquis son dernier titre olympique."
+      },
+      {
+        "id": 21,
+        "question": "En quelle annÃ©e les Jeux olympiques se sont-ils dÃ©roulÃ©s Ã  Paris pour la premiÃ¨re fois ?",
+        "propositions": [
+          "1908",
+          "1900",
+          "1928",
+          "1920"
+        ],
+        "rÃ©ponse": "1900",
+        "anecdote": "Aucune cÃ©rÃ©monie d'ouverture ou de fermeture n'a Ã©tÃ© prÃ©vue au programme, mis Ã  part un dÃ©filÃ© des gymnastes Ã  Vincennes."
+      },
+      {
+        "id": 22,
+        "question": "Lequel de ces sports ne figure pas parmi les Ã©preuves disputÃ©es en pentathlon moderne ?",
+        "propositions": [
+          "Le cyclisme",
+          "La natation",
+          "Le tir au pistolet",
+          "La course Ã  pied"
+        ],
+        "rÃ©ponse": "Le cyclisme",
+        "anecdote": "Les Ã©preuves du pentathlon moderne sont l'escrime, la natation, l'Ã©quitation, le tir au pistolet et la course Ã  pied."
+      },
+      {
+        "id": 23,
+        "question": "Quel chirurgien orthopÃ©diste a Ã©tÃ© Ã©lu en 2001 prÃ©sident du ComitÃ© international olympique ?",
+        "propositions": [
+          "Jacques Rogge",
+          "RenÃ© Fasel",
+          "Marc Hodler",
+          "Jean-Claude Killy"
+        ],
+        "rÃ©ponse": "Jacques Rogge",
+        "anecdote": "AprÃ¨s une carriÃ¨re sportive remplie, en voile comme skipper puis au  rugby Ã  XV, Jacques Rogge s'oriente vers l'administration sportive."
+      },
+      {
+        "id": 24,
+        "question": "Quelle est la premiÃ¨re ville Ã  avoir accueilli trois fois les Jeux olympiques ?",
+        "propositions": [
+          "Paris",
+          "AthÃ¨nes",
+          "Londres",
+          "Los Angeles"
+        ],
+        "rÃ©ponse": "Londres",
+        "anecdote": "Les JO sont un Ã©vÃ©nement international majeur, regroupant les sports d'Ã©tÃ© et d'hiver, auquel des milliers d'athlÃ¨tes participent."
+      },
+      {
+        "id": 25,
+        "question": "Dans quelle discipline olympique le parcours est-il toujours triangulaire ?",
+        "propositions": [
+          "Le triathlon",
+          "Le canoÃ«-kayak",
+          "La voile",
+          "L'aviron"
+        ],
+        "rÃ©ponse": "La voile",
+        "anecdote": "Le plus grand catamaran Ã  voile jamais construit est le Douce France : 42 mÃ¨tres de grand luxe et de teck."
+      },
+      {
+        "id": 26,
+        "question": "En 1980, lequel de ces pays a totalement boycottÃ© les Jeux olympiques de Moscou ?",
+        "propositions": [
+          "La NorvÃ¨ge",
+          "La Grande-Bretagne",
+          "La SuÃ¨de",
+          "La France"
+        ],
+        "rÃ©ponse": "La NorvÃ¨ge",
+        "anecdote": "Une cinquantaine de nations ont boycottÃ© ces Jeux Ã  la suite de l'invasion de l'Afghanistan par l'Union SoviÃ©tique en 1979."
+      },
+      {
+        "id": 27,
+        "question": "Quel nageur olympique de GuinÃ©e Ã©quatoriale a connu une cÃ©lÃ©britÃ© Ã©phÃ©mÃ¨re ?",
+        "propositions": [
+          "Ian Thorpe",
+          "Ã‰ric Moussambani",
+          "Bill Kirby",
+          "Jens Kruppa"
+        ],
+        "rÃ©ponse": "Ã‰ric Moussambani",
+        "anecdote": "Son courage Ã  Sydney en 2000 sera perÃ§u comme un symbole de l'esprit olympique, aprÃ¨s un 100 mÃ¨tres nage libre en 1m 52s."
+      },
+      {
+        "id": 28,
+        "question": "Quel animal a reprÃ©sentÃ© la mascotte des Jeux olympiques de Moscou en 1980 ?",
+        "propositions": [
+          "Un loup",
+          "Un renne",
+          "Un ours",
+          "Un Ã©lan"
+        ],
+        "rÃ©ponse": "Un ours",
+        "anecdote": "La mascotte officielle, l'ours Misha, a Ã©tÃ© imaginÃ©e par Victor Tchijikov, auteur de livres pour enfants."
+      },
+      {
+        "id": 29,
+        "question": "Combien de mÃ©dailles olympiques ont Ã©tÃ© distribuÃ©es aux Jeux de 2012 ?",
+        "propositions": [
+          "3 500",
+          "5 600",
+          "4 700",
+          "2 900"
+        ],
+        "rÃ©ponse": "4 700",
+        "anecdote": "Londres est la premiÃ¨re ville Ã  accueillir les Jeux olympiques modernes pour la troisiÃ¨me fois."
+      },
+      {
+        "id": 30,
+        "question": "En quelle annÃ©e les Jeux olympiques ont-ils Ã©tÃ© tÃ©lÃ©visÃ©s pour la premiÃ¨re fois ?",
+        "propositions": [
+          "1936",
+          "1947",
+          "1963",
+          "1952"
+        ],
+        "rÃ©ponse": "1936",
+        "anecdote": "Pour la premiÃ¨re fois, la flamme olympique sera introduite dans une cÃ©rÃ©monie d'ouverture de Jeux olympiques."
+      },
+      {
+        "id": 1,
+        "question": "Le mont Saint-Michel est situÃ© Ã  l'est de l'embouchure de quel fleuve ?",
+        "propositions": [
+          "Rance",
+          "HÃ©rault",
+          "Couesnon",
+          "Vire"
+        ],
+        "rÃ©ponse": "Couesnon",
+        "anecdote": "Le Couesnon est un petit fleuve cÃ´tier franÃ§ais qui coule dans les trois dÃ©partements d'Ille-et-Vilaine, de la Manche et de la Mayenne."
+      },
+      {
+        "id": 2,
+        "question": "Ã€ quelle crÃ©ature abrahamique le mont Saint-Michel doit-il son nom ?",
+        "propositions": [
+          "LÃ©viathan",
+          "Archange",
+          "Gargouille",
+          "SÃ©raphin"
+        ],
+        "rÃ©ponse": "Archange",
+        "anecdote": "Michel est un des sept archanges majeurs (avec Gabriel et RaphaÃ«l) des religions abrahamiques (judaÃ¯sme, christianisme, et islam)."
+      },
+      {
+        "id": 3,
+        "question": "Quel bÃ¢timent fait partie des premiers sites culturels visitÃ©s en France ?",
+        "propositions": [
+          "Ã‰glise",
+          "Abbaye",
+          "MonastÃ¨re",
+          "Temple"
+        ],
+        "rÃ©ponse": "Abbaye",
+        "anecdote": "Au XIIeÂ siÃ¨cle, les bÃ©nÃ©dictins du Mont-Saint-Michel auraient eu une grande influence sur le dÃ©veloppement intellectuel de l'Europe."
+      },
+      {
+        "id": 4,
+        "question": "Quel personnage emblÃ©matique du mont Saint-Michel cuisine des omelettes ?",
+        "propositions": [
+          "MÃ¨re Maury",
+          "MÃ¨re Denis",
+          "MÃ¨re Poulard",
+          "MÃ¨re Michel"
+        ],
+        "rÃ©ponse": "MÃ¨re Poulard",
+        "anecdote": "Anne Boutiaut, surnommÃ©e la mÃ¨re Poulard, Ã©tait une cuisiniÃ¨re franÃ§aise nÃ©e Ã  Nevers et morte en 1931 au mont Saint-Michel."
+      },
+      {
+        "id": 5,
+        "question": "Quel agneau est Ã  dÃ©guster de prÃ©fÃ©rence grillÃ© au feu de bois ?",
+        "propositions": [
+          "Romanov",
+          "De prÃ© salÃ©",
+          "Cheviot",
+          "Lincoln"
+        ],
+        "rÃ©ponse": "De prÃ© salÃ©",
+        "anecdote": "La particularitÃ© de cette viande est d'Ãªtre obtenue par l'exploitation herbagÃ¨re de prÃ©s salÃ©s grÃ¢ce Ã  la conduite pastorale de troupeaux."
+      },
+      {
+        "id": 6,
+        "question": "Quelle spÃ©cialitÃ© soufflÃ©e du mont Saint-Michel est cuite Ã  feu vif ?",
+        "propositions": [
+          "Courgette",
+          "CacahuÃ¨te",
+          "Omelette",
+          "Galinette"
+        ],
+        "rÃ©ponse": "Omelette",
+        "anecdote": "La mÃ¨re Poulard dÃ©veloppa cette recette aprÃ¨s avoir remarquÃ© que les pÃ¨lerins arrivaient affamÃ©s au Mont Saint-Michel."
+      },
+      {
+        "id": 7,
+        "question": "Combien de places de stationnement ont Ã©tÃ© amÃ©nagÃ©es dans le nouveau parking ?",
+        "propositions": [
+          "1 000",
+          "4 000",
+          "2 000",
+          "3 000"
+        ],
+        "rÃ©ponse": "4 000",
+        "anecdote": "Construit au sud du barrage de la Caserne sur le Couesnon, Ã  2 500 mÃ¨tres du mont, le parking possÃ¨de 45 000 arbres et arbustes."
+      },
+      {
+        "id": 8,
+        "question": "Quel cÃ©lÃ¨bre roman de Dan Brown fait rÃ©fÃ©rence au mont Saint-Michel ?",
+        "propositions": [
+          "Inferno",
+          "Anges et DÃ©mons",
+          "Origine",
+          "Da Vinci Code"
+        ],
+        "rÃ©ponse": "Da Vinci Code",
+        "anecdote": "Les thÃ¨ses du roman sont largement inspirÃ©es par Â« L'Ã‰nigme sacrÃ©e Â», un essai publiÃ© en 1982 par trois journalistes britanniques."
+      },
+      {
+        "id": 9,
+        "question": "Quel phÃ©nomÃ¨ne est dÃ» au fait que la baie du mont soit pratiquement plate ?",
+        "propositions": [
+          "Sables mouvants",
+          "TempÃªte de sable",
+          "Talus",
+          "Sol argileux"
+        ],
+        "rÃ©ponse": "Sables mouvants",
+        "anecdote": "Contrairement Ã  une idÃ©e rÃ©pandue, un corps pris dans un sable mouvant n'est pas aspirÃ© par le fond mais flotte deux fois mieux."
+      },
+      {
+        "id": 10,
+        "question": "Quel coquillage du mont Saint-Michel reprÃ©sente un quart de la production franÃ§aise ?",
+        "propositions": [
+          "Saint-Jacques",
+          "Praire",
+          "Palourde",
+          "Moule de bouchot"
+        ],
+        "rÃ©ponse": "Moule de bouchot",
+        "anecdote": "Au total, la production annuelle de moules de bouchot et des huÃ®tres du Mont-Saint-Michel s'Ã©lÃ¨ve Ã  pas moins de 25Â 000Â tonnes."
+      },
+      {
+        "id": 11,
+        "question": "Quelle est la circonfÃ©rence approximative de l'Ã®lot rocheux granitique ?",
+        "propositions": [
+          "660 mÃ¨tres",
+          "960 mÃ¨tres",
+          "860 mÃ¨tres",
+          "760 mÃ¨tres"
+        ],
+        "rÃ©ponse": "960 mÃ¨tres",
+        "anecdote": "Le mont Saint-Michel est un Ã®lot rocheux situÃ© Ã  l'est de l'embouchure du fleuve du Couesnon, dans la Manche."
+      },
+      {
+        "id": 12,
+        "question": "Ã€ qui doit-on le thriller Â« Le Sang du temps Â» qui se dÃ©roule au mont Saint-Michel ?",
+        "propositions": [
+          "Bertrand ChÃ©ron",
+          "RenÃ© Charvin",
+          "Antoine Chainas",
+          "Maxime Chattam"
+        ],
+        "rÃ©ponse": "Maxime Chattam",
+        "anecdote": "Â« Le Sang du temps Â» est un roman policier Ã©crit par Maxime Chattam, publiÃ© en France aux Ã©ditions Michel Lafon en 2005."
+      },
+      {
+        "id": 13,
+        "question": "Comment le mont Saint-Michel Ã©tait-il connu avant l'annÃ©e 709 ?",
+        "propositions": [
+          "ÃŽle PelÃ©e",
+          "Tombelaine",
+          "Mont Tombe",
+          "ÃŽle du Large"
+        ],
+        "rÃ©ponse": "Mont Tombe",
+        "anecdote": "Le nouveau nom complet, choisi par Charlemagne pour protÃ©ger son empire au IXe siÃ¨cle, Ã©tait Mont-Saint-Michel-au-pÃ©ril-de-la-Mer."
+      },
+      {
+        "id": 14,
+        "question": "Quel pourcentage des touristes du mont Saint-Michel montent jusqu'Ã  l'abbaye ?",
+        "propositions": [
+          "33 %",
+          "22 %",
+          "55 %",
+          "44 %"
+        ],
+        "rÃ©ponse": "33 %",
+        "anecdote": "Avec un temps de visite de 3 heures, c'est entre 11h et 16h que la densitÃ© de visiteurs sur le site est la plus forte."
+      },
+      {
+        "id": 15,
+        "question": "Quel film de Michael Bay a Ã©tÃ© partiellement tournÃ© au mont Saint-Michel ?",
+        "propositions": [
+          "No Pain No Gain",
+          "13 Hours",
+          "Armageddon",
+          "Six Underground"
+        ],
+        "rÃ©ponse": "Armageddon",
+        "anecdote": "La mÃªme annÃ©e (1998) est sorti Â« Deep Impact Â», un autre film avec la mÃªme trame de scÃ©nario, axÃ©e sur le cÃ´tÃ© humain."
+      },
+      {
+        "id": 16,
+        "question": "Quelle digue sÃ©parait la baie du mont Saint-Michel des marais de Dol ?",
+        "propositions": [
+          "Digue de Wadrinau",
+          "Digue de Richelieu",
+          "Digue de Bretagne",
+          "Digue aux Cygnes"
+        ],
+        "rÃ©ponse": "Digue de Bretagne",
+        "anecdote": "La digue s'Ã©tendait sur une trentaine de kilomÃ¨tres de la pointe de ChÃ¢teau-Richeux jusqu'au petit massif de Saint-Broladre Ã  l'est."
+      },
+      {
+        "id": 17,
+        "question": "Pendant combien de jours par an le mont Saint-Michel est-il entourÃ© d'eau ?",
+        "propositions": [
+          "79 jours",
+          "53 jours",
+          "42 jours",
+          "67 jours"
+        ],
+        "rÃ©ponse": "53 jours",
+        "anecdote": "Spectacle impressionnant, le Mont-Saint-Michel n'est entourÃ© d'eau et ne redevient une Ã®le qu'aux grandes marÃ©es d'Ã©quinoxe."
+      },
+      {
+        "id": 18,
+        "question": "Quelle plante se trouve principalement sur les herbus qui entourent le mont ?",
+        "propositions": [
+          "Sauge",
+          "Salicorne",
+          "Santal",
+          "Sagine"
+        ],
+        "rÃ©ponse": "Salicorne",
+        "anecdote": "Les salicornes sont des plantes annuelles, basses, charnues, qui croissent sur des sols riches en sel marin (chlorure de sodium)."
+      },
+      {
+        "id": 19,
+        "question": "Quelle pÃªche consiste Ã  tendre des filets sur les grÃ¨ves et Ã  les manoeuvrer ?",
+        "propositions": [
+          "PÃªche Ã  pied",
+          "PÃªche au chalut",
+          "PÃªche au carrelet",
+          "PÃªche profonde"
+        ],
+        "rÃ©ponse": "PÃªche Ã  pied",
+        "anecdote": "Du fait des conditions de pÃªche, les grandes marÃ©es sont trÃ¨s favorables Ã  cette activitÃ©, avec une forte population de crustacÃ©s."
+      },
+      {
+        "id": 20,
+        "question": "Ã€ quelle hauteur culmine au-dessus du rivage la statue de saint Michel ?",
+        "propositions": [
+          "150 mÃ¨tres",
+          "120 mÃ¨tres",
+          "180 mÃ¨tres",
+          "210 mÃ¨tres"
+        ],
+        "rÃ©ponse": "150 mÃ¨tres",
+        "anecdote": "Ã‰lÃ©ment majeur, l'abbaye, ses dÃ©pendances et sa statue sont classÃ©s au titre des monuments historiques par la liste de 1862."
+      },
+      {
+        "id": 21,
+        "question": "Qui a composÃ© un album entiÃ¨rement consacrÃ© aux lÃ©gendes du mont Saint-Michel ?",
+        "propositions": [
+          "JÃ©rÃ´me Wolff",
+          "Patrick BroguiÃ¨re",
+          "GrÃ©goire Vallette",
+          "Manuel Dubigeon"
+        ],
+        "rÃ©ponse": "Patrick BroguiÃ¨re",
+        "anecdote": "L'album Â« Mont Saint-Michel Â», inspirÃ© par les contes et lÃ©gendes du mont Saint-Michel, comprend un livret de 20 pages couleur."
+      },
+      {
+        "id": 22,
+        "question": "Quel phÃ©nomÃ¨ne permet Ã  une grande partie de la baie d'Ãªtre dÃ©couverte ?",
+        "propositions": [
+          "Marnage",
+          "Tourbillon",
+          "Halocline",
+          "AltimÃ©trie"
+        ],
+        "rÃ©ponse": "Marnage",
+        "anecdote": "Le marnage est, pour un jour donnÃ©, la diffÃ©rence de hauteur d'eau entre le niveau de la pleine mer et celui de la basse mer."
+      },
+      {
+        "id": 23,
+        "question": "Quelle voiture transportait autrefois les visiteurs du Mont Saint-Michel ?",
+        "propositions": [
+          "Maringotte",
+          "Podoscaphe",
+          "Vinaigrette",
+          "Gyrobus"
+        ],
+        "rÃ©ponse": "Maringotte",
+        "anecdote": "La maringotte est une voiture hippomobile Ã  deux roues, suspendue sur des ressorts Ã  pincettes, avec des bancs mobiles."
+      },
+      {
+        "id": 24,
+        "question": "Quel architecte a crÃ©Ã© les nouveaux ouvrages d'accÃ¨s disponibles depuis 2014 ?",
+        "propositions": [
+          "Artur Berger",
+          "Christopher Alexander",
+          "Richard Neutra",
+          "Dietmar Feichtinger"
+        ],
+        "rÃ©ponse": "Dietmar Feichtinger",
+        "anecdote": "La passerelle sur pilotis, Ã©laborÃ©e en 2002, est ouverte aux piÃ©tons depuis juillet 2014 et aux navettes depuis dÃ©cembre 2014."
+      },
+      {
+        "id": 25,
+        "question": "Combien de visiteurs se rendent en moyenne chaque jour au mont Saint-Michel ?",
+        "propositions": [
+          "9 000",
+          "6 000",
+          "12 000",
+          "15 000"
+        ],
+        "rÃ©ponse": "12 000",
+        "anecdote": "Des pics dÃ©passent les 16Â 000 visiteurs par jour, avec un flux moins dense au fur et Ã  mesure de l'ascension vers l'abbaye."
+      },
+      {
+        "id": 26,
+        "question": "Quel grand bÃ¢tisseur et historien fut le seiziÃ¨me abbÃ© du mont Saint-Michel ?",
+        "propositions": [
+          "Robert de Torigni",
+          "Gilbert de Mons",
+          "Bernat Desclot",
+          "Geoffroi Malaterra"
+        ],
+        "rÃ©ponse": "Robert de Torigni",
+        "anecdote": "Il y rÃ©alisera d'importants travaux en Ã©difiant les deux tours occidentales et le bÃ¢timent (hÃ´tellerie et infirmerie)."
+      },
+      {
+        "id": 27,
+        "question": "Quel prisonnier du mont Saint-Michel fut surnommÃ© Â« l'EnfermÃ© Â» ?",
+        "propositions": [
+          "Joseph Sobrier",
+          "Auguste Blanqui",
+          "Jules Senard",
+          "Antoine Fombertaux"
+        ],
+        "rÃ©ponse": "Auguste Blanqui",
+        "anecdote": "En 1880, Auguste Blanqui a publiÃ© le journal Â« Ni Dieu ni maÃ®tre Â» dont le titre est devenu une rÃ©fÃ©rence pour le mouvement anarchiste."
+      },
+      {
+        "id": 28,
+        "question": "Dans quel album de Mike Oldfied un des titres est consacrÃ© au mont Saint-Michel ?",
+        "propositions": [
+          "Amarok",
+          "Discovery",
+          "Crises",
+          "Voyager"
+        ],
+        "rÃ©ponse": "Voyager",
+        "anecdote": "L'album contient cinq reprises de traditionnels celtiques, une reprise de galicien Luar na Lubre et quatre compositions originales."
+      },
+      {
+        "id": 29,
+        "question": "En quelle annÃ©e un timbre de 3 francs franÃ§ais reprÃ©sentait-il le mont Saint-Michel ?",
+        "propositions": [
+          "1998",
+          "1978",
+          "1968",
+          "1988"
+        ],
+        "rÃ©ponse": "1998",
+        "anecdote": "En 1998, un nouveau timbre de 3 francs franÃ§ais, avec son aspect multicolore, sera Ã©lu Ã  l'unanimitÃ© plus beau timbre de l'annÃ©e."
+      },
+      {
+        "id": 30,
+        "question": "Quel musÃ©e des manuscrits du Mont Saint-Michel est installÃ© Ã  Avranches ?",
+        "propositions": [
+          "Richard-AnacrÃ©on",
+          "Granit",
+          "Maison de la Baie",
+          "Scriptorial"
+        ],
+        "rÃ©ponse": "Scriptorial",
+        "anecdote": "Ouvert en 2006, son objectif est de faire dÃ©couvrir l'exceptionnelle collection des manuscrits de l'ancienne abbaye du mont."
+      },
+      {
+        "id": 1,
+        "question": "Qui est devenue en 2021 l'artiste fÃ©minine la plus rÃ©compensÃ©e des Grammy Awards ?",
+        "propositions": [
+          "Taylor Swift",
+          "Billie Ellish",
+          "Dua Lipa",
+          "BeyoncÃ©"
+        ],
+        "rÃ©ponse": "BeyoncÃ©",
+        "anecdote": "Taylor SwiftÂ est quant Ã  elle devenue la premiÃ¨re artiste fÃ©minine Ã  dÃ©crocher Ã  trois reprises le trophÃ©e de l'album de l'annÃ©e."
+      },
+      {
+        "id": 2,
+        "question": "Quel ancien prÃ©sident de la RÃ©publique a Ã©tÃ© condamnÃ© Ã  trois ans de prison ?",
+        "propositions": [
+          "FranÃ§ois Hollande",
+          "FranÃ§ois Mitterrand",
+          "Jacques Chirac",
+          "Nicolas Sarkozy"
+        ],
+        "rÃ©ponse": "Nicolas Sarkozy",
+        "anecdote": "L'ex-chef de l'Ã‰tat a Ã©tÃ© reconnu coupable de corruption et trafic d'influenceÂ dans l'affaire dite des Ã©coutes remontant Ã  2014."
+      },
+      {
+        "id": 3,
+        "question": "Quel ancien prÃ©sident de la RÃ©publique a Ã©tÃ© condamnÃ© Ã  trois ans de prison ?",
+        "propositions": [
+          "FranÃ§ois Hollande",
+          "Nicolas Sarkozy",
+          "FranÃ§ois Mitterrand",
+          "Jacques Chirac"
+        ],
+        "rÃ©ponse": "Nicolas Sarkozy",
+        "anecdote": "L'ex-chef de l'Ã‰tat a Ã©tÃ© reconnu coupable de corruption et trafic d'influenceÂ dans l'affaire dite des Ã©coutes remontant Ã  2014."
+      },
+      {
+        "id": 4,
+        "question": "Qui a vu son fils Milann refusÃ© Ã  la crÃ¨che pour absence de test COVID-19 ?",
+        "propositions": [
+          "Sarah Fraisou",
+          "Nabila Benattia",
+          "Sarah Lopez",
+          "Vanessa Lawrens"
+        ],
+        "rÃ©ponse": "Nabila Benattia",
+        "anecdote": "Le couple qui voyage rÃ©guliÃ¨rement dans le reste du monde est habituÃ© aux tests de dÃ©pistage, mais Ils ont oubliÃ© leur fils."
+      },
+      {
+        "id": 5,
+        "question": "Quelle ex-star d'Â« Alerte Ã  Malibu Â» aimerait s'installer sur la propriÃ©tÃ© de sa grand-mÃ¨re ?",
+        "propositions": [
+          "Erika Eleniak",
+          "Nicole Eggert",
+          "Pamela Anderson",
+          "Yasmine Bleeth"
+        ],
+        "rÃ©ponse": "Pamela Anderson",
+        "anecdote": "MariÃ©e avec son ancien garde du corps, Dan Hayhurst, la star a pris une grande dÃ©cision : quitter la ville de Los Angeles."
+      },
+      {
+        "id": 6,
+        "question": "Quel cÃ©lÃ¨bre golfeur a quittÃ© l'hÃ´pital en mars 2021 aprÃ¨s un grave accident de voiture ?",
+        "propositions": [
+          "Mike Weir",
+          "Bubba Watson",
+          "Tiger Woods",
+          "Zach Johnson"
+        ],
+        "rÃ©ponse": "Tiger Woods",
+        "anecdote": "Il souffrait deÂ fractures ouvertes aux jambes et aux chevillesÂ qui avaient nÃ©cessitÃ©Â plusieurs longues opÃ©rations."
+      },
+      {
+        "id": 7,
+        "question": "Qui s'est littÃ©ralement mise Ã  nu aux CÃ©sar 2021 pour soutenir les intermittents ?",
+        "propositions": [
+          "Isabelle CarrÃ©",
+          "Marina FoÃ¯s",
+          "Corinne Masiero",
+          "Virginie Efira"
+        ],
+        "rÃ©ponse": "Corinne Masiero",
+        "anecdote": "Corinne Masiero a expliquÃ© qu'elle avait dÃ©jÃ  rÃ©flÃ©chi Ã  une action lorsqu'elle participait aux ateliers de l'acadÃ©mie des CÃ©sar."
+      },
+      {
+        "id": 8,
+        "question": "Quelle actrice de Â« Captain Marvel Â» a publiÃ© une reprise de l'artiste franÃ§aise Pomme ?",
+        "propositions": [
+          "Brie Larson",
+          "Emma Stone",
+          "Olivia Colman",
+          "Helen Mirren"
+        ],
+        "rÃ©ponse": "Brie Larson",
+        "anecdote": "L'actrice a repris Ã  la guitare Â« Je sais pas danser Â» de Pomme, sacrÃ©e artiste fÃ©minine de l'annÃ©e aux Victoires de la musique."
+      },
+      {
+        "id": 9,
+        "question": "Quels Ã©poux, condamnÃ©s pour fraude fiscale, ont Ã©tÃ© placÃ©s sous bracelet Ã©lectronique ?",
+        "propositions": [
+          "Ravera",
+          "Fromantin",
+          "Balkany",
+          "Ginoux"
+        ],
+        "rÃ©ponse": "Balkany",
+        "anecdote": "Patrick et Isabelle Balkany doivent rester dans leur propriÃ©tÃ© de Giverny afin de purger leur condamnation Ã  trois ans de prison."
+      },
+      {
+        "id": 10,
+        "question": "Quel proche de Jean-Jacques Goldman a dÃ©cidÃ© de quitter la troupe des EnfoirÃ©s ?",
+        "propositions": [
+          "Michael Jones",
+          "Erick Benzi",
+          "Guy Delacroix",
+          "Gildas Arzel"
+        ],
+        "rÃ©ponse": "Michael Jones",
+        "anecdote": "Michael Jones a toutefois Ã©mis son souhait de continuer Ã  participer auprÃ¨s des Restos du Coeur, dÃ©plorant la crise sanitaire actuelle."
+      },
+      {
+        "id": 11,
+        "question": "Quelle candidate emblÃ©matique des Â« Marseillais Â» fut accusÃ©e de sorcellerie ?",
+        "propositions": [
+          "Laura Marra",
+          "StÃ©phanie Durant",
+          "Manon Tanti",
+          "Carla Moreau"
+        ],
+        "rÃ©ponse": "Carla Moreau",
+        "anecdote": "Plusieurs messages vocaux divulguÃ©s avec la voix de Carla confirment qu'elle est bien Ã  l'origine de ces requÃªtes obscures."
+      },
+      {
+        "id": 12,
+        "question": "Quel acteur de la sÃ©rie Stargate SG-1 est dÃ©cÃ©dÃ© d'un accident de kitesurf ?",
+        "propositions": [
+          "Cliff Simon",
+          "Christopher Judge",
+          "Ben Browder",
+          "Michael Shanks"
+        ],
+        "rÃ©ponse": "Cliff Simon",
+        "anecdote": "L'acteur sud-africain Cliff Simon, dÃ©cÃ©dÃ© Ã  l'Ã¢ge de 58 ans, incarnait le mÃ©chant Ba'alÂ dans le show de science fiction."
+      },
+      {
+        "id": 13,
+        "question": "Quelle star des podiums a fait son retour en 2021 avec des cheveux roux flamboyants ?",
+        "propositions": [
+          "Tyra Banks",
+          "Kate Upton",
+          "Alex Morgan",
+          "Gigi Hadid"
+        ],
+        "rÃ©ponse": "Gigi Hadid",
+        "anecdote": "IdÃ©ale pour donner du caractÃ¨re au visage, le roux est de plus en plus convoitÃ© par les cÃ©lÃ©britÃ©s du monde entier."
+      },
+      {
+        "id": 14,
+        "question": "Quelle animatrice au regard de braise a annoncÃ© son mariage avec Marco Verratti ?",
+        "propositions": [
+          "Laura Zazzara",
+          "Cindy Bruna",
+          "Carol Cabrino",
+          "Jessica Aidi"
+        ],
+        "rÃ©ponse": "Jessica Aidi",
+        "anecdote": "La nouvelle bookeuse des Â« Marseillais Â», avec ses jambes de gazelle, file depuis 2019 le parfait amour avec le footballeur italien."
+      },
+      {
+        "id": 15,
+        "question": "Quelle chanteuse installÃ©e Ã  Sydney a mis fin Ã  sa relation avec Romain Gavras ?",
+        "propositions": [
+          "Melanie Brown",
+          "Dannii Minogue",
+          "Kelly Rowland",
+          "Rita Ora"
+        ],
+        "rÃ©ponse": "Rita Ora",
+        "anecdote": "Selon un proche de Romain Gavras, les engagements professionnels respectifs des deux artistes Ã©taient trop chronophages."
+      },
+      {
+        "id": 16,
+        "question": "Quelle cÃ©lÃ¨bre soeur a donnÃ© naissance Ã  Grace Elizabeth Jan le 15 mars 2021 ?",
+        "propositions": [
+          "Pippa Middleton",
+          "Nicole Richie",
+          "ChloÃ© Kardashian",
+          "Nicky Hilton"
+        ],
+        "rÃ©ponse": "Pippa Middleton",
+        "anecdote": "Pippa Middleton Ã©tait dÃ©jÃ  maman d'un petit garÃ§on, Arthur Michael William, Ã  qui elle avait donnÃ© naissance le 15 octobre 2018."
+      },
+      {
+        "id": 17,
+        "question": "Quelle actrice italienne continue Ã  penser Ã  Nathalie Delon sur son compte Instagram ?",
+        "propositions": [
+          "Sveva Alviti",
+          "Manuela Arcuri",
+          "Sonia Aquino",
+          "Celeste Almieri"
+        ],
+        "rÃ©ponse": "Sveva Alviti",
+        "anecdote": "Depuis l'annonce de sa mort,Â celle qui s'est fiancÃ©e Ã  Anthony DelonÂ ne cesse de rendre hommage Ã  la femme qu'elle admirait tant."
+      },
+      {
+        "id": 18,
+        "question": "Quelle meilleure amie d'Eva Longoria lui a fait un beau clin d'oeil pour son anniversaire ?",
+        "propositions": [
+          "Brie Larson",
+          "Pippa Middleton",
+          "Paris Hilton",
+          "Victoria Beckham"
+        ],
+        "rÃ©ponse": "Victoria Beckham",
+        "anecdote": "RÃ©vÃ©lÃ©e grÃ¢ce Ã  son rÃ´le de Gabrielle Solis dans la sÃ©rie Â« Desperate Housewives Â»,Â Eva Longoria a fÃªtÃ© le 15 mars 2021 ses 46 ans."
+      },
+      {
+        "id": 19,
+        "question": "Quelle star ibÃ©rique a optÃ© en mars 2021 pour un carrÃ© net et plongeant ?",
+        "propositions": [
+          "Elsa Pataky",
+          "Adriana Ugarte",
+          "Penelope Cruz",
+          "Maria Pedraza"
+        ],
+        "rÃ©ponse": "Penelope Cruz",
+        "anecdote": "Sur Instagram, la publication de Penelope Cruz a fait sensation :Â lÃ¨vres colorÃ©es, visage tournÃ© vers la lumiÃ¨re et dÃ©colletÃ© gÃ©nÃ©reux."
+      },
+      {
+        "id": 20,
+        "question": "Qui a twittÃ© en mars 2021 que le Vatican aurait financÃ© le biopic Â« Rocketman Â» ?",
+        "propositions": [
+          "Mick Jagger",
+          "Sting",
+          "Elton John",
+          "Mika"
+        ],
+        "rÃ©ponse": "Elton John",
+        "anecdote": "Le lundi 15 mars 2021, le Vatican a pourtant rappelÃ© la doctrine selon laquelleÂ l'union des couples homosexuels est un pÃ©chÃ©."
+      },
+      {
+        "id": 21,
+        "question": "Sur quelle marque Kate Middleton a-t-elle jetÃ© son dÃ©volu en mars 2021 ?",
+        "propositions": [
+          "Next",
+          "Gap",
+          "J. Crew",
+          "Boden"
+        ],
+        "rÃ©ponse": "Boden",
+        "anecdote": "Bonne nouvelleÂ : sachez que son pull tendance rose bonbon est actuellement disponible sur le site de la marque pour 90 euros."
+      },
+      {
+        "id": 22,
+        "question": "Quelle star de la chanson sÃ©nÃ©galaise s'est Ã©teinte Ã  l'Ã¢ge de 66 ans ?",
+        "propositions": [
+          "Idrissa Diop",
+          "Mola Sylla",
+          "Faada Freddy",
+          "Thione Seck"
+        ],
+        "rÃ©ponse": "Thione Seck",
+        "anecdote": "En 1984, son groupe s'Ã©tait offert une tournÃ©e europÃ©enne, avec des titres comme Â« AllÃ´ Petit Â», Â« Orientissime Â» et Â« Diaga Â»."
+      },
+      {
+        "id": 23,
+        "question": "Quelle actrice amÃ©ricaine, plus jeune, a fortement souffert de bÃ©gaiement ?",
+        "propositions": [
+          "Mila Kunis",
+          "Tilda Swinton",
+          "Anne Hathaway",
+          "Emily Blunt"
+        ],
+        "rÃ©ponse": "Emily Blunt",
+        "anecdote": "Emily Blunt n'a pendant longtemps pas eu confiance en elle Ã  cause de ce handicap hÃ©rÃ©ditaire (grand-pÃ¨re et cousin)."
+      },
+      {
+        "id": 24,
+        "question": "Qui fut la premiÃ¨re femme noire Ã  signer une photo en couverture de Vogue US ?",
+        "propositions": [
+          "Khadija Saye",
+          "LeÃ¯la Alaoui",
+          "Nadine Ijewere",
+          "Yosra El-Essawy"
+        ],
+        "rÃ©ponse": "Nadine Ijewere",
+        "anecdote": "Le 9 mars 2021,Â le cÃ©lÃ¨bre magazine de mode amÃ©ricain a levÃ© le voile sur la Une de son numÃ©ro d'avrilÂ avec Selena Gomez."
+      },
+      {
+        "id": 25,
+        "question": "Quel trouble obsessionnel Pierre Niney partage-t-il avec Guillaume Canet ?",
+        "propositions": [
+          "Rage narcissique",
+          "Trahison",
+          "Maniaque du contrÃ´le",
+          "MÃ©galomanie"
+        ],
+        "rÃ©ponse": "Maniaque du contrÃ´le",
+        "anecdote": "Ces deux acteurs ont besoin de tout contrÃ´ler, tout le temps, Ã  tel point que Guillaume Canet ira pour cela consulter un psy."
+      },
+      {
+        "id": 26,
+        "question": "Quel surnom fut donnÃ© Ã  Loana lors de son sÃ©jour en hÃ´pital psychiatrique en 2021 ?",
+        "propositions": [
+          "Louna",
+          "LadyLoft",
+          "Puce",
+          "Pool"
+        ],
+        "rÃ©ponse": "Louna",
+        "anecdote": "Pour Ã©viter que tout le monde sache qu'elle Ã©tait prÃ©sente, elle fut appelÃ©e Louna, comme une louve, celle qui protÃ¨ge les autres."
+      },
+      {
+        "id": 27,
+        "question": "Avec quelle romanciÃ¨re de 34 ans sa cadette Marc Lavoine file-t-il le parfait amour ?",
+        "propositions": [
+          "Lolita Pille",
+          "Marie Pavlenko",
+          "Line Papin",
+          "Julie Peyr"
+        ],
+        "rÃ©ponse": "Line Papin",
+        "anecdote": "DepuisÂ leur mariage au mois de juillet 2020, la romanciÃ¨re Line Papin et le chanteur Marc Lavoine vivent sur un petit nuage."
+      },
+      {
+        "id": 28,
+        "question": "Quelle marque italienne a choisi Hailey Bieber pour sa campagne 2021 ?",
+        "propositions": [
+          "Superga",
+          "Byblos",
+          "Fendi",
+          "Furla"
+        ],
+        "rÃ©ponse": "Superga",
+        "anecdote": "Connue pour avoir portÃ© des paires de Superga en coton, Hailey Bieber a Ã©tÃ© tout naturellement nommÃ©e ambassadrice de cette marque."
+      },
+      {
+        "id": 29,
+        "question": "Quel cÃ©lÃ¨bre transgenre s'est livrÃ© sans filtre au Time dans une interview en mars 2021 ?",
+        "propositions": [
+          "Elliot Page",
+          "Joey Soloway",
+          "Jim Sinclair",
+          "Kevin Barnes"
+        ],
+        "rÃ©ponse": "Elliot Page",
+        "anecdote": "C'est dÃ©but dÃ©cembre 2020 qu'Elliot Page, anciennementÂ actrice canadienne Ellen Page, a fait son coming-out transgenre."
+      },
+      {
+        "id": 30,
+        "question": "Quel agent des stars de la tÃ©lÃ©-rÃ©alitÃ© conseille Emmanuel et Brigitte Macron ?",
+        "propositions": [
+          "Niara Bely",
+          "Ornella Barra",
+          "Sophie Bellon",
+          "Magali Berdah"
+        ],
+        "rÃ©ponse": "Magali Berdah",
+        "anecdote": "Ã€ la tÃªteÂ d'une agence d'influenceurs, Shauna Events,Â Magali Berdah est une femme d'affaires avec laquelle il faut compter."
+      },
+      {
+        "id": 1,
+        "question": "Dans quel dÃ©partement franÃ§ais se visite la ville de Vannes ?",
+        "propositions": [
+          "VendÃ©e",
+          "Nord",
+          "Vosges",
+          "Morbihan"
+        ],
+        "rÃ©ponse": "Morbihan",
+        "anecdote": "De tous les dÃ©partements franÃ§ais de mÃ©tropole, c'est le seul Ã  avoir un nom fait entiÃ¨rement de termes non issus de la langue franÃ§aise."
+      },
+      {
+        "id": 2,
+        "question": "Comment appelle-t-on les habitants de la ville de Vannes ?",
+        "propositions": [
+          "Vannetais",
+          "Vannais",
+          "Vannois",
+          "Vannetois"
+        ],
+        "rÃ©ponse": "Vannetais",
+        "anecdote": "Il est Ã  noter que la ville est la deuxiÃ¨me plus peuplÃ©e du dÃ©partement aprÃ¨s LorientÂ et laÂ 5eÂ de laÂ rÃ©gion Bretagne."
+      },
+      {
+        "id": 3,
+        "question": "La ville de Vannes se situe Ã  l'entrÃ©e de quel golfe parsemÃ© de nombreuses Ã®les et Ã®lots ?",
+        "propositions": [
+          "Golfe du Morbihan",
+          "Golfe du Lion",
+          "Golfe de Sagone",
+          "Golfe de St Florent"
+        ],
+        "rÃ©ponse": "Golfe du Morbihan",
+        "anecdote": "Le golfe du Morbihan est une destination prisÃ©e pour la beautÃ© de ses paysages couvrant une centaine de kilomÃ¨tres carrÃ©s."
+      },
+      {
+        "id": 4,
+        "question": "Dans quelle rÃ©gion de France se situe la ville de Vannes ?",
+        "propositions": [
+          "Normandie",
+          "Hauts de France",
+          "Pays de Loire",
+          "Bretagne"
+        ],
+        "rÃ©ponse": "Bretagne",
+        "anecdote": "Le terme ArmoriqueÂ est utilisÃ© pour dÃ©signer la Bretagne et ce, mÃªme s'il dÃ©signait Ã  l'origine un ensemble plus vaste."
+      },
+      {
+        "id": 5,
+        "question": "Vannes se situe entre Quimper et quelle autre grande ville de France ?",
+        "propositions": [
+          "Laval",
+          "Bourges",
+          "Nantes",
+          "Bordeaux"
+        ],
+        "rÃ©ponse": "Nantes",
+        "anecdote": "L'histoire de Nantes est en grande partie liÃ©e Ã  celle de laÂ Bretagne, qui deviendra la capitale du duchÃ© au XVe siÃ¨cle."
+      },
+      {
+        "id": 6,
+        "question": "Quel grand conquÃ©rant de l'histoire a vaincu la Vannes antique ?",
+        "propositions": [
+          "Alexandre Le Grand",
+          "Attila",
+          "Jules CÃ©sar",
+          "XerxÃ¨s"
+        ],
+        "rÃ©ponse": "Jules CÃ©sar",
+        "anecdote": "Ambitieux et brillant, Jules CÃ©sar s'appuya sur le courant rÃ©formateur et dÃ©magogue pour son ascension politique."
+      },
+      {
+        "id": 7,
+        "question": "Combien de labels rÃ©compensent Vannes comme ville fleurie ?",
+        "propositions": [
+          "Cinq",
+          "Trois",
+          "Deux",
+          "Quatre"
+        ],
+        "rÃ©ponse": "Quatre",
+        "anecdote": "En 2017, plus de 4Â 700 communes furent labellisÃ©es, dont 249 qui possÃ¨dentÂ 4 fleurs (la rÃ©compense maximale du concours)."
+      },
+      {
+        "id": 8,
+        "question": "Vers quelle orientation politique la ville de Vannes est-elle plutÃ´t ancrÃ©e ?",
+        "propositions": [
+          "Gauche",
+          "Centre",
+          "Droite",
+          "ExtrÃªme droite"
+        ],
+        "rÃ©ponse": "Droite",
+        "anecdote": "EnÂ politique, le terme de droite dÃ©signe les courants politiques ayant une idÃ©ologie conservatrice, Ã©conomiquement libÃ©rale ou non."
+      },
+      {
+        "id": 9,
+        "question": "Quelle Ã®le franÃ§aise est la plus grande du Golfe du Morbihan ?",
+        "propositions": [
+          "ÃŽle Berder",
+          "ÃŽle aux Moines",
+          "ÃŽle de Gavrinis",
+          "ÃŽle d'Arz"
+        ],
+        "rÃ©ponse": "ÃŽle aux Moines",
+        "anecdote": "L'ÃŽle aux Moines fut habitÃ©e depuis l'Ã©poque nÃ©olithique comme l'attestent lesÂ dolmensÂ encore visibles ainsi que d'autres vestiges."
+      },
+      {
+        "id": 10,
+        "question": "Quel gallo-romain est le saint patron de la ville de Vannes ?",
+        "propositions": [
+          "Saint Barbare",
+          "Saint Patern",
+          "Saint Ronan",
+          "Saint Guenael"
+        ],
+        "rÃ©ponse": "Saint Patern",
+        "anecdote": "DÃ©cÃ©dÃ© entreÂ 490Â etÂ 511, ceÂ gallo-romainÂ est considÃ©rÃ© par beaucoup comme l'un desÂ sept saints fondateurs de la Bretagne."
+      },
+      {
+        "id": 11,
+        "question": "Quel peuple de Gaule celtique occupait le pays de Vannes ?",
+        "propositions": [
+          "VanÃ¨tes",
+          "VÃ©nigoths",
+          "VÃ©nÃ¨tes",
+          "Wisigoths"
+        ],
+        "rÃ©ponse": "VÃ©nÃ¨tes",
+        "anecdote": "Les VÃ©nÃ¨tes, dotÃ©s d'unÂ sÃ©nat, disposaient d'une flotte importante pour commercer avec lesÂ Ã®les Britanniques et laÂ pÃ©ninsule italienne."
+      },
+      {
+        "id": 12,
+        "question": "Laquelle de ces grandes villes de France est la plus proche de Vannes ?",
+        "propositions": [
+          "Angers",
+          "Le Mans",
+          "Nantes",
+          "Caen"
+        ],
+        "rÃ©ponse": "Nantes",
+        "anecdote": "Nantes se dÃ©veloppa grÃ¢ce Ã  ses circuits commerciaux hÃ©ritÃ©s du Moyen Ã‚ge, puis viendra l'Ã©poque des engagÃ©s blancs."
+      },
+      {
+        "id": 13,
+        "question": "Quel nom a Ã©tÃ© donnÃ© Ã  la cathÃ©drale catholique romaine de Vannes ?",
+        "propositions": [
+          "Saint-Jean",
+          "Saint-Paul",
+          "Saint-Luc",
+          "Saint-Pierre"
+        ],
+        "rÃ©ponse": "Saint-Pierre",
+        "anecdote": "Dans son ensemble, l'Ã©difice reste fidÃ¨le Ã  l'ancienne cathÃ©drale romane et comprend uneÂ nefÂ avec dix chapelles latÃ©rales."
+      },
+      {
+        "id": 14,
+        "question": "Le bagad de Vannes a remportÃ© quelle saison de Â« La France a un incroyable talent Â» ?",
+        "propositions": [
+          "Saison 7",
+          "Saison 9",
+          "Saison 8",
+          "Saison 6"
+        ],
+        "rÃ©ponse": "Saison 9",
+        "anecdote": "PrÃ©sentÃ©e par Alex GoudeÂ etÂ Louise Ekland, cette saison a Ã©tÃ© remportÃ©e avec plus de 90 % des voix des tÃ©lÃ©spectateurs."
+      },
+      {
+        "id": 15,
+        "question": "Contre quelle Ã©quipe Vannes fut-elle confrontÃ©e en finale de Coupe de la Ligue 2008-2009 ?",
+        "propositions": [
+          "Lorient",
+          "Marseille",
+          "Paris Saint-Germain",
+          "Bordeaux"
+        ],
+        "rÃ©ponse": "Bordeaux",
+        "anecdote": "La rencontre (au score final de 4-0) a eu lieu auÂ stade de FranceÂ le samedi 25 avril 2009, le coup d'envoi ayant Ã©tÃ© donnÃ© Ã  20h50."
+      },
+      {
+        "id": 16,
+        "question": "OÃ¹ se positionne sur une carte la ville de Vannes par rapport Ã  Nantes ?",
+        "propositions": [
+          "Au Nord-Ouest",
+          "Au Nord-Est",
+          "Au Sud-Est",
+          "Au Sud-Ouest"
+        ],
+        "rÃ©ponse": "Au Nord-Ouest",
+        "anecdote": "La ville de Vannes, desservie par la RN 165 sur le littoral sud breton, est Ã  la fois en bord de mer et Ã  l'intÃ©rieur des terres."
+      },
+      {
+        "id": 17,
+        "question": "Dans la sÃ©rie Â« Agathe KoltÃ¨s Â», dans quel chÃ¢teau se situait le commissariat de Police Ã  Vannes ?",
+        "propositions": [
+          "De l'Hermine",
+          "De police",
+          "Des grands ducs",
+          "Jules Simon"
+        ],
+        "rÃ©ponse": "De l'Hermine",
+        "anecdote": "Â« Agathe KoltÃ¨s Â»Â est une sÃ©rie policiÃ¨re franÃ§aiseÂ avec Philippine Leroy-Beaulieu diffusÃ©e surÂ France 3Â depuis leÂ 7Â maiÂ 2016."
+      },
+      {
+        "id": 18,
+        "question": "Quel homme politique franÃ§ais a fait ses Ã©tudes Ã  Vannes ?",
+        "propositions": [
+          "Jean-Marie Le Pen",
+          "Raymond Marcellin",
+          "Jean-Yves Le Drian",
+          "Christian Bonnet"
+        ],
+        "rÃ©ponse": "Jean-Marie Le Pen",
+        "anecdote": "Son pÃ¨re trouva la mort Ã  bord du chalutierÂ La PersÃ©vÃ©rance lorsque le bateau, qui pÃªchait laÂ sole, sauta sur une mine."
+      },
+      {
+        "id": 19,
+        "question": "Quel animal, principalement actif la nuit, reprÃ©sente fiÃ¨rement la ville de Vannes ?",
+        "propositions": [
+          "Dauphin",
+          "Ã‰cureuil",
+          "Hermine",
+          "Taureau"
+        ],
+        "rÃ©ponse": "Hermine",
+        "anecdote": "Les hermines furent introduites en Nouvelle-ZÃ©lande Ã  la fin du XIXe siÃ¨cle pour faire le mÃ©nage parmi les populations de souris."
+      },
+      {
+        "id": 20,
+        "question": "Ã€ quelle date ont lieu Ã  Vannes les dÃ©sormais cÃ©lÃ¨bres fÃªtes d'Arvor ?",
+        "propositions": [
+          "15 aoÃ»t",
+          "21 juin",
+          "14 juillet",
+          "1er mai"
+        ],
+        "rÃ©ponse": "15 aoÃ»t",
+        "anecdote": "On y procÃ¨de Ã  l'Ã©lection de la Reine des FÃªtes d'Arvor et de ses deux dauphines, qui devront reprÃ©senter le folklore breton."
+      },
+      {
+        "id": 21,
+        "question": "Quel cÃ©lÃ¨bre moine et ermite breton est nÃ© Ã  Vannes ?",
+        "propositions": [
+          "Gilles de Rais",
+          "Anne de Bretagne",
+          "Saint Ã‰milion",
+          "Du Guesclin"
+        ],
+        "rÃ©ponse": "Saint Ã‰milion",
+        "anecdote": "Un monastÃ¨re et une Ã©glise monolithe, creusÃ©e dans la falaise, furent Ã©difiÃ©s aprÃ¨s la mort de Saint Ã‰milion, au XIe et XIIe siÃ¨cle."
+      },
+      {
+        "id": 22,
+        "question": "Quel nom gallo-romain a Ã©tÃ© donnÃ© Ã  la ville de Vannes ?",
+        "propositions": [
+          "Vernum",
+          "Massalia",
+          "Vanitium",
+          "Darioritum"
+        ],
+        "rÃ©ponse": "Darioritum",
+        "anecdote": "AuÂ IIIeÂ siÃ¨cle,Â la citÃ© va largement dÃ©border du site initial et occuper la colline du MenÃ© qui constitue aujourd'hui le coeur historique."
+      },
+      {
+        "id": 23,
+        "question": "Quelle ville de Belgique est jumelÃ©e avec la ville de Vannes ?",
+        "propositions": [
+          "Bruges",
+          "LiÃ¨ge",
+          "Gand",
+          "Mons"
+        ],
+        "rÃ©ponse": "Mons",
+        "anecdote": "Mons se situe Ã Â 60Â kmÂ au sud-ouest de la capitaleÂ Bruxelles, Ã  environ 240 km au nord-est deÂ Paris, Ã Â 75Â kmÂ Ã  l'est deÂ Lille."
+      },
+      {
+        "id": 24,
+        "question": "Quelle actrice franÃ§aise cÃ©lÃ¨bre possÃ©dait une Ã®le prÃ¨s de Vannes ?",
+        "propositions": [
+          "Arletty",
+          "Danielle Darrieux",
+          "Denise Grey",
+          "MichÃ¨le Morgan"
+        ],
+        "rÃ©ponse": "Danielle Darrieux",
+        "anecdote": "Danielle Darrieux a vÃ©cu avec Jacques Jenvrin entre une villa de Larmor-Baden (Morbihan) et une maison de Bois-le-Roi (Eure)."
+      },
+      {
+        "id": 25,
+        "question": "Quel est le nom breton de la ville de Vannes, situÃ©e en Basse-Bretagne ?",
+        "propositions": [
+          "Gwened",
+          "Gwenrann",
+          "Gwitreg",
+          "Roazhon"
+        ],
+        "rÃ©ponse": "Gwened",
+        "anecdote": "Certains ont Ã©tÃ© tentÃ©s de traduire le nomÂ bretonÂ de la ville enÂ franÃ§ais et l'ont interprÃ©tÃ© comme signifiant Â« blÃ© blanc Â»."
+      },
+      {
+        "id": 26,
+        "question": "Quelle cÃ©lÃ¨bre HÃ©lÃ¨ne du cinÃ©ma franÃ§ais est nÃ©e Ã  Vannes ?",
+        "propositions": [
+          "Vincent",
+          "De Fougerolles",
+          "RollÃ¨s",
+          "Duc"
+        ],
+        "rÃ©ponse": "De Fougerolles",
+        "anecdote": "Elle s'est orientÃ©e vers un CAP esthÃ©tique-cosmÃ©tique, mais elle arrÃªta ses Ã©tudes Ã  l'Ã¢ge de quinze ans afin de devenir actrice."
+      },
+      {
+        "id": 27,
+        "question": "Devant quel roi fut proclamÃ©e, Ã  Vannes, l'union de la Bretagne Ã  la France ?",
+        "propositions": [
+          "Louis XIV",
+          "Henri IV",
+          "FranÃ§ois 1er",
+          "Louis XII"
+        ],
+        "rÃ©ponse": "FranÃ§ois 1er",
+        "anecdote": "Ã€ la mort deÂ Claude de France,Â FranÃ§ois 1erÂ commet l'erreur de dÃ©signer le dauphinÂ FranÃ§oisÂ comme hÃ©ritier de la Bretagne."
+      },
+      {
+        "id": 28,
+        "question": "Quel vaste plan d'eau se situe dans la ville de Vannes ?",
+        "propositions": [
+          "Ã‰tang d'Arz",
+          "Ã‰tang de Rohan",
+          "Ã‰tang de Patern",
+          "Ã‰tang au Duc"
+        ],
+        "rÃ©ponse": "Ã‰tang au Duc",
+        "anecdote": "Il s'agirait d'une ancienne carriÃ¨re dont on aurait tirÃ© les pierres nÃ©cessaires Ã  la construction de la premiÃ¨re ville gallo-romaine."
+      },
+      {
+        "id": 29,
+        "question": "Quel fleuve cÃ´tier se jette dans le golfe du Morbihan Ã  Vannes ?",
+        "propositions": [
+          "Blavet",
+          "Odet",
+          "Loire",
+          "Marle"
+        ],
+        "rÃ©ponse": "Marle",
+        "anecdote": "CanalisÃ©e, la Marle passe devant le jardin desÂ rempartsÂ et se mÃªle aux eaux du golfe aprÃ¨s laÂ porte Saint-Vincent."
+      },
+      {
+        "id": 30,
+        "question": "Quel grand parc amÃ©nagÃ© en hauteur fait face aux remparts de Vannes ?",
+        "propositions": [
+          "Jardin des Remparts",
+          "Parc de KÃ©rizac",
+          "Square Droalen",
+          "Parc de la Garenne"
+        ],
+        "rÃ©ponse": "Parc de la Garenne",
+        "anecdote": "VÃ©ritable symbole de la ville de Vannes, les remparts, en particulier la muraille Est, sont apprÃ©ciÃ©s par les voyageurs et artistes."
+      },
+      {
+        "id": 1,
+        "question": "Combien de personnes forment le groupe humoristique franÃ§ais Les Inconnus ?",
+        "propositions": [
+          "4",
+          "6",
+          "3",
+          "5"
+        ],
+        "rÃ©ponse": "3",
+        "anecdote": "Ils Ã©taient initialement cinq, avecÂ SmaÃ¯nÂ etÂ Seymour BrusselÂ qui quitteront le groupe aprÃ¨s un an."
+      },
+      {
+        "id": 2,
+        "question": "Au Scrabble, combien de points valent les lettres K, W, X, Y et Z ?",
+        "propositions": [
+          "12",
+          "6",
+          "8",
+          "10"
+        ],
+        "rÃ©ponse": "10",
+        "anecdote": "Il existe trois championnats du monde de ScrabbleÂ : anglophone, francophoneÂ et hispanophone."
+      },
+      {
+        "id": 3,
+        "question": "ComplÃ©tez ce titre de roman Ã©crit par Ray BradburyÂ : Â« Fahrenheit Â»...",
+        "propositions": [
+          "241",
+          "451",
+          "421",
+          "154"
+        ],
+        "rÃ©ponse": "451",
+        "anecdote": "Le titre fait rÃ©fÃ©rence auÂ point d'auto-inflammation, enÂ degrÃ©s Fahrenheit, du papier."
+      },
+      {
+        "id": 4,
+        "question": "Quel Ã©tait le numÃ©ro de maillot que portait Platini et Zidane en Ã©quipe de France ?",
+        "propositions": [
+          "9",
+          "10",
+          "11",
+          "8"
+        ],
+        "rÃ©ponse": "10",
+        "anecdote": "Lors de l'Euro 1984, Michel Platini a Ã©tabli un record de neuf buts marquÃ©s durant ce seul tournoi."
+      },
+      {
+        "id": 5,
+        "question": "Traditionnellement, combien y a-t-il de pieds Ã  une table de cuisine ?",
+        "propositions": [
+          "5",
+          "3",
+          "6",
+          "4"
+        ],
+        "rÃ©ponse": "4",
+        "anecdote": "Initialement destinÃ©es Ã  l'usage domestique, les tables ont aujourd'hui pÃ©nÃ©trÃ© le monde industriel."
+      },
+      {
+        "id": 6,
+        "question": "Au thÃ©Ã¢tre, combien de coups sont frappÃ©s avec un bÃ¢ton avant le lever du rideau ?",
+        "propositions": [
+          "Six",
+          "Cinq",
+          "Trois",
+          "Quatre"
+        ],
+        "rÃ©ponse": "Trois",
+        "anecdote": "Au thÃ©Ã¢tre, les trois coups sont frappÃ©s sur le plancher de la scÃ¨ne avec un bÃ¢ton appelÃ© brigadier."
+      },
+      {
+        "id": 7,
+        "question": "Combien de Guerres mondiales eurent lieu au cours du 20e siÃ¨cle ?",
+        "propositions": [
+          "Une seule",
+          "Trois",
+          "Quatre",
+          "Deux"
+        ],
+        "rÃ©ponse": "Deux",
+        "anecdote": "Avant la Seconde Guerre mondiale, la PremiÃ¨re Guerre mondiale Ã©tait appelÃ©eÂ la Â«Â Grande GuerreÂ Â»."
+      },
+      {
+        "id": 8,
+        "question": "En Europe, de combien de chiffres se compose le code PIN d'une carte bancaire ?",
+        "propositions": [
+          "3",
+          "5",
+          "6",
+          "4"
+        ],
+        "rÃ©ponse": "4",
+        "anecdote": "Le code PIN est par exemple utilisÃ© sur unÂ tÃ©lÃ©phone mobileÂ ou un smartphone Ã©quipÃ©s d'une carte SIM."
+      },
+      {
+        "id": 9,
+        "question": "Combien de personnes formaient autrefois le groupe de musique ABBA ?",
+        "propositions": [
+          "Quatre",
+          "Trois",
+          "Six",
+          "Cinq"
+        ],
+        "rÃ©ponse": "Quatre",
+        "anecdote": "En janvier 2010, une exposition temporaire, baptisÃ©e Â« ABBA World Â», a ouvert ses portes Ã  Londres."
+      },
+      {
+        "id": 10,
+        "question": "En 1998, combien de buts marqua la France en finale de la Coupe du monde de football ?",
+        "propositions": [
+          "Deux",
+          "Cinq",
+          "Quatre",
+          "Trois"
+        ],
+        "rÃ©ponse": "Trois",
+        "anecdote": "Le dÃ©but de cette coupe du monde est endeuillÃ© par la disparition du coprÃ©sident Fernand Sastre."
+      },
+      {
+        "id": 11,
+        "question": "Lors de la premiÃ¨re saison, combien d'heures a durÃ© l'aventure de l'agent Jack Bauer ?",
+        "propositions": [
+          "24",
+          "20",
+          "22",
+          "18"
+        ],
+        "rÃ©ponse": "24",
+        "anecdote": "Les auteurs de Â« 24 Â» ont collaborÃ© avec Sutherland pour crÃ©er une Â«Â partieÂ Â» de Jack Bauer."
+      },
+      {
+        "id": 12,
+        "question": "Combien de minutes rÃ©glementaires constituent un match de rugby Ã  XV ?",
+        "propositions": [
+          "40",
+          "20",
+          "60",
+          "80"
+        ],
+        "rÃ©ponse": "80",
+        "anecdote": "L'International Rugby BoardÂ (IRB), crÃ©Ã© enÂ 1886, gouverne ce sport et en publie lesÂ rÃ¨gles."
+      },
+      {
+        "id": 13,
+        "question": "Ã€ quel Ã¢ge Jim Morrison, cÃ©lÃ¨bre chanteurs des Doors, a-t-il trouvÃ© la mort ?",
+        "propositions": [
+          "47 ans",
+          "37 ans",
+          "57 ans",
+          "27 ans"
+        ],
+        "rÃ©ponse": "27 ans",
+        "anecdote": "Jim Morrison Ã©tait devenu une vÃ©ritable idole de laÂ musique rock, mais aussi un intellectuel engagÃ©."
+      },
+      {
+        "id": 14,
+        "question": "Quel est le numÃ©ro de maillot que Michael Jordan a portÃ© avec les Chicago Bulls ?",
+        "propositions": [
+          "23",
+          "3",
+          "33",
+          "13"
+        ],
+        "rÃ©ponse": "23",
+        "anecdote": "Michael Jordan possÃ¨de aujourd'hui sa propre Ã©curie deÂ superbikeÂ ainsi que de nombreux restaurants."
+      },
+      {
+        "id": 15,
+        "question": "Combien de films la saga Â« Retour vers le futur Â» comporte-t-elle ?",
+        "propositions": [
+          "Trois",
+          "Quatre",
+          "Cinq",
+          "Six"
+        ],
+        "rÃ©ponse": "Trois",
+        "anecdote": "InspirÃ©e de l'oeuvre de RenÃ© Barjavel, Â« le voyageur imprudent Â», la trilogie met en exergue deux paradoxes."
+      },
+      {
+        "id": 16,
+        "question": "Lors de la saison 2014 de F1, sur 19 Grand Prix, combien Lewis Hamilton en a-t-il gagnÃ© ?",
+        "propositions": [
+          "9",
+          "7",
+          "11",
+          "13"
+        ],
+        "rÃ©ponse": "11",
+        "anecdote": "Lewis Hamilton est l'un des plus proches amis deÂ Rowan Atkinson, cÃ©lÃ¨bre crÃ©ateur et interprÃ¨te du personnage deÂ Mr. Bean."
+      },
+      {
+        "id": 17,
+        "question": "Combien de fois Pamela Anderson est-elle apparu en couverture du Â« Playboy Â» amÃ©ricain ?",
+        "propositions": [
+          "11",
+          "9",
+          "7",
+          "13"
+        ],
+        "rÃ©ponse": "13",
+        "anecdote": "Pamela Anderson milite Ã©galement activement pour la dÃ©fense animale, notamment aux cÃ´tÃ©s de l'associationÂ PETA."
+      },
+      {
+        "id": 18,
+        "question": "Quel est le numÃ©ro de l'adresse qui abrite le Palais de l'Ã‰lysÃ©e, rue Faubourg Saint-HonorÃ© ?",
+        "propositions": [
+          "33",
+          "99",
+          "55",
+          "77"
+        ],
+        "rÃ©ponse": "55",
+        "anecdote": "LeÂ palais de l'Ã‰lysÃ©eÂ est unÂ hÃ´tel particulierÂ parisien construit par l'architecte Armand-Claude Mollet en 1720."
+      },
+      {
+        "id": 19,
+        "question": "Combien sont les frÃ¨res Wachowski, devenus soeurs, rÃ©alisateurs de la trilogie Â« Matrix Â» ?",
+        "propositions": [
+          "3",
+          "2",
+          "4",
+          "5"
+        ],
+        "rÃ©ponse": "2",
+        "anecdote": "Suite Ã  leurÂ changement d'identitÃ© de genre, Larry est devenu Lana et Andy est devenu Lilly."
+      },
+      {
+        "id": 20,
+        "question": "Le 11 septembre 2001, combien d'avions ont percutÃ© les deux tours du World Trade Center ?",
+        "propositions": [
+          "3",
+          "4",
+          "2",
+          "5"
+        ],
+        "rÃ©ponse": "2",
+        "anecdote": "Les Ã©vÃ©nements du 11 septembre ont Ã©tÃ© vÃ©cus presque en temps rÃ©el par des centaines de millions deÂ tÃ©lÃ©spectateurs."
+      },
+      {
+        "id": 21,
+        "question": "Combien d'Ã©pisodes de la sÃ©rie tÃ©lÃ©visÃ©e Â« Friends Â» ont Ã©tÃ© tournÃ©s au total ?",
+        "propositions": [
+          "236",
+          "256",
+          "186",
+          "216"
+        ],
+        "rÃ©ponse": "236",
+        "anecdote": "La popularitÃ© deÂ Â« Friends Â»Â a attirÃ© vers cetteÂ sitcomÂ un nombre important d'apparitions d'acteurs de premier plan."
+      },
+      {
+        "id": 22,
+        "question": "Combien de romans ont pour protagoniste FantÃ´mas, hÃ©ros Ã  la silhouette encagoulÃ©e ?",
+        "propositions": [
+          "22",
+          "32",
+          "12",
+          "42"
+        ],
+        "rÃ©ponse": "32",
+        "anecdote": "Â« FantÃ´mas Â»Â demeure un des feuilletons les plus marquants de la littÃ©rature populaire en France."
+      },
+      {
+        "id": 23,
+        "question": "Durant combien d'annÃ©es John Fitzgerald Kennedy a-t-il Ã©tÃ© PrÃ©sident des Ã‰tats-Unis ?",
+        "propositions": [
+          "2",
+          "5",
+          "4",
+          "3"
+        ],
+        "rÃ©ponse": "2",
+        "anecdote": "John Fitzgerald Kennedy reste Ã  ce jour le seul prÃ©sident amÃ©ricain deÂ confession catholique."
+      },
+      {
+        "id": 24,
+        "question": "Combien de pays sont frontaliers avec la RÃ©publique populaire de Chine ?",
+        "propositions": [
+          "12",
+          "10",
+          "16",
+          "14"
+        ],
+        "rÃ©ponse": "14",
+        "anecdote": "Ce nombre en fait, Ã  Ã©galitÃ© avec la Russie, l'Ã‰tat avec le plus de voisinsÂ au monde."
+      },
+      {
+        "id": 25,
+        "question": "De combien dÂ 'Ã©pisodes est composÃ©e la sÃ©rie tÃ©lÃ©visÃ©e Ã  succÃ¨s Â« Breaking Bad Â» ?",
+        "propositions": [
+          "52",
+          "42",
+          "62",
+          "32"
+        ],
+        "rÃ©ponse": "62",
+        "anecdote": "La sÃ©rie se concentre surÂ Walter Â« Walt Â» White, un professeur deÂ chimieÂ sur-qualifiÃ© et pÃ¨re de famille."
+      },
+      {
+        "id": 26,
+        "question": "Combien de fois le pilote Ayrton Senna a-t-il Ã©tÃ© champion du monde de Formule 1 ?",
+        "propositions": [
+          "2",
+          "5",
+          "3",
+          "4"
+        ],
+        "rÃ©ponse": "3",
+        "anecdote": "Ayrton Senna reste une vÃ©ritable idole au BrÃ©sil oÃ¹ son statut a dÃ©passÃ© celui de simple champion sportif."
+      },
+      {
+        "id": 27,
+        "question": "VÃ©ritable icÃ´ne culturelle, en quelle annÃ©e le boxeur Mohamed Ali est-il dÃ©cÃ©dÃ© ?",
+        "propositions": [
+          "2012",
+          "2014",
+          "2016",
+          "2010"
+        ],
+        "rÃ©ponse": "2016",
+        "anecdote": "Mohamed Ali a Ã©tÃ© dÃ©corÃ© en 2005 de laÂ MÃ©daille prÃ©sidentielle de la LibertÃ©."
+      },
+      {
+        "id": 28,
+        "question": "AprÃ¨s combien de secondes la navette spatiale Challenger explosa-t-elle en vol en 1986 ?",
+        "propositions": [
+          "93",
+          "53",
+          "113",
+          "73"
+        ],
+        "rÃ©ponse": "73",
+        "anecdote": "La navette porte le nom du bateau qui mesura le fond marin le plus profond du globe."
+      },
+      {
+        "id": 29,
+        "question": "Combien d'oeuvres le corpus Â« La ComÃ©die humaine Â» d'HonorÃ© de Balzac comporte-t-il ?",
+        "propositions": [
+          "73",
+          "63",
+          "93",
+          "83"
+        ],
+        "rÃ©ponse": "93",
+        "anecdote": "DouÃ© du gÃ©nie de l'observation, Balzac a crÃ©Ã© des types humains saisissants de vÃ©ritÃ©."
+      },
+      {
+        "id": 30,
+        "question": "Combien de sÃ©lections ZinÃ©dine Zidane a-t-il reÃ§u en Ã©quipe de France de football ?",
+        "propositions": [
+          "108",
+          "128",
+          "118",
+          "98"
+        ],
+        "rÃ©ponse": "108",
+        "anecdote": "CÃ©lÃ¨bre numÃ©ro 10 des Â«Â BleusÂ Â», Zidane met un terme Ã  sa carriÃ¨re Ã  la suite de la Coupe du monde 2006."
+      }
+    ]
+
+}
